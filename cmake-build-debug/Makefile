@@ -327,32 +327,59 @@ DataStructures/JRStack/StackNode.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.s
 .PHONY : DataStructures/JRStack/StackNode.cpp.s
 
-InterviewProblems/BreakIntoWords.o: InterviewProblems/BreakIntoWords.cpp.o
+InterviewProblems/BreakIntoWords/BreakIntoWords.o: InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o
 
-.PHONY : InterviewProblems/BreakIntoWords.o
+.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.o
 
 # target to build an object file
-InterviewProblems/BreakIntoWords.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o
-.PHONY : InterviewProblems/BreakIntoWords.cpp.o
+InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o
+.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o
 
-InterviewProblems/BreakIntoWords.i: InterviewProblems/BreakIntoWords.cpp.i
+InterviewProblems/BreakIntoWords/BreakIntoWords.i: InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.i
 
-.PHONY : InterviewProblems/BreakIntoWords.i
+.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.i
 
 # target to preprocess a source file
-InterviewProblems/BreakIntoWords.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.i
-.PHONY : InterviewProblems/BreakIntoWords.cpp.i
+InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.i
+.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.i
 
-InterviewProblems/BreakIntoWords.s: InterviewProblems/BreakIntoWords.cpp.s
+InterviewProblems/BreakIntoWords/BreakIntoWords.s: InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s
 
-.PHONY : InterviewProblems/BreakIntoWords.s
+.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.s
 
 # target to generate assembly for a file
-InterviewProblems/BreakIntoWords.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.s
-.PHONY : InterviewProblems/BreakIntoWords.cpp.s
+InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s
+.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s
+
+InterviewProblems/MinesweeperBoard/MinesweeperBoard.o: InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
+
+.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.o
+
+# target to build an object file
+InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
+.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
+
+InterviewProblems/MinesweeperBoard/MinesweeperBoard.i: InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.i
+
+.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.i
+
+# target to preprocess a source file
+InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.i
+.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.i
+
+InterviewProblems/MinesweeperBoard/MinesweeperBoard.s: InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
+
+.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.s
+
+# target to generate assembly for a file
+InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
+.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
 
 Tests/JRLinkedList/Test_JRLinkedList.o: Tests/JRLinkedList/Test_JRLinkedList.cpp.o
 
@@ -489,6 +516,60 @@ Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s
 .PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s
 
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.o: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
+
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.o
+
+# target to build an object file
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
+
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.i: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i
+
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i
+
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.s: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s
+
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s
+
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.o: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
+
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.o
+
+# target to build an object file
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
+
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.i: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i
+
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i
+
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.s: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
+
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
+.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
+
 cracking_code_interview/solutions1.o: cracking_code_interview/solutions1.cpp.o
 
 .PHONY : cracking_code_interview/solutions1.o
@@ -572,9 +653,12 @@ help:
 	@echo "... DataStructures/JRStack/StackNode.o"
 	@echo "... DataStructures/JRStack/StackNode.i"
 	@echo "... DataStructures/JRStack/StackNode.s"
-	@echo "... InterviewProblems/BreakIntoWords.o"
-	@echo "... InterviewProblems/BreakIntoWords.i"
-	@echo "... InterviewProblems/BreakIntoWords.s"
+	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.o"
+	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.i"
+	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.s"
+	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.o"
+	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.i"
+	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.s"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.o"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.i"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.s"
@@ -590,6 +674,12 @@ help:
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.o"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.i"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.s"
+	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.o"
+	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.i"
+	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.s"
+	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.o"
+	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.i"
+	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.s"
 	@echo "... cracking_code_interview/solutions1.o"
 	@echo "... cracking_code_interview/solutions1.i"
 	@echo "... cracking_code_interview/solutions1.s"

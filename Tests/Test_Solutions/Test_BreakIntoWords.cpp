@@ -1,6 +1,6 @@
 #include "gtest/gtest.h"
 
-#include "../../InterviewProblems/BreakIntoWords.h"
+#include "../../InterviewProblems/BreakIntoWords/BreakIntoWords.h"
 
 using std::string;
 using std::unordered_set;
@@ -13,14 +13,16 @@ void setupDictionary() {
     dictionary.insert("butter");
 }
 
+TEST(Test_BreakIntoWords, InputWithEmptyDictionary) {
+    EXPECT_EQ("", breakIntoWords("fastfisherman", dictionary));
+}
+
 TEST(Test_BreakIntoWords, EmptyString) {
+    setupDictionary();
     std::string emptyString = "";
     EXPECT_EQ("", breakIntoWords(emptyString, dictionary));
 }
 
-TEST(Test_BreakIntoWords, InputWithEmptyDictionary) {
-    EXPECT_EQ("", breakIntoWords("fastfisherman", dictionary));
-}
 
 TEST(Test_BreakIntoWords, PeanutString) {
     setupDictionary();

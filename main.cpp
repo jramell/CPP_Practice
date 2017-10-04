@@ -1,6 +1,6 @@
 #include <iostream>
 #include <random>
-#include "InterviewProblems/BreakIntoWords.h"
+#include "InterviewProblems/MinesweeperBoard/Matrix.h"
 #include <gtest/gtest.h>
 #include <gmock/gmock.h>
 #include <forward_list>
@@ -22,12 +22,9 @@ void runTests(int argc, char* argv[])
 int main(int argc, char* argv[])
 {
 /*    cout << "START" << endl;
-    unordered_set<string> dictionary;
-    dictionary.insert("pea");
-    dictionary.insert("nut");
-    dictionary.insert("butter");
-    string ans = breakIntoWords("peanutbutter", dictionary);
-    cout << ans << endl;
+    minesweeper::Matrix<int> matrix;
+    matrix.resize(10, 10);
+    cout << matrix.cols() << endl;
     cout << "END" << endl;*/
     runTests(argc, argv);
 }
