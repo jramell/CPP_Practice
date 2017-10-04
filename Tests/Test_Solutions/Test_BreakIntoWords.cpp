@@ -46,3 +46,43 @@ TEST(Test_BreakIntoWords, FastFisherman) {
     otherDictionary.insert("man");
     EXPECT_EQ("fast fisher man", breakIntoWords("fastfisherman", otherDictionary));
 }
+
+TEST(Test_BreakIntoWords, FastFishermanWithAInDictionary) {
+    unordered_set<string> otherDictionary;
+    otherDictionary.insert("fast");
+    otherDictionary.insert("fisher");
+    otherDictionary.insert("man");
+    otherDictionary.insert("a");
+    //choosing fast fisher man still maximizes broken string size
+    EXPECT_EQ("fast fisher man", breakIntoWords("fastfisherman", otherDictionary));
+}
+
+TEST(Test_BreakIntoWords, LongStringWithMediumDictionary) {
+    unordered_set<string> otherDictionary;
+    otherDictionary.insert("the");
+    otherDictionary.insert("great");
+    otherDictionary.insert("rather");
+    otherDictionary.insert("fast");
+    otherDictionary.insert("fisher");
+    otherDictionary.insert("man");
+    otherDictionary.insert("a");
+    otherDictionary.insert("and");
+    otherDictionary.insert("fish");
+    otherDictionary.insert("fisherman");
+    otherDictionary.insert("eat");
+    otherDictionary.insert("who");
+    otherDictionary.insert("eats");
+    otherDictionary.insert("fishes");
+    otherDictionary.insert("candy");
+    otherDictionary.insert("fishing");
+    otherDictionary.insert("boat");
+    otherDictionary.insert("woman");
+    otherDictionary.insert("greatness");
+    otherDictionary.insert("greater");
+    otherDictionary.insert("their");
+    otherDictionary.insert("eating");
+    otherDictionary.insert("fill");
+    otherDictionary.insert("greatest");
+    otherDictionary.insert("whom");
+    EXPECT_EQ("the rather great fisher man who eats fishes", breakIntoWords("therathergreatfishermanwhoeatsfishes", otherDictionary));
+}
