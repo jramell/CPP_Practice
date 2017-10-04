@@ -470,16 +470,6 @@ Search.h
 vector
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRDoublyLinkedList/DoublyLinkedList.cpp
-stdexcept
--
-DoublyLinkedList.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRDoublyLinkedList/DoublyLinkedList.h
-
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRDoublyLinkedList/DoublyLinkedList.h
-DoublyLinkedList.cpp
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRDoublyLinkedList/DoublyLinkedList.cpp
-
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.cpp
 stdexcept
 -
@@ -526,6 +516,20 @@ StackNode.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/StackNode.h
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords.cpp
+BreakIntoWords.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords.h
+vector
+-
+iostream
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords.h
+string
+-
+unordered_set
+-
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRLinkedList/Test_JRLinkedList.cpp
 gmock/gmock.h
 -
@@ -548,10 +552,28 @@ gtest/gtest.h
 ../../Algorithms/Search.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/Search.h
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_BreakIntoWords.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/gtest/gtest.h
+../../InterviewProblems/BreakIntoWords.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/gtest/gtest.h
+../../cracking_code_interview/4.8.FirstCommonAncestor.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/4.8.FirstCommonAncestor.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/4.8.FirstCommonAncestor.h
+unordered_set
+-
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/solutions1.cpp
 string
 -
 vector
+-
+unordered_set
 -
 solutions1.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/solutions1.h
@@ -563,18 +585,16 @@ string
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/main.cpp
 iostream
 -
-cracking_code_interview/solutions1.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/solutions1.h
-DataStructures/JRLinkedList/JRLinkedList.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
-DataStructures/JRStack/Stack.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/Stack.h
-DataStructures/JRDoublyLinkedList/DoublyLinkedList.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRDoublyLinkedList/DoublyLinkedList.h
+random
+-
+InterviewProblems/BreakIntoWords.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords.h
 gtest/gtest.h
 -
 gmock/gmock.h
 -
 forward_list
+-
+unordered_set
 -
 

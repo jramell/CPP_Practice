@@ -273,6 +273,78 @@ CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o.provides
 CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o
 
 
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../Tests/Test_Solutions/Test_FirstCommonAncestor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp > CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.i
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
+
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../Tests/Test_Solutions/Test_BreakIntoWords.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_BreakIntoWords.cpp
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_BreakIntoWords.cpp > CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.i
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_BreakIntoWords.cpp -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.s
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o
+
+
+CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o: ../InterviewProblems/BreakIntoWords.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords.cpp
+
+CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords.cpp > CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.i
+
+CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords.cpp -o CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.s
+
+CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o.provides: CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o.provides.build: CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o
+
+
 # Object files for target sergiotest
 sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/main.cpp.o" \
@@ -283,7 +355,10 @@ sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o" \
 "CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o" \
 "CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o" \
-"CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o"
+"CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o" \
+"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o" \
+"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o" \
+"CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o"
 
 # External object files for target sergiotest
 sergiotest_EXTERNAL_OBJECTS =
@@ -297,12 +372,15 @@ sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/build.make
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest_main.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: CMakeFiles/sergiotest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable sergiotest.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable sergiotest.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sergiotest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -319,6 +397,9 @@ CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/JRStack/Test
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o.requires
 
 .PHONY : CMakeFiles/sergiotest.dir/requires
 

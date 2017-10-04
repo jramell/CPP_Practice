@@ -327,6 +327,33 @@ DataStructures/JRStack/StackNode.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.s
 .PHONY : DataStructures/JRStack/StackNode.cpp.s
 
+InterviewProblems/BreakIntoWords.o: InterviewProblems/BreakIntoWords.cpp.o
+
+.PHONY : InterviewProblems/BreakIntoWords.o
+
+# target to build an object file
+InterviewProblems/BreakIntoWords.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o
+.PHONY : InterviewProblems/BreakIntoWords.cpp.o
+
+InterviewProblems/BreakIntoWords.i: InterviewProblems/BreakIntoWords.cpp.i
+
+.PHONY : InterviewProblems/BreakIntoWords.i
+
+# target to preprocess a source file
+InterviewProblems/BreakIntoWords.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.i
+.PHONY : InterviewProblems/BreakIntoWords.cpp.i
+
+InterviewProblems/BreakIntoWords.s: InterviewProblems/BreakIntoWords.cpp.s
+
+.PHONY : InterviewProblems/BreakIntoWords.s
+
+# target to generate assembly for a file
+InterviewProblems/BreakIntoWords.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.s
+.PHONY : InterviewProblems/BreakIntoWords.cpp.s
+
 Tests/JRLinkedList/Test_JRLinkedList.o: Tests/JRLinkedList/Test_JRLinkedList.cpp.o
 
 .PHONY : Tests/JRLinkedList/Test_JRLinkedList.o
@@ -407,6 +434,60 @@ Tests/Test_Algorithms/Test_BinarySearch.s: Tests/Test_Algorithms/Test_BinarySear
 Tests/Test_Algorithms/Test_BinarySearch.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.s
 .PHONY : Tests/Test_Algorithms/Test_BinarySearch.cpp.s
+
+Tests/Test_Solutions/Test_BreakIntoWords.o: Tests/Test_Solutions/Test_BreakIntoWords.cpp.o
+
+.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.o
+
+# target to build an object file
+Tests/Test_Solutions/Test_BreakIntoWords.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o
+.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.cpp.o
+
+Tests/Test_Solutions/Test_BreakIntoWords.i: Tests/Test_Solutions/Test_BreakIntoWords.cpp.i
+
+.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/Test_BreakIntoWords.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.i
+.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.cpp.i
+
+Tests/Test_Solutions/Test_BreakIntoWords.s: Tests/Test_Solutions/Test_BreakIntoWords.cpp.s
+
+.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/Test_BreakIntoWords.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.s
+.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.cpp.s
+
+Tests/Test_Solutions/Test_FirstCommonAncestor.o: Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
+
+.PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.o
+
+# target to build an object file
+Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
+.PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
+
+Tests/Test_Solutions/Test_FirstCommonAncestor.i: Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.i
+
+.PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.i
+.PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.i
+
+Tests/Test_Solutions/Test_FirstCommonAncestor.s: Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s
+
+.PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s
+.PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s
 
 cracking_code_interview/solutions1.o: cracking_code_interview/solutions1.cpp.o
 
@@ -491,6 +572,9 @@ help:
 	@echo "... DataStructures/JRStack/StackNode.o"
 	@echo "... DataStructures/JRStack/StackNode.i"
 	@echo "... DataStructures/JRStack/StackNode.s"
+	@echo "... InterviewProblems/BreakIntoWords.o"
+	@echo "... InterviewProblems/BreakIntoWords.i"
+	@echo "... InterviewProblems/BreakIntoWords.s"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.o"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.i"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.s"
@@ -500,6 +584,12 @@ help:
 	@echo "... Tests/Test_Algorithms/Test_BinarySearch.o"
 	@echo "... Tests/Test_Algorithms/Test_BinarySearch.i"
 	@echo "... Tests/Test_Algorithms/Test_BinarySearch.s"
+	@echo "... Tests/Test_Solutions/Test_BreakIntoWords.o"
+	@echo "... Tests/Test_Solutions/Test_BreakIntoWords.i"
+	@echo "... Tests/Test_Solutions/Test_BreakIntoWords.s"
+	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.o"
+	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.i"
+	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.s"
 	@echo "... cracking_code_interview/solutions1.o"
 	@echo "... cracking_code_interview/solutions1.i"
 	@echo "... cracking_code_interview/solutions1.s"

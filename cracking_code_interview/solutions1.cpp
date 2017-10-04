@@ -1,9 +1,13 @@
 #include <string>
 #include <vector>
+#include <unordered_set>
 #include "solutions1.h"
 
 using std::string;
 using std::vector;
+using std::unordered_set;
+
+
 
 string Solutions1::removeLowercaseEnglishDuplicates(const string& sentence)
 {

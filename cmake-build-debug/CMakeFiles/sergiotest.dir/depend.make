@@ -14,6 +14,9 @@ CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.o: ../DataStructures/
 CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.o: ../DataStructures/JRStack/StackNode.cpp
 CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.o: ../DataStructures/JRStack/StackNode.h
 
+CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o: ../InterviewProblems/BreakIntoWords.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords.cpp.o: ../InterviewProblems/BreakIntoWords.h
+
 CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-actions.h
 CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-cardinalities.h
 CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-generated-actions.h
@@ -127,6 +130,56 @@ CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o: ../lib/
 CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o: ../Algorithms/Search.h
 CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o: ../Tests/Test_Algorithms/Test_BinarySearch.cpp
 
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-message.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-param-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-printers.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-test-part.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-typed-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/gtest.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/gtest_pred_impl.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/gtest_prod.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-filepath.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-internal.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-linked_ptr.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-param-util-generated.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-param-util.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-port.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../InterviewProblems/BreakIntoWords.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o: ../Tests/Test_Solutions/Test_BreakIntoWords.cpp
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-message.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-param-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-printers.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-test-part.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-typed-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest_pred_impl.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest_prod.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-filepath.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-internal.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-linked_ptr.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-param-util-generated.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-param-util.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-port.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../Tests/Test_Solutions/Test_FirstCommonAncestor.cpp
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../cracking_code_interview/4.8.FirstCommonAncestor.h
+
 CMakeFiles/sergiotest.dir/cracking_code_interview/solutions1.cpp.o: ../cracking_code_interview/solutions1.cpp
 CMakeFiles/sergiotest.dir/cracking_code_interview/solutions1.cpp.o: ../cracking_code_interview/solutions1.h
 
@@ -169,14 +222,6 @@ CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRDoublyLinkedList/DoublyLinkedList.cpp
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRDoublyLinkedList/DoublyLinkedList.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRLinkedList/JRLinkedList.cpp
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRLinkedList/JRLinkedList.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRLinkedList/JRLinkedListNode.cpp
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRLinkedList/JRLinkedListNode.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRStack/Stack.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRStack/StackNode.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../cracking_code_interview/solutions1.h
+CMakeFiles/sergiotest.dir/main.cpp.o: ../InterviewProblems/BreakIntoWords.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../main.cpp
 

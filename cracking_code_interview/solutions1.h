@@ -6,6 +6,8 @@
 #define SERGIOTEST_SOLUTIONS1_H
 
 #include <string>
+
+//based on Cracking the Code interview, 4th Edition
 class Solutions1
 {
 public:
@@ -17,6 +19,5 @@ public:
     //1.4
     static bool areAnagrams(const std::string& string1, const std::string& string2);
     //end of 1.4 -----
-
 };
 #endif //SERGIOTEST_SOLUTIONS1_H
