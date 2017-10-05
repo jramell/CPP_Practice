@@ -533,6 +533,8 @@ unordered_set
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.cpp
 stdexcept
 -
+iostream
+-
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
 vector
@@ -541,6 +543,8 @@ Matrix.cpp
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.cpp
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp
+random
+-
 MinesweeperBoard.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 
@@ -619,6 +623,8 @@ random
 -
 InterviewProblems/MinesweeperBoard/Matrix.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
+InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 gtest/gtest.h
 -
 gmock/gmock.h
@@ -626,5 +632,7 @@ gmock/gmock.h
 forward_list
 -
 unordered_set
+-
+bitset
 -
 

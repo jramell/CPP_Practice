@@ -9,7 +9,7 @@
 namespace minesweeper {
 
     template<typename T>
-    void fillMatrixWith(Matrix<T> &matrix, T value);
+    void fillMatrixWith(Matrix<T>& matrix, T value);
 
     template<typename T>
     bool isValidRow(int row, const Matrix<T>& matrix);
@@ -19,9 +19,13 @@ namespace minesweeper {
 
     void incrementBoardCell(Matrix<int>& minesweeperBoard, int row, int col);
 
-    void insertMinesInBoard(Matrix<int> &minesweeperBoard, int amountOfMines);
+    void insertMinesInBoard(Matrix<int>& minesweeperBoard, int amountOfMines);
+
+    void insertRandomMinesInBoard(Matrix<int>& minesweeperBoard, int amountOfMines);
 
     Matrix<int> minesweeperBoard(int amountOfMines, int boardHeight, int boardWidth);
+
+    Matrix<int> randomMinesweeperBoard(int amountOfMines, int boardHeight, int boardWidth);
 }
 
 #endif //SERGIOTEST_MINESWEEPERBOARD_H

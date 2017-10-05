@@ -1,7 +1,3 @@
-//
-// Created by Sergio on 10/4/2017.
-//
-
 #ifndef SERGIOTEST_MATRIX_H
 #define SERGIOTEST_MATRIX_H
 
@@ -19,9 +15,16 @@ namespace minesweeper {
         int rows() const;
         int cols();
         int cols() const;
-    };
+        void printMatrix();
+        bool operator== (const Matrix<T>&);
 
+        template <typename S>
+        friend bool operator== (const Matrix<S>&, const Matrix<S>&);
+    };
+    template <typename S>
+    bool operator== (const Matrix<S>&, const Matrix<S>&);
 }
+
 #include "Matrix.cpp"
 
 #endif //SERGIOTEST_MATRIX_H

@@ -283,5 +283,6 @@ CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.cpp
 CMakeFiles/sergiotest.dir/main.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.h
+CMakeFiles/sergiotest.dir/main.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../main.cpp
 
