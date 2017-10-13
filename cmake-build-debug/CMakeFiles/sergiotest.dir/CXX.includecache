@@ -462,6 +462,14 @@ cxxabi.h
 acxx_demangle.h
 -
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp
+algorithm
+-
+GreatestCommonDivisor.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.h
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/Search.cpp
 Search.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/Search.h
@@ -573,6 +581,12 @@ gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/gtest/gtest.h
 ../../Algorithms/Search.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/Search.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp
+../../Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.h
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/gtest/gtest.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_BreakIntoWords.cpp
 gtest/gtest.h

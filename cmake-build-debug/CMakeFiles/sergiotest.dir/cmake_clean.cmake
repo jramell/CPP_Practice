@@ -14,6 +14,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o"
   "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o"
   "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o"
+  "CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o"
+  "CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o"
   "sergiotest.pdb"
   "sergiotest.exe"
   "libsergiotest.dll.a"

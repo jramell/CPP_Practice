@@ -33,6 +33,7 @@ void printBinaryOfInt(int number) {
     cout << endl;*/
     cout << std::bitset<32>(number) << endl;
 }
+
 int main(int argc, char* argv[])
 {
 /*    cout << "START" << endl;

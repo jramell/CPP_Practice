@@ -316,6 +316,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.h">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/Search.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
@@ -371,6 +377,9 @@
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/Test_BinarySearch.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_BreakIntoWords.cpp">

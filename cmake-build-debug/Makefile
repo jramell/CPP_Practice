@@ -219,6 +219,33 @@ gtest/fast:
 	$(MAKE) -f lib/googletest/googlemock/gtest/CMakeFiles/gtest.dir/build.make lib/googletest/googlemock/gtest/CMakeFiles/gtest.dir/build
 .PHONY : gtest/fast
 
+Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.o: Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o
+
+.PHONY : Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.o
+
+# target to build an object file
+Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o
+.PHONY : Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o
+
+Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.i: Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.i
+
+.PHONY : Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.i
+
+# target to preprocess a source file
+Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.i
+.PHONY : Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.i
+
+Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.s: Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.s
+
+.PHONY : Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.s
+
+# target to generate assembly for a file
+Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.s
+.PHONY : Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.s
+
 Algorithms/Search.o: Algorithms/Search.cpp.o
 
 .PHONY : Algorithms/Search.o
@@ -462,6 +489,33 @@ Tests/Test_Algorithms/Test_BinarySearch.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.s
 .PHONY : Tests/Test_Algorithms/Test_BinarySearch.cpp.s
 
+Tests/Test_Algorithms/Test_GreatestCommonDivisor.o: Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o
+
+.PHONY : Tests/Test_Algorithms/Test_GreatestCommonDivisor.o
+
+# target to build an object file
+Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o
+.PHONY : Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o
+
+Tests/Test_Algorithms/Test_GreatestCommonDivisor.i: Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.i
+
+.PHONY : Tests/Test_Algorithms/Test_GreatestCommonDivisor.i
+
+# target to preprocess a source file
+Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.i
+.PHONY : Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.i
+
+Tests/Test_Algorithms/Test_GreatestCommonDivisor.s: Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s
+
+.PHONY : Tests/Test_Algorithms/Test_GreatestCommonDivisor.s
+
+# target to generate assembly for a file
+Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s
+.PHONY : Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s
+
 Tests/Test_Solutions/Test_BreakIntoWords.o: Tests/Test_Solutions/Test_BreakIntoWords.cpp.o
 
 .PHONY : Tests/Test_Solutions/Test_BreakIntoWords.o
@@ -641,6 +695,9 @@ help:
 	@echo "... gmock"
 	@echo "... gtest_main"
 	@echo "... gtest"
+	@echo "... Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.o"
+	@echo "... Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.i"
+	@echo "... Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.s"
 	@echo "... Algorithms/Search.o"
 	@echo "... Algorithms/Search.i"
 	@echo "... Algorithms/Search.s"
@@ -668,6 +725,9 @@ help:
 	@echo "... Tests/Test_Algorithms/Test_BinarySearch.o"
 	@echo "... Tests/Test_Algorithms/Test_BinarySearch.i"
 	@echo "... Tests/Test_Algorithms/Test_BinarySearch.s"
+	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.o"
+	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.i"
+	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.s"
 	@echo "... Tests/Test_Solutions/Test_BreakIntoWords.o"
 	@echo "... Tests/Test_Solutions/Test_BreakIntoWords.i"
 	@echo "... Tests/Test_Solutions/Test_BreakIntoWords.s"

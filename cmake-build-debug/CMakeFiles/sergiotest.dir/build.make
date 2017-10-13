@@ -417,6 +417,54 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_Minesw
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
 
 
+CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o: ../Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp
+
+CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp > CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.i
+
+CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp -o CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.s
+
+CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o.provides: CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o
+
+
+CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o: ../Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp
+
+CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp > CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.i
+
+CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp -o CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s
+
+CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o
+
+
 # Object files for target sergiotest
 sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/main.cpp.o" \
@@ -433,7 +481,9 @@ sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o" \
 "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o" \
-"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o"
+"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o" \
+"CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o" \
+"CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o"
 
 # External object files for target sergiotest
 sergiotest_EXTERNAL_OBJECTS =
@@ -453,12 +503,14 @@ sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/Break
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/build.make
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest_main.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: CMakeFiles/sergiotest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable sergiotest.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable sergiotest.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sergiotest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -481,6 +533,8 @@ CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o.requires
 
 .PHONY : CMakeFiles/sergiotest.dir/requires
 
