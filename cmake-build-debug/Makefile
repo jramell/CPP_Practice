@@ -516,32 +516,113 @@ Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s
 .PHONY : Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s
 
-Tests/Test_Solutions/Test_BreakIntoWords.o: Tests/Test_Solutions/Test_BreakIntoWords.cpp.o
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.o: Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o
 
-.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.o
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.o
 
 # target to build an object file
-Tests/Test_Solutions/Test_BreakIntoWords.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.o
-.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.cpp.o
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o
 
-Tests/Test_Solutions/Test_BreakIntoWords.i: Tests/Test_Solutions/Test_BreakIntoWords.cpp.i
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.i: Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.i
 
-.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.i
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.i
 
 # target to preprocess a source file
-Tests/Test_Solutions/Test_BreakIntoWords.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.i
-.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.cpp.i
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.i
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.i
 
-Tests/Test_Solutions/Test_BreakIntoWords.s: Tests/Test_Solutions/Test_BreakIntoWords.cpp.s
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.s: Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s
 
-.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.s
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.s
 
 # target to generate assembly for a file
-Tests/Test_Solutions/Test_BreakIntoWords.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_BreakIntoWords.cpp.s
-.PHONY : Tests/Test_Solutions/Test_BreakIntoWords.cpp.s
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s
+
+Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.o: Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.o
+
+# target to build an object file
+Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o
+
+Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.i: Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i
+
+Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.s: Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s
+
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.o: Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.o
+
+# target to build an object file
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
+
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.i: Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i
+
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.s: Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s
+
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.o: Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.o
+
+# target to build an object file
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
+
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.i: Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i
+
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.s: Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
 
 Tests/Test_Solutions/Test_FirstCommonAncestor.o: Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
 
@@ -570,59 +651,32 @@ Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s
 .PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s
 
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.o: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
+cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.o: cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o
 
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.o
-
-# target to build an object file
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
-
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.i: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i
-
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.i
-
-# target to preprocess a source file
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.i
-
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.s: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s
-
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.s
-
-# target to generate assembly for a file
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.s
-
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.o: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
-
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.o
+.PHONY : cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.o
 
 # target to build an object file
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
+cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o
+.PHONY : cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o
 
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.i: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i
+cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.i: cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.i
 
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.i
+.PHONY : cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.i
 
 # target to preprocess a source file
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.i
+cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.i
+.PHONY : cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.i
 
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.s: Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
+cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.s: cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.s
 
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.s
+.PHONY : cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.s
 
 # target to generate assembly for a file
-Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
-.PHONY : Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
+cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.s
+.PHONY : cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.s
 
 cracking_code_interview/solutions1.o: cracking_code_interview/solutions1.cpp.o
 
@@ -728,18 +782,24 @@ help:
 	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.o"
 	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.i"
 	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.s"
-	@echo "... Tests/Test_Solutions/Test_BreakIntoWords.o"
-	@echo "... Tests/Test_Solutions/Test_BreakIntoWords.i"
-	@echo "... Tests/Test_Solutions/Test_BreakIntoWords.s"
+	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.o"
+	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.i"
+	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.s"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.o"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.i"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.s"
-	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.o"
-	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.i"
-	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperBoard.s"
-	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.o"
-	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.i"
-	@echo "... Tests/Test_Solutions/Test_MinesweeperBoard/Test_MinesweeperMatrix.s"
+	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.o"
+	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.i"
+	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.s"
 	@echo "... cracking_code_interview/solutions1.o"
 	@echo "... cracking_code_interview/solutions1.i"
 	@echo "... cracking_code_interview/solutions1.s"
