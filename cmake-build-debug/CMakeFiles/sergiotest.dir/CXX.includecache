@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+vector
+-
+
 ../lib/googletest/googlemock/include/gmock/gmock-actions.h
 errno.h
 -
@@ -560,6 +564,14 @@ MinesweeperBoard.h
 Matrix.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp
+SumOfSubarrays.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+vector
+-
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRLinkedList/Test_JRLinkedList.cpp
 gmock/gmock.h
 -
@@ -611,6 +623,12 @@ gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/gtest/gtest.h
 ../../../../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/gtest/gtest.h
+../../../../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+/cygdrive/c/Users/Sergio/Documents/CPP/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp
 gtest/gtest.h

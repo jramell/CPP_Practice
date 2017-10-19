@@ -18,6 +18,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.o"
   "CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o"
   "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o"
+  "CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o"
+  "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o"
   "sergiotest.pdb"
   "sergiotest.exe"
   "libsergiotest.dll.a"

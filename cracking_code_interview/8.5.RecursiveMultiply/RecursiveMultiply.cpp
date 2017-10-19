@@ -12,6 +12,10 @@ long jr::recursiveMultiply(int number1, int number2) {
         if (minimum % 2 == 0) {
             return recursiveMultiply(maximum, minimum>>1) << 1;
         }
-        return (recursiveMultiply(maximum, minimum>>1) << 1) + maximum; //was recursiveMultiply(maximum, minimum-1) + maximum before
-                                                                        //reading CTCI solution
+        //was recursiveMultiply(maximum, minimum-1) + maximum before reading CTCI solution
+        //changed because if it gets here, minimum is odd, oddNumber-1 == evenNumber, which means
+        //in the next recursive call I'd get returned what gets returned for even numbers, which is
+        //recursiveMultiply(maximum, minimum>>1) << 1. So I can just use that value directly and save
+        //myself another call
+        return (recursiveMultiply(maximum, minimum>>1) << 1) + maximum;
 }

@@ -25,6 +25,9 @@ CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cp
 CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 
+CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o: ../InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o: ../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+
 CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-actions.h
 CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-cardinalities.h
 CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-generated-actions.h
@@ -266,6 +269,31 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_Minesweepe
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-message.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-param-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-printers.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-test-part.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-typed-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest_pred_impl.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest_prod.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-filepath.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-internal.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-linked_ptr.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-param-util-generated.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-param-util.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-port.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o: ../Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp
 
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-message.h

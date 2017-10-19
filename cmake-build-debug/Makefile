@@ -408,6 +408,33 @@ InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
 .PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
 
+InterviewProblems/SumOfSubarrays/SumOfSubarrays.o: InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
+
+.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.o
+
+# target to build an object file
+InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
+.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
+
+InterviewProblems/SumOfSubarrays/SumOfSubarrays.i: InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.i
+
+.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.i
+
+# target to preprocess a source file
+InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.i
+.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.i
+
+InterviewProblems/SumOfSubarrays/SumOfSubarrays.s: InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
+
+.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.s
+
+# target to generate assembly for a file
+InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
+.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
+
 Tests/JRLinkedList/Test_JRLinkedList.o: Tests/JRLinkedList/Test_JRLinkedList.cpp.o
 
 .PHONY : Tests/JRLinkedList/Test_JRLinkedList.o
@@ -624,6 +651,33 @@ Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMat
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
 .PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
 
+Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.o: Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.o
+
+# target to build an object file
+Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o
+
+Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.i: Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.i
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.i
+
+Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.s: Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.s
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.s
+
 Tests/Test_Solutions/Test_FirstCommonAncestor.o: Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
 
 .PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.o
@@ -770,6 +824,9 @@ help:
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.o"
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.i"
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.s"
+	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.o"
+	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.i"
+	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.s"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.o"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.i"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.s"
@@ -794,6 +851,9 @@ help:
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.o"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.i"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.s"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.o"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.i"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.s"

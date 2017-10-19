@@ -370,6 +370,12 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRLinkedList/Test_JRLinkedList.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
@@ -392,6 +398,9 @@
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp">
