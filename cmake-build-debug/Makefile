@@ -381,6 +381,33 @@ InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s
 .PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s
 
+InterviewProblems/MaxStockProfit_LC714/LC714.o: InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o
+
+.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.o
+
+# target to build an object file
+InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o
+.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o
+
+InterviewProblems/MaxStockProfit_LC714/LC714.i: InterviewProblems/MaxStockProfit_LC714/LC714.cpp.i
+
+.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.i
+
+# target to preprocess a source file
+InterviewProblems/MaxStockProfit_LC714/LC714.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.i
+.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.cpp.i
+
+InterviewProblems/MaxStockProfit_LC714/LC714.s: InterviewProblems/MaxStockProfit_LC714/LC714.cpp.s
+
+.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.s
+
+# target to generate assembly for a file
+InterviewProblems/MaxStockProfit_LC714/LC714.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.s
+.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.cpp.s
+
 InterviewProblems/MinesweeperBoard/MinesweeperBoard.o: InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
 
 .PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.o
@@ -570,6 +597,33 @@ Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s
 .PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s
 
+Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o: Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o
+
+# target to build an object file
+Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
+
+Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.i: Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
+
+Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.s: Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
+
 Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.o: Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o
 
 .PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.o
@@ -650,33 +704,6 @@ Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMat
 Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
 .PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
-
-Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.o: Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o
-
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.o
-
-# target to build an object file
-Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.o
-
-Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.i: Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.i
-
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.i
-
-# target to preprocess a source file
-Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.i
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.i
-
-Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.s: Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.s
-
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.s
-
-# target to generate assembly for a file
-Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.s
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp.s
 
 Tests/Test_Solutions/Test_FirstCommonAncestor.o: Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
 
@@ -821,6 +848,9 @@ help:
 	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.o"
 	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.i"
 	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.s"
+	@echo "... InterviewProblems/MaxStockProfit_LC714/LC714.o"
+	@echo "... InterviewProblems/MaxStockProfit_LC714/LC714.i"
+	@echo "... InterviewProblems/MaxStockProfit_LC714/LC714.s"
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.o"
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.i"
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.s"
@@ -842,6 +872,9 @@ help:
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.o"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.i"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.s"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.o"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.i"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.s"
@@ -851,9 +884,6 @@ help:
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.o"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.i"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.s"
-	@echo "... Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.o"
-	@echo "... Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.i"
-	@echo "... Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.s"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.o"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.i"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.s"

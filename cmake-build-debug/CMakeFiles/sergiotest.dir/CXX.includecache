@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
-vector
--
-
 ../lib/googletest/googlemock/include/gmock/gmock-actions.h
 errno.h
 -
@@ -542,6 +538,14 @@ string
 unordered_set
 -
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MaxStockProfit_LC714/LC714.cpp
+LC714.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MaxStockProfit_LC714/LC714.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MaxStockProfit_LC714/LC714.h
+vector
+-
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.cpp
 stdexcept
 -
@@ -606,6 +610,12 @@ gtest/gtest.h
 ../../../cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.h
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/gtest/gtest.h
+../../../../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/gtest/gtest.h
@@ -623,12 +633,6 @@ gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/gtest/gtest.h
 ../../../../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
-
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_SumOfContiguousSubarrays.cpp
-gtest/gtest.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/gtest/gtest.h
-../../../../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
-/cygdrive/c/Users/Sergio/Documents/CPP/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp
 gtest/gtest.h

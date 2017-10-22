@@ -1,7 +1,3 @@
-//
-// Created by Sergio on 10/19/2017.
-//
-
 #ifndef SERGIOTEST_SUMOFSUBARRAYS_H
 #define SERGIOTEST_SUMOFSUBARRAYS_H
 
