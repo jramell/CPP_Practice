@@ -570,6 +570,33 @@ Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s
 .PHONY : Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s
 
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.o: Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o
+
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.o
+
+# target to build an object file
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o
+
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.i: Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.i
+
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.i
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.i
+
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.s: Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.s
+
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.s
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.s
+
 Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.o: Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o
 
 .PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.o
@@ -759,6 +786,33 @@ cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.s
 .PHONY : cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.s
 
+cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.o: cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o
+
+.PHONY : cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.o
+
+# target to build an object file
+cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o
+.PHONY : cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o
+
+cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.i: cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.i
+
+.PHONY : cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.i
+
+# target to preprocess a source file
+cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.i
+.PHONY : cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.i
+
+cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.s: cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.s
+
+.PHONY : cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.s
+
+# target to generate assembly for a file
+cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.s
+.PHONY : cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.s
+
 cracking_code_interview/solutions1.o: cracking_code_interview/solutions1.cpp.o
 
 .PHONY : cracking_code_interview/solutions1.o
@@ -869,6 +923,9 @@ help:
 	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.o"
 	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.i"
 	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.s"
+	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.o"
+	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.i"
+	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.s"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.o"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.i"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.s"
@@ -890,6 +947,9 @@ help:
 	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.o"
 	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.i"
 	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.s"
+	@echo "... cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.o"
+	@echo "... cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.i"
+	@echo "... cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.s"
 	@echo "... cracking_code_interview/solutions1.o"
 	@echo "... cracking_code_interview/solutions1.i"
 	@echo "... cracking_code_interview/solutions1.s"

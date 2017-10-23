@@ -604,6 +604,12 @@ gtest/gtest.h
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/gtest/gtest.h
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/gtest/gtest.h
+../../../cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.h
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/gtest/gtest.h
@@ -651,6 +657,18 @@ algorithm
 -
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp
+PermutationsWithoutDups.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.h
+unordered_set
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.h
+vector
+-
+string
+-
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/solutions1.cpp
 string
