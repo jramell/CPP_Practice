@@ -9,7 +9,7 @@
 #include <stdexcept>
 
 /*
- * You have to manage the deallocation of T. If T is a built-in type, wrap it in a unique_ptr.
+ * Singly linked list. Does not manage the deallocation of T
  */
 template <typename T>
 class JRLinkedList {
@@ -18,7 +18,6 @@ class JRLinkedList {
     JRLinkedListNode<T>* tail;
 
 public:
-
     /* Creates new linked list with data 0 as head */
     JRLinkedList();
 

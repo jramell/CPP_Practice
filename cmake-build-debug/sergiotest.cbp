@@ -355,6 +355,12 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/StackNode.h">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.h">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
