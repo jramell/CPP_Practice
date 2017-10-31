@@ -633,28 +633,28 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_Per
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o
 
 
-CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o: CMakeFiles/sergiotest.dir/flags.make
-CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o: ../DataStructures/JRVector/JRVector.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o"
-	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o: ../InterviewProblems/UniquePaths_LC62/UniquePaths.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp
 
-CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.i"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.cpp > CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.i
+CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp > CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i
 
-CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.s"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.cpp -o CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.s
+CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp -o CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s
 
-CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o.requires:
+CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o.requires:
 
-.PHONY : CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o.requires
+.PHONY : CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o.requires
 
-CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o.provides: CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o.requires
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o.provides.build
-.PHONY : CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o.provides
+CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o.provides: CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o.provides
 
-CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o.provides.build: CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o
+CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o.provides.build: CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o
 
 
 # Object files for target sergiotest
@@ -683,7 +683,7 @@ sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o" \
 "CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o" \
 "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o" \
-"CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o"
+"CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o"
 
 # External object files for target sergiotest
 sergiotest_EXTERNAL_OBJECTS =
@@ -712,7 +712,7 @@ sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o
-sergiotest.exe: CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/build.make
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest_main.a
@@ -750,7 +750,7 @@ CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutio
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o.requires
-CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o.requires
 
 .PHONY : CMakeFiles/sergiotest.dir/requires
 

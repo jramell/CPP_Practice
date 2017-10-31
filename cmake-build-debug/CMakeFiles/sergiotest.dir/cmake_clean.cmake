@@ -23,7 +23,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o"
   "CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o"
   "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o"
-  "CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o"
+  "CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o"
   "sergiotest.pdb"
   "sergiotest.exe"
   "libsergiotest.dll.a"

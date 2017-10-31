@@ -354,33 +354,6 @@ DataStructures/JRStack/StackNode.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.s
 .PHONY : DataStructures/JRStack/StackNode.cpp.s
 
-DataStructures/JRVector/JRVector.o: DataStructures/JRVector/JRVector.cpp.o
-
-.PHONY : DataStructures/JRVector/JRVector.o
-
-# target to build an object file
-DataStructures/JRVector/JRVector.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.o
-.PHONY : DataStructures/JRVector/JRVector.cpp.o
-
-DataStructures/JRVector/JRVector.i: DataStructures/JRVector/JRVector.cpp.i
-
-.PHONY : DataStructures/JRVector/JRVector.i
-
-# target to preprocess a source file
-DataStructures/JRVector/JRVector.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.i
-.PHONY : DataStructures/JRVector/JRVector.cpp.i
-
-DataStructures/JRVector/JRVector.s: DataStructures/JRVector/JRVector.cpp.s
-
-.PHONY : DataStructures/JRVector/JRVector.s
-
-# target to generate assembly for a file
-DataStructures/JRVector/JRVector.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRVector/JRVector.cpp.s
-.PHONY : DataStructures/JRVector/JRVector.cpp.s
-
 InterviewProblems/BreakIntoWords/BreakIntoWords.o: InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o
 
 .PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.o
@@ -488,6 +461,33 @@ InterviewProblems/SumOfSubarrays/SumOfSubarrays.s: InterviewProblems/SumOfSubarr
 InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
 .PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
+
+InterviewProblems/UniquePaths_LC62/UniquePaths.o: InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o
+
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.o
+
+# target to build an object file
+InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o
+
+InterviewProblems/UniquePaths_LC62/UniquePaths.i: InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i
+
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.i
+
+# target to preprocess a source file
+InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i
+
+InterviewProblems/UniquePaths_LC62/UniquePaths.s: InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s
+
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.s
+
+# target to generate assembly for a file
+InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s
 
 Tests/JRLinkedList/Test_JRLinkedList.o: Tests/JRLinkedList/Test_JRLinkedList.cpp.o
 
@@ -926,9 +926,6 @@ help:
 	@echo "... DataStructures/JRStack/StackNode.o"
 	@echo "... DataStructures/JRStack/StackNode.i"
 	@echo "... DataStructures/JRStack/StackNode.s"
-	@echo "... DataStructures/JRVector/JRVector.o"
-	@echo "... DataStructures/JRVector/JRVector.i"
-	@echo "... DataStructures/JRVector/JRVector.s"
 	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.o"
 	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.i"
 	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.s"
@@ -941,6 +938,9 @@ help:
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.o"
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.i"
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.s"
+	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths.o"
+	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths.i"
+	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths.s"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.o"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.i"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.s"
