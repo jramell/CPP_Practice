@@ -435,6 +435,60 @@ InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
 .PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
 
+InterviewProblems/SingleNumber2/SingleNumber2.o: InterviewProblems/SingleNumber2/SingleNumber2.cpp.o
+
+.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.o
+
+# target to build an object file
+InterviewProblems/SingleNumber2/SingleNumber2.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o
+.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.cpp.o
+
+InterviewProblems/SingleNumber2/SingleNumber2.i: InterviewProblems/SingleNumber2/SingleNumber2.cpp.i
+
+.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.i
+
+# target to preprocess a source file
+InterviewProblems/SingleNumber2/SingleNumber2.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.i
+.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.cpp.i
+
+InterviewProblems/SingleNumber2/SingleNumber2.s: InterviewProblems/SingleNumber2/SingleNumber2.cpp.s
+
+.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.s
+
+# target to generate assembly for a file
+InterviewProblems/SingleNumber2/SingleNumber2.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.s
+.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.cpp.s
+
+InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.o: InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
+
+.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.o
+
+# target to build an object file
+InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
+.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
+
+InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.i: InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i
+
+.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.i
+
+# target to preprocess a source file
+InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i
+.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i
+
+InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.s: InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
+
+.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.s
+
+# target to generate assembly for a file
+InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
+.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
+
 InterviewProblems/SumOfSubarrays/SumOfSubarrays.o: InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
 
 .PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.o
@@ -462,32 +516,32 @@ InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
 .PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
 
-InterviewProblems/UniquePaths_LC62/UniquePaths.o: InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o
+InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o: InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
 
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.o
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o
 
 # target to build an object file
-InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.o
+InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
 
-InterviewProblems/UniquePaths_LC62/UniquePaths.i: InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i
+InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.i: InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i
 
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.i
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.i
 
 # target to preprocess a source file
-InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.i
+InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i
 
-InterviewProblems/UniquePaths_LC62/UniquePaths.s: InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s
+InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.s: InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
 
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.s
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.s
 
 # target to generate assembly for a file
-InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths.cpp.s
+InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
+.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
 
 Tests/JRLinkedList/Test_JRLinkedList.o: Tests/JRLinkedList/Test_JRLinkedList.cpp.o
 
@@ -759,6 +813,33 @@ Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMat
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
 .PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
 
+Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.o: Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.o
+
+# target to build an object file
+Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
+
+Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.i: Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i
+
+Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.s: Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s
+
 Tests/Test_Solutions/Test_FirstCommonAncestor.o: Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
 
 .PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.o
@@ -935,12 +1016,18 @@ help:
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.o"
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.i"
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.s"
+	@echo "... InterviewProblems/SingleNumber2/SingleNumber2.o"
+	@echo "... InterviewProblems/SingleNumber2/SingleNumber2.i"
+	@echo "... InterviewProblems/SingleNumber2/SingleNumber2.s"
+	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.o"
+	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.i"
+	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.s"
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.o"
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.i"
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.s"
-	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths.o"
-	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths.i"
-	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths.s"
+	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o"
+	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.i"
+	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.s"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.o"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.i"
 	@echo "... Tests/JRLinkedList/Test_JRLinkedList.s"
@@ -971,6 +1058,9 @@ help:
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.o"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.i"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.s"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.o"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.i"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.s"

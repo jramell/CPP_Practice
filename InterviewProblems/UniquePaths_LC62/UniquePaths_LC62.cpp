@@ -1,7 +1,7 @@
 #include "UniquePaths_LC62.h"
 
 /**
- * Solves Solves https://leetcode.com/problems/unique-paths
+ * Solves https://leetcode.com/problems/unique-paths
  * Sees possible paths as possible permutations of a string of length rows+cols-2
  * made by decissions (Down, Right, Right, Down, for example). There are (rows+cols-2)!
  * ways to rearrange it. However, there are (cols-1) Rights in the string, and (rows-1) Downs,

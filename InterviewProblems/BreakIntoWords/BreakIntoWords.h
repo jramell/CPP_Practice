@@ -11,4 +11,5 @@
  * @return empty string if givenString can't be broken up into valid words. The broken up string if it can.
  */
     std::string breakIntoWords(std::string givenString, const std::unordered_set<std::string> &dictionary);
+
 #endif //SERGIOTEST_BREAKINTOWORDS_H
