@@ -403,10 +403,13 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRLinkedList/Test_JRLinkedList.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRStack/Test_Stack.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRStack/Test_Stack.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/Test_JRVector.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/Test_BinarySearch.cpp">

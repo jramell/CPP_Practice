@@ -1,4 +1,6 @@
 #include "StringRepetitionsToContainSubstring.h"
+
+
 int jr::numberOfRepetitions(std::string A, std::string B) {
     int i = 0;
     int j = 0;
@@ -21,7 +23,7 @@ int jr::numberOfRepetitions(std::string A, std::string B) {
         }
     }
     if (j != 0) {
-        numberOfRepetitions++;
+        numberOfRepetitions++; //for cases where the ending of B doesn't match that of A
     }
     return numberOfRepetitions;
 }

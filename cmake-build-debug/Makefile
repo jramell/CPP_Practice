@@ -543,59 +543,86 @@ InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
 .PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
 
-Tests/JRLinkedList/Test_JRLinkedList.o: Tests/JRLinkedList/Test_JRLinkedList.cpp.o
+Tests/DataStructures/JRLinkedList/Test_JRLinkedList.o: Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o
 
-.PHONY : Tests/JRLinkedList/Test_JRLinkedList.o
-
-# target to build an object file
-Tests/JRLinkedList/Test_JRLinkedList.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o
-.PHONY : Tests/JRLinkedList/Test_JRLinkedList.cpp.o
-
-Tests/JRLinkedList/Test_JRLinkedList.i: Tests/JRLinkedList/Test_JRLinkedList.cpp.i
-
-.PHONY : Tests/JRLinkedList/Test_JRLinkedList.i
-
-# target to preprocess a source file
-Tests/JRLinkedList/Test_JRLinkedList.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.i
-.PHONY : Tests/JRLinkedList/Test_JRLinkedList.cpp.i
-
-Tests/JRLinkedList/Test_JRLinkedList.s: Tests/JRLinkedList/Test_JRLinkedList.cpp.s
-
-.PHONY : Tests/JRLinkedList/Test_JRLinkedList.s
-
-# target to generate assembly for a file
-Tests/JRLinkedList/Test_JRLinkedList.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.s
-.PHONY : Tests/JRLinkedList/Test_JRLinkedList.cpp.s
-
-Tests/JRStack/Test_Stack.o: Tests/JRStack/Test_Stack.cpp.o
-
-.PHONY : Tests/JRStack/Test_Stack.o
+.PHONY : Tests/DataStructures/JRLinkedList/Test_JRLinkedList.o
 
 # target to build an object file
-Tests/JRStack/Test_Stack.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o
-.PHONY : Tests/JRStack/Test_Stack.cpp.o
+Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o
+.PHONY : Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o
 
-Tests/JRStack/Test_Stack.i: Tests/JRStack/Test_Stack.cpp.i
+Tests/DataStructures/JRLinkedList/Test_JRLinkedList.i: Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.i
 
-.PHONY : Tests/JRStack/Test_Stack.i
+.PHONY : Tests/DataStructures/JRLinkedList/Test_JRLinkedList.i
 
 # target to preprocess a source file
-Tests/JRStack/Test_Stack.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.i
-.PHONY : Tests/JRStack/Test_Stack.cpp.i
+Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.i
+.PHONY : Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.i
 
-Tests/JRStack/Test_Stack.s: Tests/JRStack/Test_Stack.cpp.s
+Tests/DataStructures/JRLinkedList/Test_JRLinkedList.s: Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.s
 
-.PHONY : Tests/JRStack/Test_Stack.s
+.PHONY : Tests/DataStructures/JRLinkedList/Test_JRLinkedList.s
 
 # target to generate assembly for a file
-Tests/JRStack/Test_Stack.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.s
-.PHONY : Tests/JRStack/Test_Stack.cpp.s
+Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.s
+.PHONY : Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.s
+
+Tests/DataStructures/JRStack/Test_Stack.o: Tests/DataStructures/JRStack/Test_Stack.cpp.o
+
+.PHONY : Tests/DataStructures/JRStack/Test_Stack.o
+
+# target to build an object file
+Tests/DataStructures/JRStack/Test_Stack.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o
+.PHONY : Tests/DataStructures/JRStack/Test_Stack.cpp.o
+
+Tests/DataStructures/JRStack/Test_Stack.i: Tests/DataStructures/JRStack/Test_Stack.cpp.i
+
+.PHONY : Tests/DataStructures/JRStack/Test_Stack.i
+
+# target to preprocess a source file
+Tests/DataStructures/JRStack/Test_Stack.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.i
+.PHONY : Tests/DataStructures/JRStack/Test_Stack.cpp.i
+
+Tests/DataStructures/JRStack/Test_Stack.s: Tests/DataStructures/JRStack/Test_Stack.cpp.s
+
+.PHONY : Tests/DataStructures/JRStack/Test_Stack.s
+
+# target to generate assembly for a file
+Tests/DataStructures/JRStack/Test_Stack.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.s
+.PHONY : Tests/DataStructures/JRStack/Test_Stack.cpp.s
+
+Tests/DataStructures/Test_JRVector.o: Tests/DataStructures/Test_JRVector.cpp.o
+
+.PHONY : Tests/DataStructures/Test_JRVector.o
+
+# target to build an object file
+Tests/DataStructures/Test_JRVector.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o
+.PHONY : Tests/DataStructures/Test_JRVector.cpp.o
+
+Tests/DataStructures/Test_JRVector.i: Tests/DataStructures/Test_JRVector.cpp.i
+
+.PHONY : Tests/DataStructures/Test_JRVector.i
+
+# target to preprocess a source file
+Tests/DataStructures/Test_JRVector.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.i
+.PHONY : Tests/DataStructures/Test_JRVector.cpp.i
+
+Tests/DataStructures/Test_JRVector.s: Tests/DataStructures/Test_JRVector.cpp.s
+
+.PHONY : Tests/DataStructures/Test_JRVector.s
+
+# target to generate assembly for a file
+Tests/DataStructures/Test_JRVector.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.s
+.PHONY : Tests/DataStructures/Test_JRVector.cpp.s
 
 Tests/Test_Algorithms/Test_BinarySearch.o: Tests/Test_Algorithms/Test_BinarySearch.cpp.o
 
@@ -1028,12 +1055,15 @@ help:
 	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o"
 	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.i"
 	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.s"
-	@echo "... Tests/JRLinkedList/Test_JRLinkedList.o"
-	@echo "... Tests/JRLinkedList/Test_JRLinkedList.i"
-	@echo "... Tests/JRLinkedList/Test_JRLinkedList.s"
-	@echo "... Tests/JRStack/Test_Stack.o"
-	@echo "... Tests/JRStack/Test_Stack.i"
-	@echo "... Tests/JRStack/Test_Stack.s"
+	@echo "... Tests/DataStructures/JRLinkedList/Test_JRLinkedList.o"
+	@echo "... Tests/DataStructures/JRLinkedList/Test_JRLinkedList.i"
+	@echo "... Tests/DataStructures/JRLinkedList/Test_JRLinkedList.s"
+	@echo "... Tests/DataStructures/JRStack/Test_Stack.o"
+	@echo "... Tests/DataStructures/JRStack/Test_Stack.i"
+	@echo "... Tests/DataStructures/JRStack/Test_Stack.s"
+	@echo "... Tests/DataStructures/Test_JRVector.o"
+	@echo "... Tests/DataStructures/Test_JRVector.i"
+	@echo "... Tests/DataStructures/Test_JRVector.s"
 	@echo "... Tests/Test_Algorithms/Test_BinarySearch.o"
 	@echo "... Tests/Test_Algorithms/Test_BinarySearch.i"
 	@echo "... Tests/Test_Algorithms/Test_BinarySearch.s"

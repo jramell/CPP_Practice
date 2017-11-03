@@ -524,6 +524,16 @@ StackNode.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/StackNode.h
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.cpp
+stdexcept
+-
+JRVector.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.h
+JRVector.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.cpp
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp
 BreakIntoWords.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.h
@@ -598,21 +608,27 @@ UniquePaths_LC62.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRLinkedList/Test_JRLinkedList.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp
 gmock/gmock.h
 -
 gtest/gtest.h
 -
-../../DataStructures/JRLinkedList/JRLinkedList.h
+../../../DataStructures/JRLinkedList/JRLinkedList.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRStack/Test_Stack.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRStack/Test_Stack.cpp
 gmock/gmock.h
 -
 gtest/gtest.h
 -
-../../DataStructures/JRStack/Stack.h
+../../../DataStructures/JRStack/Stack.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/Stack.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/Test_JRVector.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/gtest/gtest.h
+../../DataStructures/JRVector/JRVector.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/Test_BinarySearch.cpp
 gtest/gtest.h

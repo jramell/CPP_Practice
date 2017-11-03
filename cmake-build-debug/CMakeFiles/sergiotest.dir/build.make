@@ -105,28 +105,28 @@ CMakeFiles/sergiotest.dir/cracking_code_interview/solutions1.cpp.o.provides: CMa
 CMakeFiles/sergiotest.dir/cracking_code_interview/solutions1.cpp.o.provides.build: CMakeFiles/sergiotest.dir/cracking_code_interview/solutions1.cpp.o
 
 
-CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o: CMakeFiles/sergiotest.dir/flags.make
-CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o: ../Tests/JRLinkedList/Test_JRLinkedList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o"
-	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRLinkedList/Test_JRLinkedList.cpp
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp
 
-CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.i"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRLinkedList/Test_JRLinkedList.cpp > CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.i
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp > CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.i
 
-CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.s"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRLinkedList/Test_JRLinkedList.cpp -o CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.s
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp -o CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.s
 
-CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o.requires:
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o.requires:
 
-.PHONY : CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o.requires
+.PHONY : CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o.requires
 
-CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o.requires
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o.provides.build
-.PHONY : CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o.provides
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o.provides
 
-CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o
 
 
 CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.o: CMakeFiles/sergiotest.dir/flags.make
@@ -177,28 +177,28 @@ CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.o.provides: CMakeFile
 CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.o.provides.build: CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.o
 
 
-CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o: CMakeFiles/sergiotest.dir/flags.make
-CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o: ../Tests/JRStack/Test_Stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o"
-	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRStack/Test_Stack.cpp
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o: ../Tests/DataStructures/JRStack/Test_Stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRStack/Test_Stack.cpp
 
-CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.i"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRStack/Test_Stack.cpp > CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.i
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRStack/Test_Stack.cpp > CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.i
 
-CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.s"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/JRStack/Test_Stack.cpp -o CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.s
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRStack/Test_Stack.cpp -o CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.s
 
-CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o.requires:
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o.requires:
 
-.PHONY : CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o.requires
+.PHONY : CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o.requires
 
-CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o.requires
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o.provides.build
-.PHONY : CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o.provides
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o.provides
 
-CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o
 
 
 CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o: CMakeFiles/sergiotest.dir/flags.make
@@ -729,14 +729,38 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepe
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
 
 
+CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o: ../Tests/DataStructures/Test_JRVector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/Test_JRVector.cpp
+
+CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/Test_JRVector.cpp > CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.i
+
+CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/Test_JRVector.cpp -o CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.s
+
+CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o
+
+
 # Object files for target sergiotest
 sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/main.cpp.o" \
 "CMakeFiles/sergiotest.dir/cracking_code_interview/solutions1.cpp.o" \
-"CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o" \
+"CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o" \
 "CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.o" \
 "CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.o" \
-"CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o" \
+"CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o" \
 "CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o" \
 "CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o" \
 "CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o" \
@@ -758,17 +782,18 @@ sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o" \
-"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o"
+"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o" \
+"CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o"
 
 # External object files for target sergiotest
 sergiotest_EXTERNAL_OBJECTS =
 
 sergiotest.exe: CMakeFiles/sergiotest.dir/main.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/cracking_code_interview/solutions1.cpp.o
-sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.o
-sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o
@@ -791,12 +816,13 @@ sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/Uni
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/build.make
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest_main.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: CMakeFiles/sergiotest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking CXX executable sergiotest.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Linking CXX executable sergiotest.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sergiotest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -806,10 +832,10 @@ CMakeFiles/sergiotest.dir/build: sergiotest.exe
 
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/main.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/cracking_code_interview/solutions1.cpp.o.requires
-CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/JRLinkedList/Test_JRLinkedList.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.o.requires
-CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/JRStack/Test_Stack.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o.requires
@@ -832,6 +858,7 @@ CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o.requires
 
 .PHONY : CMakeFiles/sergiotest.dir/requires
 
