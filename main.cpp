@@ -34,11 +34,13 @@ void printBinaryOfInt(int number) {
     cout << std::bitset<32>(number) << endl;
 }
 
+#include "DataStructures/JRVector/JRVector.h"
+
 int main(int argc, char* argv[])
 {
-/*    cout << "START" << endl;
-    minesweeper::Matrix<int> board = minesweeper::randomMinesweeperBoard(10, 10, 10);
-    board.printMatrix();
-    cout << "END" << endl;*/
+/*    JRVector<string> vector;
+    vector.push_back("HAIL2U");
+    vector.erase(0);
+    cout << "hi, vector.size = " << vector.size() << endl;*/
     runTests(argc, argv);
 }

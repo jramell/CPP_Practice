@@ -77,15 +77,15 @@ void JRVector<T>::erase(unsigned int startIndex, unsigned int endIndex) {
     if(endIndex < startIndex) {
         throw std::out_of_range("startIndex can't be bigger than endIndex");
     }
-
-    _capacity = size()-(endIndex-startIndex);
+    int elementsRemoved = (endIndex < _size)? endIndex-startIndex : _size-startIndex;
+    _capacity = _size-elementsRemoved;
     T* newArray = new T[_capacity];
     //copy all elements [0, startIndex) into newArray
     for (unsigned int i = 0; i < startIndex; i++) {
         newArray[i] = elements[i];
     }
     //copy all elements [endIndex, lastIndex] into newArray
-    for (unsigned int i = _size-1; i < size; i++) {
+    for (unsigned int i = endIndex; i < _size; i++) {
         newArray[i-(endIndex-startIndex)] = elements[i];
     }
     _size = _capacity;
