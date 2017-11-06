@@ -516,6 +516,33 @@ InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
 .PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
 
+InterviewProblems/TextJustification_LC68/TextJustification_LC68.o: InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
+
+.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.o
+
+# target to build an object file
+InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
+.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
+
+InterviewProblems/TextJustification_LC68/TextJustification_LC68.i: InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.i
+
+.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.i
+
+# target to preprocess a source file
+InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.i
+.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.i
+
+InterviewProblems/TextJustification_LC68/TextJustification_LC68.s: InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.s
+
+.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.s
+
+# target to generate assembly for a file
+InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.s
+.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.s
+
 InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o: InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
 
 .PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o
@@ -1052,6 +1079,9 @@ help:
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.o"
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.i"
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.s"
+	@echo "... InterviewProblems/TextJustification_LC68/TextJustification_LC68.o"
+	@echo "... InterviewProblems/TextJustification_LC68/TextJustification_LC68.i"
+	@echo "... InterviewProblems/TextJustification_LC68/TextJustification_LC68.s"
 	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o"
 	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.i"
 	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.s"

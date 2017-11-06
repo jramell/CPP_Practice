@@ -397,6 +397,12 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/TextJustification_LC68/TextJustification_LC68.h">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp">
 			<Option target="sergiotest"/>
 		</Unit>

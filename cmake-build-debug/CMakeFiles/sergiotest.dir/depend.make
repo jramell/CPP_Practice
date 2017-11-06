@@ -37,6 +37,9 @@ CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsT
 CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o: ../InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o: ../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
 
+CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o: ../InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o: ../InterviewProblems/TextJustification_LC68/TextJustification_LC68.h
+
 CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o: ../InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o: ../InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.h
 

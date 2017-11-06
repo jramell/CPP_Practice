@@ -28,6 +28,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o"
   "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o"
   "CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o"
+  "CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o"
   "sergiotest.pdb"
   "sergiotest.exe"
   "libsergiotest.dll.a"
