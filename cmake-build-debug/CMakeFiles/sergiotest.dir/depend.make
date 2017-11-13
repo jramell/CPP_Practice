@@ -28,6 +28,9 @@ CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cp
 CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 
+CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.o: ../InterviewProblems/ReverseWords/ReverseWords.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.o: ../InterviewProblems/ReverseWords/ReverseWords.h
+
 CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o: ../InterviewProblems/SingleNumber2/SingleNumber2.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o: ../InterviewProblems/SingleNumber2/SingleNumber2.h
 
@@ -417,6 +420,9 @@ CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/Recursiv
 CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o: ../cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp
 CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o: ../cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.h
 
+CMakeFiles/sergiotest.dir/cracking_code_interview/BalancedBrackets/BalancedBrackets.cpp.o: ../cracking_code_interview/BalancedBrackets/BalancedBrackets.cpp
+CMakeFiles/sergiotest.dir/cracking_code_interview/BalancedBrackets/BalancedBrackets.cpp.o: ../cracking_code_interview/BalancedBrackets/BalancedBrackets.h
+
 CMakeFiles/sergiotest.dir/cracking_code_interview/solutions1.cpp.o: ../cracking_code_interview/solutions1.cpp
 CMakeFiles/sergiotest.dir/cracking_code_interview/solutions1.cpp.o: ../cracking_code_interview/solutions1.h
 
@@ -459,8 +465,6 @@ CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRVector/JRVector.cpp
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRVector/JRVector.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.cpp
 CMakeFiles/sergiotest.dir/main.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h

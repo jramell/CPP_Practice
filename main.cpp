@@ -34,13 +34,7 @@ void printBinaryOfInt(int number) {
     cout << std::bitset<32>(number) << endl;
 }
 
-#include "DataStructures/JRVector/JRVector.h"
-
 int main(int argc, char* argv[])
 {
-/*    JRVector<string> vector;
-    vector.push_back("HAIL2U");
-    vector.erase(0);
-    cout << "hi, vector.size = " << vector.size() << endl;*/
     runTests(argc, argv);
 }

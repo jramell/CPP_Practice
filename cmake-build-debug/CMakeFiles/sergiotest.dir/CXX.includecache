@@ -578,6 +578,14 @@ MinesweeperBoard.h
 Matrix.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/ReverseWords/ReverseWords.cpp
+ReverseWords.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/ReverseWords/ReverseWords.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/ReverseWords/ReverseWords.h
+string
+-
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SingleNumber2/SingleNumber2.cpp
 SingleNumber2.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SingleNumber2/SingleNumber2.h
@@ -724,6 +732,16 @@ vector
 string
 -
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/BalancedBrackets/BalancedBrackets.cpp
+BalancedBrackets.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/BalancedBrackets/BalancedBrackets.h
+stack
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/BalancedBrackets/BalancedBrackets.h
+string
+-
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/solutions1.cpp
 string
 -
@@ -757,6 +775,4 @@ unordered_set
 -
 bitset
 -
-DataStructures/JRVector/JRVector.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.h
 

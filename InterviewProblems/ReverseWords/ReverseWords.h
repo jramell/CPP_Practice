@@ -5,6 +5,8 @@
 #ifndef SERGIOTEST_REVERSEWORDS_H
 #define SERGIOTEST_REVERSEWORDS_H
 
+#include <string>
+
 namespace jr {
     /**
      * Original problem: https://www.interviewbit.com/problems/reverse-the-string/
@@ -14,7 +16,7 @@ namespace jr {
      *      return "blue is sky the"
      * @param sentence group of words that must be reversed
      */
-    void reverseWords(string& sentence);
+    void reverseWords(std::string& sentence);
 }
 
 

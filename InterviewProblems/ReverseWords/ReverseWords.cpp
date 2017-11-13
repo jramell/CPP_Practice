@@ -1,6 +1,6 @@
 #include "ReverseWords.h"
-void jr::reverseWords(string& sentence) {
-    string answer = "";
+void jr::reverseWords(std::string& sentence) {
+    std::string answer = "";
     for(int i = sentence.size() - 1; i > 0; i--) {
         if(sentence.at(i) == ' ') {
             if(!answer.empty()) {
