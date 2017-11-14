@@ -397,6 +397,12 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumBinaryTree/SumBinaryTree.h">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp">
 			<Option target="sergiotest"/>
 		</Unit>

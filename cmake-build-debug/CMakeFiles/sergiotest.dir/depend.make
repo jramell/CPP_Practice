@@ -37,6 +37,9 @@ CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o: .
 CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o: ../InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o: ../InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
 
+CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o: ../InterviewProblems/SumBinaryTree/SumBinaryTree.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o: ../InterviewProblems/SumBinaryTree/SumBinaryTree.h
+
 CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o: ../InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o: ../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
 

@@ -31,6 +31,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o"
   "CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.o"
   "CMakeFiles/sergiotest.dir/cracking_code_interview/BalancedBrackets/BalancedBrackets.cpp.o"
+  "CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o"
   "sergiotest.pdb"
   "sergiotest.exe"
   "libsergiotest.dll.a"

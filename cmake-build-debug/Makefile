@@ -516,6 +516,33 @@ InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
 .PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
 
+InterviewProblems/SumBinaryTree/SumBinaryTree.o: InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o
+
+.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.o
+
+# target to build an object file
+InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o
+.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o
+
+InterviewProblems/SumBinaryTree/SumBinaryTree.i: InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.i
+
+.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.i
+
+# target to preprocess a source file
+InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.i
+.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.i
+
+InterviewProblems/SumBinaryTree/SumBinaryTree.s: InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.s
+
+.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.s
+
+# target to generate assembly for a file
+InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.s
+.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.s
+
 InterviewProblems/SumOfSubarrays/SumOfSubarrays.o: InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
 
 .PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.o
@@ -1133,6 +1160,9 @@ help:
 	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.o"
 	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.i"
 	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.s"
+	@echo "... InterviewProblems/SumBinaryTree/SumBinaryTree.o"
+	@echo "... InterviewProblems/SumBinaryTree/SumBinaryTree.i"
+	@echo "... InterviewProblems/SumBinaryTree/SumBinaryTree.s"
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.o"
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.i"
 	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.s"
