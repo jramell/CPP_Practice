@@ -49,6 +49,8 @@ CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustifica
 CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o: ../InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o: ../InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.h
 
+CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o: ../OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp
+
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-actions.h
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-cardinalities.h
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-generated-actions.h

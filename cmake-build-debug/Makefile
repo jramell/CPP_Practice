@@ -624,6 +624,33 @@ InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
 .PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
 
+OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.o: OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o
+
+.PHONY : OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.o
+
+# target to build an object file
+OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o
+.PHONY : OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o
+
+OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.i: OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.i
+
+.PHONY : OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.i
+
+# target to preprocess a source file
+OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.i
+.PHONY : OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.i
+
+OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.s: OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.s
+
+.PHONY : OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.s
+
+# target to generate assembly for a file
+OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.s
+.PHONY : OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.s
+
 Tests/DataStructures/JRLinkedList/Test_JRLinkedList.o: Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o
 
 .PHONY : Tests/DataStructures/JRLinkedList/Test_JRLinkedList.o
@@ -1172,6 +1199,9 @@ help:
 	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o"
 	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.i"
 	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.s"
+	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.o"
+	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.i"
+	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.s"
 	@echo "... Tests/DataStructures/JRLinkedList/Test_JRLinkedList.o"
 	@echo "... Tests/DataStructures/JRLinkedList/Test_JRLinkedList.i"
 	@echo "... Tests/DataStructures/JRLinkedList/Test_JRLinkedList.s"
