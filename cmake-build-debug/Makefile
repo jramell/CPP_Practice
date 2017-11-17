@@ -273,6 +273,33 @@ Algorithms/Search.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.s
 .PHONY : Algorithms/Search.cpp.s
 
+DataStructures/JRHashTable/HashTable.o: DataStructures/JRHashTable/HashTable.cpp.o
+
+.PHONY : DataStructures/JRHashTable/HashTable.o
+
+# target to build an object file
+DataStructures/JRHashTable/HashTable.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o
+.PHONY : DataStructures/JRHashTable/HashTable.cpp.o
+
+DataStructures/JRHashTable/HashTable.i: DataStructures/JRHashTable/HashTable.cpp.i
+
+.PHONY : DataStructures/JRHashTable/HashTable.i
+
+# target to preprocess a source file
+DataStructures/JRHashTable/HashTable.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.i
+.PHONY : DataStructures/JRHashTable/HashTable.cpp.i
+
+DataStructures/JRHashTable/HashTable.s: DataStructures/JRHashTable/HashTable.cpp.s
+
+.PHONY : DataStructures/JRHashTable/HashTable.s
+
+# target to generate assembly for a file
+DataStructures/JRHashTable/HashTable.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.s
+.PHONY : DataStructures/JRHashTable/HashTable.cpp.s
+
 DataStructures/JRQueue/Queue.o: DataStructures/JRQueue/Queue.cpp.o
 
 .PHONY : DataStructures/JRQueue/Queue.o
@@ -434,6 +461,33 @@ InterviewProblems/MinesweeperBoard/MinesweeperBoard.s: InterviewProblems/Mineswe
 InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
 .PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
+
+InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o: InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
+
+.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o
+
+# target to build an object file
+InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
+.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
+
+InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i: InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i
+
+.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i
+
+# target to preprocess a source file
+InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i
+.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i
+
+InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s: InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s
+
+.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s
+
+# target to generate assembly for a file
+InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s
+.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s
 
 InterviewProblems/ReverseWords/ReverseWords.o: InterviewProblems/ReverseWords/ReverseWords.cpp.o
 
@@ -1160,6 +1214,9 @@ help:
 	@echo "... Algorithms/Search.o"
 	@echo "... Algorithms/Search.i"
 	@echo "... Algorithms/Search.s"
+	@echo "... DataStructures/JRHashTable/HashTable.o"
+	@echo "... DataStructures/JRHashTable/HashTable.i"
+	@echo "... DataStructures/JRHashTable/HashTable.s"
 	@echo "... DataStructures/JRQueue/Queue.o"
 	@echo "... DataStructures/JRQueue/Queue.i"
 	@echo "... DataStructures/JRQueue/Queue.s"
@@ -1178,6 +1235,9 @@ help:
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.o"
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.i"
 	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.s"
+	@echo "... InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o"
+	@echo "... InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i"
+	@echo "... InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s"
 	@echo "... InterviewProblems/ReverseWords/ReverseWords.o"
 	@echo "... InterviewProblems/ReverseWords/ReverseWords.i"
 	@echo "... InterviewProblems/ReverseWords/ReverseWords.s"

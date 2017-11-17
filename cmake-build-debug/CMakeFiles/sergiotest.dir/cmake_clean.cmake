@@ -33,6 +33,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/sergiotest.dir/cracking_code_interview/BalancedBrackets/BalancedBrackets.cpp.o"
   "CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o"
   "CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o"
+  "CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o"
+  "CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o"
   "sergiotest.pdb"
   "sergiotest.exe"
   "libsergiotest.dll.a"
