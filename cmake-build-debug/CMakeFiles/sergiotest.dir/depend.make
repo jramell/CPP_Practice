@@ -7,6 +7,9 @@ CMakeFiles/sergiotest.dir/Algorithms/GreatestCommonDivisor/GreatestCommonDivisor
 CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o: ../Algorithms/Search.cpp
 CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o: ../Algorithms/Search.h
 
+CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o: ../DataStructures/JRHashTable/HashTable.cpp
+CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o: ../DataStructures/JRHashTable/HashTable.h
+
 CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o: ../DataStructures/JRQueue/Queue.cpp
 CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o: ../DataStructures/JRQueue/Queue.h
 
@@ -28,11 +31,15 @@ CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cp
 CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 
+CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o: ../InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
+
 CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.o: ../InterviewProblems/ReverseWords/ReverseWords.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.o: ../InterviewProblems/ReverseWords/ReverseWords.h
 
 CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o: ../InterviewProblems/SingleNumber2/SingleNumber2.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o: ../InterviewProblems/SingleNumber2/SingleNumber2.h
+
+CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o: ../InterviewProblems/SpiralMatrix/SpiralMatrix.cpp
 
 CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o: ../InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o: ../InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h

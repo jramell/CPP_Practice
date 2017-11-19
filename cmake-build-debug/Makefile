@@ -543,6 +543,33 @@ InterviewProblems/SingleNumber2/SingleNumber2.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.s
 .PHONY : InterviewProblems/SingleNumber2/SingleNumber2.cpp.s
 
+InterviewProblems/SpiralMatrix/SpiralMatrix.o: InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o
+
+.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.o
+
+# target to build an object file
+InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o
+.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o
+
+InterviewProblems/SpiralMatrix/SpiralMatrix.i: InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.i
+
+.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.i
+
+# target to preprocess a source file
+InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.i
+.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.i
+
+InterviewProblems/SpiralMatrix/SpiralMatrix.s: InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.s
+
+.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.s
+
+# target to generate assembly for a file
+InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.s
+.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.s
+
 InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.o: InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
 
 .PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.o
@@ -1244,6 +1271,9 @@ help:
 	@echo "... InterviewProblems/SingleNumber2/SingleNumber2.o"
 	@echo "... InterviewProblems/SingleNumber2/SingleNumber2.i"
 	@echo "... InterviewProblems/SingleNumber2/SingleNumber2.s"
+	@echo "... InterviewProblems/SpiralMatrix/SpiralMatrix.o"
+	@echo "... InterviewProblems/SpiralMatrix/SpiralMatrix.i"
+	@echo "... InterviewProblems/SpiralMatrix/SpiralMatrix.s"
 	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.o"
 	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.i"
 	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.s"
