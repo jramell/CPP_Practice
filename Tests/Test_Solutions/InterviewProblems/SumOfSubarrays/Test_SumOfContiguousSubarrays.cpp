@@ -1,6 +1,6 @@
 #include "gtest/gtest.h"
 
-#include "../../../../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h"
+#include "../../../../InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h"
 
 using jr::sumOfContiguousSubarrays;
 using std::vector;

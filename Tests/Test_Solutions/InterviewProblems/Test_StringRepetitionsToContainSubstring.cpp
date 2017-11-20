@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "../../../InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h"
+#include "../../../InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h"
 
 using jr::numberOfRepetitions;
 

@@ -17,41 +17,43 @@ CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.o: ../DataStructures/
 CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.o: ../DataStructures/JRStack/StackNode.cpp
 CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.o: ../DataStructures/JRStack/StackNode.h
 
-CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o: ../InterviewProblems/BreakIntoWords/BreakIntoWords.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o: ../InterviewProblems/BreakIntoWords/BreakIntoWords.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o: ../InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp
 
-CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o: ../InterviewProblems/MaxStockProfit_LC714/LC714.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o: ../InterviewProblems/MaxStockProfit_LC714/LC714.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o: ../InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o: ../InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
 
-CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.h
-CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o: ../InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o: ../InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.h
 
-CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o: ../InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
 
-CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.o: ../InterviewProblems/ReverseWords/ReverseWords.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.o: ../InterviewProblems/ReverseWords/ReverseWords.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o: ../InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
 
-CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o: ../InterviewProblems/SingleNumber2/SingleNumber2.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o: ../InterviewProblems/SingleNumber2/SingleNumber2.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o: ../InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o: ../InterviewProblems/CodingProblems/ReverseWords/ReverseWords.h
 
-CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o: ../InterviewProblems/SpiralMatrix/SpiralMatrix.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.o: ../InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.o: ../InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.h
 
-CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o: ../InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o: ../InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.o: ../InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp
 
-CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o: ../InterviewProblems/SumBinaryTree/SumBinaryTree.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o: ../InterviewProblems/SumBinaryTree/SumBinaryTree.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o: ../InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o: ../InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
 
-CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o: ../InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o: ../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.o: ../InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.o: ../InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.h
 
-CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o: ../InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o: ../InterviewProblems/TextJustification_LC68/TextJustification_LC68.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o: ../InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o: ../InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
 
-CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o: ../InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o: ../InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.o: ../InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.o: ../InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.h
+
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o: ../InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o: ../InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.h
 
 CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o: ../OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp
 
@@ -291,7 +293,7 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: ../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: ../InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: ../Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
 
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
@@ -316,7 +318,7 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoW
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o: ../InterviewProblems/BreakIntoWords/BreakIntoWords.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o: ../InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o: ../Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp
 
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
@@ -341,9 +343,9 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_Minesweepe
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.cpp
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.h
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.cpp
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o: ../Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp
 
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
@@ -368,9 +370,9 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_Minesweepe
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.cpp
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.h
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.cpp
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o: ../Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp
 
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
@@ -395,7 +397,7 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepe
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o: ../InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o: ../InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o: ../Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp
 
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
@@ -476,8 +478,5 @@ CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRHashTable/HashTable.cpp
 CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRHashTable/HashTable.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.cpp
-CMakeFiles/sergiotest.dir/main.cpp.o: ../InterviewProblems/MinesweeperBoard/Matrix.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../main.cpp
 

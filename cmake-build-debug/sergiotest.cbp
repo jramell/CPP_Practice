@@ -361,73 +361,76 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ArrayIndex&amp;ElementEquality/ArrayIndex&amp;ElementEquality.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MaxStockProfit_LC714/LC714.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MaxStockProfit_LC714/LC714.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/ReverseWords/ReverseWords.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/ReverseWords/ReverseWords.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SingleNumber2/SingleNumber2.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SingleNumber2/SingleNumber2.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumBinaryTree/SumBinaryTree.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/TextJustification_LC68/TextJustification_LC68.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.h">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp">

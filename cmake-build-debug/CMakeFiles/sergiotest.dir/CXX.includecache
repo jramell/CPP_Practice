@@ -546,115 +546,119 @@ JRVector.h
 JRVector.cpp
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.cpp
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp
+vector
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp
 BreakIntoWords.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
 vector
 -
 iostream
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
 string
 -
 unordered_set
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MaxStockProfit_LC714/LC714.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp
 LC714.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MaxStockProfit_LC714/LC714.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MaxStockProfit_LC714/LC714.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.h
 vector
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.cpp
 stdexcept
 -
 iostream
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.h
 vector
 -
 Matrix.cpp
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.cpp
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp
 random
 -
 MinesweeperBoard.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
 Matrix.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
 vector
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/ReverseWords/ReverseWords.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp
 ReverseWords.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/ReverseWords/ReverseWords.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/ReverseWords/ReverseWords.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.h
 string
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SingleNumber2/SingleNumber2.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp
 SingleNumber2.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SingleNumber2/SingleNumber2.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SingleNumber2/SingleNumber2.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.h
 vector
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp
 vector
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp
 StringRepetitionsToContainSubstring.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
 string
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp
 SumBinaryTree.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumBinaryTree/SumBinaryTree.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumBinaryTree/SumBinaryTree.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.h
 stack
 -
 unordered_set
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp
 SumOfSubarrays.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
 vector
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp
 TextJustification_LC68.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/TextJustification_LC68/TextJustification_LC68.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/TextJustification_LC68/TextJustification_LC68.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.h
 vector
 -
 string
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp
 UniquePaths_LC62.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp
 vector
@@ -711,32 +715,32 @@ gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/gtest/gtest.h
-../../../../InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+../../../../InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/gtest/gtest.h
-../../../InterviewProblems/BreakIntoWords/BreakIntoWords.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.h
+../../../InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/gtest/gtest.h
-../../../../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+../../../../InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/gtest/gtest.h
-../../../../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+../../../../InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/gtest/gtest.h
-../../../InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
+../../../InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp
 gtest/gtest.h
@@ -797,10 +801,6 @@ iostream
 -
 random
 -
-InterviewProblems/MinesweeperBoard/Matrix.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
-InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
 gtest/gtest.h
 -
 gmock/gmock.h

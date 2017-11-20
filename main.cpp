@@ -1,7 +1,5 @@
 #include <iostream>
 #include <random>
-#include "InterviewProblems/MinesweeperBoard/Matrix.h"
-#include "InterviewProblems/MinesweeperBoard/MinesweeperBoard.h"
 #include <gtest/gtest.h>
 #include <gmock/gmock.h>
 #include <forward_list>
@@ -20,18 +18,6 @@ void runTests(int argc, char* argv[])
 {
     testing::InitGoogleTest(&argc, argv);
     RUN_ALL_TESTS();
-}
-
-void printBinaryOfInt(int number) {
-/*    for (int i = 31; i >= 0; i--) {
-        if ( ((1 << i) & number) > 0) {
-            cout << "1";
-        } else {
-            cout << "0";
-        }
-    }
-    cout << endl;*/
-    cout << std::bitset<32>(number) << endl;
 }
 
 #include "DataStructures/JRHashTable/HashTable.h"

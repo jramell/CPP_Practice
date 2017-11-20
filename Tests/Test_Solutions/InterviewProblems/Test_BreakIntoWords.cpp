@@ -1,6 +1,6 @@
 #include "gtest/gtest.h"
 
-#include "../../../InterviewProblems/BreakIntoWords/BreakIntoWords.h"
+#include "../../../InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h"
 
 using std::string;
 using std::unordered_set;

@@ -354,329 +354,356 @@ DataStructures/JRStack/StackNode.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.s
 .PHONY : DataStructures/JRStack/StackNode.cpp.s
 
-InterviewProblems/BreakIntoWords/BreakIntoWords.o: InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o
+InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.o: InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o
 
-.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.o
-
-# target to build an object file
-InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o
-.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o
-
-InterviewProblems/BreakIntoWords/BreakIntoWords.i: InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.i
-
-.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.i
-
-# target to preprocess a source file
-InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.i
-.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.i
-
-InterviewProblems/BreakIntoWords/BreakIntoWords.s: InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s
-
-.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.s
-
-# target to generate assembly for a file
-InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s
-.PHONY : InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.s
-
-InterviewProblems/MaxStockProfit_LC714/LC714.o: InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o
-
-.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.o
+.PHONY : InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.o
 
 # target to build an object file
-InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o
-.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o
+InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o"
+.PHONY : InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o
 
-InterviewProblems/MaxStockProfit_LC714/LC714.i: InterviewProblems/MaxStockProfit_LC714/LC714.cpp.i
+InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.i: InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.i
 
-.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.i
+.PHONY : InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.i
 
 # target to preprocess a source file
-InterviewProblems/MaxStockProfit_LC714/LC714.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.i
-.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.cpp.i
+InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.i"
+.PHONY : InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.i
 
-InterviewProblems/MaxStockProfit_LC714/LC714.s: InterviewProblems/MaxStockProfit_LC714/LC714.cpp.s
+InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.s: InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.s
 
-.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.s
+.PHONY : InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.s
 
 # target to generate assembly for a file
-InterviewProblems/MaxStockProfit_LC714/LC714.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.s
-.PHONY : InterviewProblems/MaxStockProfit_LC714/LC714.cpp.s
+InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.s"
+.PHONY : InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.s
 
-InterviewProblems/MinesweeperBoard/MinesweeperBoard.o: InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
+InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.o: InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o
 
-.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.o
+.PHONY : InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.o
 
 # target to build an object file
-InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
-.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
+InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o
+.PHONY : InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o
 
-InterviewProblems/MinesweeperBoard/MinesweeperBoard.i: InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.i
+InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.i: InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.i
 
-.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.i
+.PHONY : InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.i
 
 # target to preprocess a source file
-InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.i
-.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.i
+InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.i
+.PHONY : InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.i
 
-InterviewProblems/MinesweeperBoard/MinesweeperBoard.s: InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
+InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.s: InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.s
 
-.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.s
+.PHONY : InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.s
 
 # target to generate assembly for a file
-InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
-.PHONY : InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
+InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.s
+.PHONY : InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.s
 
-InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o: InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
+InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.o: InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o
 
-.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o
+.PHONY : InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.o
 
 # target to build an object file
-InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
-.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
+InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o
+.PHONY : InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o
 
-InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i: InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i
+InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.i: InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.i
 
-.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i
+.PHONY : InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.i
 
 # target to preprocess a source file
-InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i
-.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i
+InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.i
+.PHONY : InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.i
 
-InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s: InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s
+InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.s: InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.s
 
-.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s
+.PHONY : InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.s
 
 # target to generate assembly for a file
-InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s
-.PHONY : InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s
+InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.s
+.PHONY : InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.s
 
-InterviewProblems/ReverseWords/ReverseWords.o: InterviewProblems/ReverseWords/ReverseWords.cpp.o
+InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.o: InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
 
-.PHONY : InterviewProblems/ReverseWords/ReverseWords.o
+.PHONY : InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.o
 
 # target to build an object file
-InterviewProblems/ReverseWords/ReverseWords.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.o
-.PHONY : InterviewProblems/ReverseWords/ReverseWords.cpp.o
+InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
+.PHONY : InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
 
-InterviewProblems/ReverseWords/ReverseWords.i: InterviewProblems/ReverseWords/ReverseWords.cpp.i
+InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.i: InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.i
 
-.PHONY : InterviewProblems/ReverseWords/ReverseWords.i
+.PHONY : InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.i
 
 # target to preprocess a source file
-InterviewProblems/ReverseWords/ReverseWords.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.i
-.PHONY : InterviewProblems/ReverseWords/ReverseWords.cpp.i
+InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.i
+.PHONY : InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.i
 
-InterviewProblems/ReverseWords/ReverseWords.s: InterviewProblems/ReverseWords/ReverseWords.cpp.s
+InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.s: InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
 
-.PHONY : InterviewProblems/ReverseWords/ReverseWords.s
+.PHONY : InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.s
 
 # target to generate assembly for a file
-InterviewProblems/ReverseWords/ReverseWords.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.s
-.PHONY : InterviewProblems/ReverseWords/ReverseWords.cpp.s
+InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
+.PHONY : InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
 
-InterviewProblems/SingleNumber2/SingleNumber2.o: InterviewProblems/SingleNumber2/SingleNumber2.cpp.o
+InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o: InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
 
-.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.o
+.PHONY : InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o
 
 # target to build an object file
-InterviewProblems/SingleNumber2/SingleNumber2.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o
-.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.cpp.o
+InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
+.PHONY : InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
 
-InterviewProblems/SingleNumber2/SingleNumber2.i: InterviewProblems/SingleNumber2/SingleNumber2.cpp.i
+InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i: InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i
 
-.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.i
+.PHONY : InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i
 
 # target to preprocess a source file
-InterviewProblems/SingleNumber2/SingleNumber2.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.i
-.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.cpp.i
+InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i
+.PHONY : InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i
 
-InterviewProblems/SingleNumber2/SingleNumber2.s: InterviewProblems/SingleNumber2/SingleNumber2.cpp.s
+InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s: InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s
 
-.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.s
+.PHONY : InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s
 
 # target to generate assembly for a file
-InterviewProblems/SingleNumber2/SingleNumber2.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.s
-.PHONY : InterviewProblems/SingleNumber2/SingleNumber2.cpp.s
+InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s
+.PHONY : InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.s
 
-InterviewProblems/SpiralMatrix/SpiralMatrix.o: InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o
+InterviewProblems/CodingProblems/ReverseWords/ReverseWords.o: InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o
 
-.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.o
+.PHONY : InterviewProblems/CodingProblems/ReverseWords/ReverseWords.o
 
 # target to build an object file
-InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o
-.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o
+InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o
+.PHONY : InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o
 
-InterviewProblems/SpiralMatrix/SpiralMatrix.i: InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.i
+InterviewProblems/CodingProblems/ReverseWords/ReverseWords.i: InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.i
 
-.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.i
+.PHONY : InterviewProblems/CodingProblems/ReverseWords/ReverseWords.i
 
 # target to preprocess a source file
-InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.i
-.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.i
+InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.i
+.PHONY : InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.i
 
-InterviewProblems/SpiralMatrix/SpiralMatrix.s: InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.s
+InterviewProblems/CodingProblems/ReverseWords/ReverseWords.s: InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.s
 
-.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.s
+.PHONY : InterviewProblems/CodingProblems/ReverseWords/ReverseWords.s
 
 # target to generate assembly for a file
-InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.s
-.PHONY : InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.s
+InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.s
+.PHONY : InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.s
 
-InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.o: InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
+InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.o: InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.o
 
-.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.o
+.PHONY : InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.o
 
 # target to build an object file
-InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
-.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
+InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.o
+.PHONY : InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.o
 
-InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.i: InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i
+InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.i: InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.i
 
-.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.i
+.PHONY : InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.i
 
 # target to preprocess a source file
-InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i
-.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i
+InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.i
+.PHONY : InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.i
 
-InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.s: InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
+InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.s: InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.s
 
-.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.s
+.PHONY : InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.s
 
 # target to generate assembly for a file
-InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
-.PHONY : InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
+InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.s
+.PHONY : InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.s
 
-InterviewProblems/SumBinaryTree/SumBinaryTree.o: InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o
+InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.o: InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.o
 
-.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.o
+.PHONY : InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.o
 
 # target to build an object file
-InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o
-.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o
+InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.o
+.PHONY : InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.o
 
-InterviewProblems/SumBinaryTree/SumBinaryTree.i: InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.i
+InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.i: InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.i
 
-.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.i
+.PHONY : InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.i
 
 # target to preprocess a source file
-InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.i
-.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.i
+InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.i
+.PHONY : InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.i
 
-InterviewProblems/SumBinaryTree/SumBinaryTree.s: InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.s
+InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.s: InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.s
 
-.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.s
+.PHONY : InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.s
 
 # target to generate assembly for a file
-InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.s
-.PHONY : InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.s
+InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.s
+.PHONY : InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.s
 
-InterviewProblems/SumOfSubarrays/SumOfSubarrays.o: InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
+InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.o: InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
 
-.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.o
+.PHONY : InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.o
 
 # target to build an object file
-InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
-.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
+InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
+.PHONY : InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
 
-InterviewProblems/SumOfSubarrays/SumOfSubarrays.i: InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.i
+InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.i: InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i
 
-.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.i
+.PHONY : InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.i
 
 # target to preprocess a source file
-InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.i
-.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.i
+InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i
+.PHONY : InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.i
 
-InterviewProblems/SumOfSubarrays/SumOfSubarrays.s: InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
+InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.s: InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
 
-.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.s
+.PHONY : InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.s
 
 # target to generate assembly for a file
-InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
-.PHONY : InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
+InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
+.PHONY : InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.s
 
-InterviewProblems/TextJustification_LC68/TextJustification_LC68.o: InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
+InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.o: InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.o
 
-.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.o
+.PHONY : InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.o
 
 # target to build an object file
-InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
-.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
+InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.o
+.PHONY : InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.o
 
-InterviewProblems/TextJustification_LC68/TextJustification_LC68.i: InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.i
+InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.i: InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.i
 
-.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.i
+.PHONY : InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.i
 
 # target to preprocess a source file
-InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.i
-.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.i
+InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.i
+.PHONY : InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.i
 
-InterviewProblems/TextJustification_LC68/TextJustification_LC68.s: InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.s
+InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.s: InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.s
 
-.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.s
+.PHONY : InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.s
 
 # target to generate assembly for a file
-InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.s
-.PHONY : InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.s
+InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.s
+.PHONY : InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.s
 
-InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o: InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
+InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.o: InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
 
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o
+.PHONY : InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.o
 
 # target to build an object file
-InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
+InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
+.PHONY : InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
 
-InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.i: InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i
+InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.i: InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.i
 
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.i
+.PHONY : InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.i
 
 # target to preprocess a source file
-InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i
+InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.i
+.PHONY : InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.i
 
-InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.s: InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
+InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.s: InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
 
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.s
+.PHONY : InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.s
 
 # target to generate assembly for a file
-InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
-.PHONY : InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
+InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
+.PHONY : InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.s
+
+InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.o: InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
+
+.PHONY : InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.o
+
+# target to build an object file
+InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
+.PHONY : InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
+
+InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.i: InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.i
+
+.PHONY : InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.i
+
+# target to preprocess a source file
+InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.i
+.PHONY : InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.i
+
+InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.s: InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.s
+
+.PHONY : InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.s
+
+# target to generate assembly for a file
+InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.s
+.PHONY : InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.s
+
+InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.o: InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
+
+.PHONY : InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.o
+
+# target to build an object file
+InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
+.PHONY : InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
+
+InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.i: InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i
+
+.PHONY : InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.i
+
+# target to preprocess a source file
+InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i
+.PHONY : InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.i
+
+InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.s: InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
+
+.PHONY : InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.s
+
+# target to generate assembly for a file
+InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
+.PHONY : InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
 
 OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.o: OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o
 
@@ -1223,42 +1250,45 @@ help:
 	@echo "... DataStructures/JRStack/StackNode.o"
 	@echo "... DataStructures/JRStack/StackNode.i"
 	@echo "... DataStructures/JRStack/StackNode.s"
-	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.o"
-	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.i"
-	@echo "... InterviewProblems/BreakIntoWords/BreakIntoWords.s"
-	@echo "... InterviewProblems/MaxStockProfit_LC714/LC714.o"
-	@echo "... InterviewProblems/MaxStockProfit_LC714/LC714.i"
-	@echo "... InterviewProblems/MaxStockProfit_LC714/LC714.s"
-	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.o"
-	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.i"
-	@echo "... InterviewProblems/MinesweeperBoard/MinesweeperBoard.s"
-	@echo "... InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o"
-	@echo "... InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i"
-	@echo "... InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s"
-	@echo "... InterviewProblems/ReverseWords/ReverseWords.o"
-	@echo "... InterviewProblems/ReverseWords/ReverseWords.i"
-	@echo "... InterviewProblems/ReverseWords/ReverseWords.s"
-	@echo "... InterviewProblems/SingleNumber2/SingleNumber2.o"
-	@echo "... InterviewProblems/SingleNumber2/SingleNumber2.i"
-	@echo "... InterviewProblems/SingleNumber2/SingleNumber2.s"
-	@echo "... InterviewProblems/SpiralMatrix/SpiralMatrix.o"
-	@echo "... InterviewProblems/SpiralMatrix/SpiralMatrix.i"
-	@echo "... InterviewProblems/SpiralMatrix/SpiralMatrix.s"
-	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.o"
-	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.i"
-	@echo "... InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.s"
-	@echo "... InterviewProblems/SumBinaryTree/SumBinaryTree.o"
-	@echo "... InterviewProblems/SumBinaryTree/SumBinaryTree.i"
-	@echo "... InterviewProblems/SumBinaryTree/SumBinaryTree.s"
-	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.o"
-	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.i"
-	@echo "... InterviewProblems/SumOfSubarrays/SumOfSubarrays.s"
-	@echo "... InterviewProblems/TextJustification_LC68/TextJustification_LC68.o"
-	@echo "... InterviewProblems/TextJustification_LC68/TextJustification_LC68.i"
-	@echo "... InterviewProblems/TextJustification_LC68/TextJustification_LC68.s"
-	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.o"
-	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.i"
-	@echo "... InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.s"
+	@echo "... InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.o"
+	@echo "... InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.i"
+	@echo "... InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.s"
+	@echo "... InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.o"
+	@echo "... InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.i"
+	@echo "... InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.s"
+	@echo "... InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.o"
+	@echo "... InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.i"
+	@echo "... InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.s"
+	@echo "... InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.o"
+	@echo "... InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.i"
+	@echo "... InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.s"
+	@echo "... InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o"
+	@echo "... InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i"
+	@echo "... InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s"
+	@echo "... InterviewProblems/CodingProblems/ReverseWords/ReverseWords.o"
+	@echo "... InterviewProblems/CodingProblems/ReverseWords/ReverseWords.i"
+	@echo "... InterviewProblems/CodingProblems/ReverseWords/ReverseWords.s"
+	@echo "... InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.o"
+	@echo "... InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.i"
+	@echo "... InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.s"
+	@echo "... InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.o"
+	@echo "... InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.i"
+	@echo "... InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.s"
+	@echo "... InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.o"
+	@echo "... InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.i"
+	@echo "... InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.s"
+	@echo "... InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.o"
+	@echo "... InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.i"
+	@echo "... InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.s"
+	@echo "... InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.o"
+	@echo "... InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.i"
+	@echo "... InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.s"
+	@echo "... InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.o"
+	@echo "... InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.i"
+	@echo "... InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.s"
+	@echo "... InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.o"
+	@echo "... InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.i"
+	@echo "... InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.s"
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.o"
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.i"
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.s"

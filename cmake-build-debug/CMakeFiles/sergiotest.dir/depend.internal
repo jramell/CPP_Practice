@@ -17,42 +17,44 @@ CMakeFiles/sergiotest.dir/DataStructures/JRStack/Stack.cpp.o
 CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.o
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/StackNode.cpp
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRStack/StackNode.h
-CMakeFiles/sergiotest.dir/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.h
-CMakeFiles/sergiotest.dir/InterviewProblems/MaxStockProfit_LC714/LC714.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MaxStockProfit_LC714/LC714.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MaxStockProfit_LC714/LC714.h
-CMakeFiles/sergiotest.dir/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
-CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/ReverseWords.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/ReverseWords/ReverseWords.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/ReverseWords/ReverseWords.h
-CMakeFiles/sergiotest.dir/InterviewProblems/SingleNumber2/SingleNumber2.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SingleNumber2/SingleNumber2.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SingleNumber2/SingleNumber2.h
-CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp
-CMakeFiles/sergiotest.dir/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
-CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumBinaryTree/SumBinaryTree.h
-CMakeFiles/sergiotest.dir/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
-CMakeFiles/sergiotest.dir/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/TextJustification_LC68/TextJustification_LC68.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/TextJustification_LC68/TextJustification_LC68.h
-CMakeFiles/sergiotest.dir/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/UniquePaths_LC62/UniquePaths_LC62.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.h
 CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o
@@ -292,7 +294,7 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/
  ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SumOfSubarrays/SumOfSubarrays.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o
  ../lib/googletest/googletest/include/gtest/gtest-death-test.h
@@ -317,7 +319,7 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoW
  ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/BreakIntoWords/BreakIntoWords.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
  ../lib/googletest/googletest/include/gtest/gtest-death-test.h
@@ -342,9 +344,9 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_Minesweepe
  ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.o
  ../lib/googletest/googletest/include/gtest/gtest-death-test.h
@@ -369,9 +371,9 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_Minesweepe
  ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/Matrix.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
  ../lib/googletest/googletest/include/gtest/gtest-death-test.h
@@ -396,7 +398,7 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepe
  ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
  ../lib/googletest/googletest/include/gtest/gtest-death-test.h
@@ -477,7 +479,4 @@ CMakeFiles/sergiotest.dir/main.cpp.o
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/Matrix.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/MinesweeperBoard/MinesweeperBoard.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/main.cpp

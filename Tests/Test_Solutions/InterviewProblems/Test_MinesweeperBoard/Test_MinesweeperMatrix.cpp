@@ -1,5 +1,5 @@
 #include "gtest/gtest.h"
-#include "../../../../InterviewProblems/MinesweeperBoard/MinesweeperBoard.h"
+#include "../../../../InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h"
 
 using minesweeper::Matrix;
 
