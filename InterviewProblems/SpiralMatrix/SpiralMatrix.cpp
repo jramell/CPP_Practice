@@ -44,7 +44,7 @@ std::vector<int> spiralCopy(const std::vector<std::vector<int>>& inputMatrix) {
         }
         //copying bottom row from right to left
         for(int i = width-1-copiedRightColumns; i >= copiedRightColumns-1; i--) {
-            spiralCopy.push_back(inputMatrix.at(inputMatrix.size()-1-(copiedTopRows-1)).at(i));
+            spiralCopy.push_back(inputMatrix.at(height-1-(copiedTopRows-1)).at(i));
         }
 
         //copying left column from bottom to top

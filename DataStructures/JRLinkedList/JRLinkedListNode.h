@@ -9,7 +9,6 @@
 
 template <typename T>
 class JRLinkedListNode {
-
     T data;
 
 public:

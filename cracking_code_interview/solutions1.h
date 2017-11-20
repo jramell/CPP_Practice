@@ -1,7 +1,3 @@
-//
-// Created by Sergio on 25/06/2017.
-//
-
 #ifndef SERGIOTEST_SOLUTIONS1_H
 #define SERGIOTEST_SOLUTIONS1_H
 

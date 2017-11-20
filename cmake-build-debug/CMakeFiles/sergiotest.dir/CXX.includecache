@@ -485,6 +485,10 @@ HashTable.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
 cstdint
 -
+forward_list
+-
+HashTable.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.cpp
 stdexcept
@@ -807,4 +811,6 @@ unordered_set
 -
 bitset
 -
+DataStructures/JRHashTable/HashTable.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
 

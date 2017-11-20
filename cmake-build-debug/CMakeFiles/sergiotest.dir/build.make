@@ -873,33 +873,9 @@ CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o.
 CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o.provides.build: CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o
 
 
-CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o: CMakeFiles/sergiotest.dir/flags.make
-CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o: ../DataStructures/JRHashTable/HashTable.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o"
-	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp
-
-CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.i"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp > CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.i
-
-CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.s"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp -o CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.s
-
-CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o.requires:
-
-.PHONY : CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o.requires
-
-CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o.provides: CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o.requires
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o.provides.build
-.PHONY : CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o.provides
-
-CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o.provides.build: CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o
-
-
 CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o: CMakeFiles/sergiotest.dir/flags.make
 CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o: ../InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o"
 	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
 
 CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.i: cmake_force
@@ -923,7 +899,7 @@ CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/Remo
 
 CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o: CMakeFiles/sergiotest.dir/flags.make
 CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o: ../InterviewProblems/SpiralMatrix/SpiralMatrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o"
 	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp
 
 CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.i: cmake_force
@@ -981,7 +957,6 @@ sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/cracking_code_interview/BalancedBrackets/BalancedBrackets.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o" \
 "CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o" \
-"CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o"
 
@@ -1022,7 +997,6 @@ sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/ReverseWords/Reverse
 sergiotest.exe: CMakeFiles/sergiotest.dir/cracking_code_interview/BalancedBrackets/BalancedBrackets.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o
-sergiotest.exe: CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/build.make
@@ -1030,7 +1004,7 @@ sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest_main.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: CMakeFiles/sergiotest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Linking CXX executable sergiotest.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Linking CXX executable sergiotest.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sergiotest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1072,7 +1046,6 @@ CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/cracking_code_interview/BalancedBrackets/BalancedBrackets.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/SumBinaryTree/SumBinaryTree.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o.requires
-CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/SpiralMatrix/SpiralMatrix.cpp.o.requires
 

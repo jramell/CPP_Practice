@@ -34,6 +34,8 @@ void printBinaryOfInt(int number) {
     cout << std::bitset<32>(number) << endl;
 }
 
+#include "DataStructures/JRHashTable/HashTable.h"
+
 int main(int argc, char* argv[])
 {
     runTests(argc, argv);

@@ -273,33 +273,6 @@ Algorithms/Search.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.s
 .PHONY : Algorithms/Search.cpp.s
 
-DataStructures/JRHashTable/HashTable.o: DataStructures/JRHashTable/HashTable.cpp.o
-
-.PHONY : DataStructures/JRHashTable/HashTable.o
-
-# target to build an object file
-DataStructures/JRHashTable/HashTable.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.o
-.PHONY : DataStructures/JRHashTable/HashTable.cpp.o
-
-DataStructures/JRHashTable/HashTable.i: DataStructures/JRHashTable/HashTable.cpp.i
-
-.PHONY : DataStructures/JRHashTable/HashTable.i
-
-# target to preprocess a source file
-DataStructures/JRHashTable/HashTable.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.i
-.PHONY : DataStructures/JRHashTable/HashTable.cpp.i
-
-DataStructures/JRHashTable/HashTable.s: DataStructures/JRHashTable/HashTable.cpp.s
-
-.PHONY : DataStructures/JRHashTable/HashTable.s
-
-# target to generate assembly for a file
-DataStructures/JRHashTable/HashTable.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRHashTable/HashTable.cpp.s
-.PHONY : DataStructures/JRHashTable/HashTable.cpp.s
-
 DataStructures/JRQueue/Queue.o: DataStructures/JRQueue/Queue.cpp.o
 
 .PHONY : DataStructures/JRQueue/Queue.o
@@ -1241,9 +1214,6 @@ help:
 	@echo "... Algorithms/Search.o"
 	@echo "... Algorithms/Search.i"
 	@echo "... Algorithms/Search.s"
-	@echo "... DataStructures/JRHashTable/HashTable.o"
-	@echo "... DataStructures/JRHashTable/HashTable.i"
-	@echo "... DataStructures/JRHashTable/HashTable.s"
 	@echo "... DataStructures/JRQueue/Queue.o"
 	@echo "... DataStructures/JRQueue/Queue.i"
 	@echo "... DataStructures/JRQueue/Queue.s"
