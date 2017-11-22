@@ -46,7 +46,8 @@ int jr::LC714::maxProfitQuadraticTime(std::vector<int>& prices, int fee) {
  *
  * This way, when buying we have two choices: not buying or selling what we currently have and buying again. So,
  *          buy[i] = max(buy[i-1], sell[i-1] - profit - fee
- * When selling we also have two choices: not selling or buying the stock we're going to sell and selling it. So,
+ * When selling we also have two choices: not selling or buying the stock we're going to sell and selling it. We add
+ *          buy[i-1] because we already considered buying stock in previous iterations over that array. So,
  *          sell[i] = max(sell[i-1], buy[i-1] + profit
  *
  * The implementation uses i+1 instead of i to avoid out_of_range problems.

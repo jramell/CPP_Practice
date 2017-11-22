@@ -354,6 +354,33 @@ DataStructures/JRStack/StackNode.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRStack/StackNode.cpp.s
 .PHONY : DataStructures/JRStack/StackNode.cpp.s
 
+InterviewProblems/CodingProblems/AppleStocks/AppleStocks.o: InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o
+
+.PHONY : InterviewProblems/CodingProblems/AppleStocks/AppleStocks.o
+
+# target to build an object file
+InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o
+.PHONY : InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o
+
+InterviewProblems/CodingProblems/AppleStocks/AppleStocks.i: InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.i
+
+.PHONY : InterviewProblems/CodingProblems/AppleStocks/AppleStocks.i
+
+# target to preprocess a source file
+InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.i
+.PHONY : InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.i
+
+InterviewProblems/CodingProblems/AppleStocks/AppleStocks.s: InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.s
+
+.PHONY : InterviewProblems/CodingProblems/AppleStocks/AppleStocks.s
+
+# target to generate assembly for a file
+InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.s
+.PHONY : InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.s
+
 InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.o: InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o
 
 .PHONY : InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.o
@@ -921,59 +948,113 @@ Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s
 .PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s
 
-Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o: Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
+Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o: Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
 
-.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o
-
-# target to build an object file
-Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
-.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
-
-Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.i: Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
-
-.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.i
-
-# target to preprocess a source file
-Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
-.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
-
-Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.s: Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
-
-.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.s
-
-# target to generate assembly for a file
-Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
-.PHONY : Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
-
-Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.o: Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o
-
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o
 
 # target to build an object file
-Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o
+Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
 
-Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.i: Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i
+Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.i: Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
 
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.i
 
 # target to preprocess a source file
-Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i
+Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
 
-Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.s: Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s
+Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.s: Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
 
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.s
 
 # target to generate assembly for a file
-Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s
+Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.o: Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.o
+
+# target to build an object file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.i: Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.i
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.i
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.s: Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.s
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.s
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.o: Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.o
+
+# target to build an object file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.i: Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.i
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.i
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.s: Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.s
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.s
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.o: Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.o
+
+# target to build an object file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.i: Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.i
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.i
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.s: Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.s
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.s
 
 Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.o: Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
 
@@ -1028,33 +1109,6 @@ Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMat
 Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
 .PHONY : Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp.s
-
-Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.o: Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
-
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.o
-
-# target to build an object file
-Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
-
-Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.i: Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i
-
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.i
-
-# target to preprocess a source file
-Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i
-
-Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.s: Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s
-
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.s
-
-# target to generate assembly for a file
-Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s:
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s
-.PHONY : Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s
 
 Tests/Test_Solutions/Test_FirstCommonAncestor.o: Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
 
@@ -1250,6 +1304,9 @@ help:
 	@echo "... DataStructures/JRStack/StackNode.o"
 	@echo "... DataStructures/JRStack/StackNode.i"
 	@echo "... DataStructures/JRStack/StackNode.s"
+	@echo "... InterviewProblems/CodingProblems/AppleStocks/AppleStocks.o"
+	@echo "... InterviewProblems/CodingProblems/AppleStocks/AppleStocks.i"
+	@echo "... InterviewProblems/CodingProblems/AppleStocks/AppleStocks.s"
 	@echo "... InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.o"
 	@echo "... InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.i"
 	@echo "... InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.s"
@@ -1313,21 +1370,24 @@ help:
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.o"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.i"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.s"
-	@echo "... Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o"
-	@echo "... Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.i"
-	@echo "... Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.s"
-	@echo "... Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.o"
-	@echo "... Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.i"
-	@echo "... Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.s"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.o"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.i"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.s"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.o"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.i"
 	@echo "... Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.s"
-	@echo "... Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.o"
-	@echo "... Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.i"
-	@echo "... Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.s"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.o"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.i"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.s"

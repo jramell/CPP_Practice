@@ -546,6 +546,18 @@ JRVector.h
 JRVector.cpp
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRVector/JRVector.cpp
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp
+climits
+-
+stdexcept
+-
+AppleStocks.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.h
+vector
+-
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp
 vector
 -
@@ -712,17 +724,29 @@ gtest/gtest.h
 ../../../cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
 gtest/gtest.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/gtest/gtest.h
-../../../../InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/gtest/gtest.h
+../../../../../InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp
 gtest/gtest.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/gtest/gtest.h
-../../../InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/gtest/gtest.h
+../../../../InterviewProblems/CodingProblems/AppleStocks/AppleStocks.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/gtest/gtest.h
+../../../../InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/gtest/gtest.h
+../../../../InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp
 gtest/gtest.h
@@ -735,12 +759,6 @@ gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/gtest/gtest.h
 ../../../../InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
-
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp
-gtest/gtest.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/gtest/gtest.h
-../../../InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp
 gtest/gtest.h

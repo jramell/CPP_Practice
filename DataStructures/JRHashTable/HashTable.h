@@ -100,16 +100,6 @@ namespace jr {
         V& at(K key);
 
         /**
-         * My version of std::unordered_map::find, with the same contract. Namely:
-         * Searches the container for an element with k as key and returns an iterator to it if found, otherwise it returns
-         * an iterator to unordered_map::end (the element past the end of the container)
-         * @param key Key to be searched for.
-         * @return An iterator to the element, if the specified key value is found, or unordered_map::end if the specified key
-         * is not found in the container.
-         */
-       // std::iterator find(const K& key);
-
-        /**
          * @return current capacity of the HashTable's underlying container
          */
         std::size_t capacity();
@@ -147,17 +137,6 @@ namespace jr {
          * @param newLoadFactor new maximum load factor for the HashTable.
          */
         void setMaxLoadFactor(float maxLoadFactor);
-
-        /**
-         * @return iterator to the first element in the HashTable. There's no guarantee as to what
-         * the first element is.
-         */
-        //HashTable<K,V>::iterator begin();
-
-        /**
-         * @return iterator to the past-the-end element in the HashTable
-         */
-        //std::iterator end();
 
         /**
          * @return true if the HashTable contains no elements, false otherwise.

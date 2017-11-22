@@ -36,7 +36,7 @@ string breakIntoWords(string givenString, const unordered_set<string> &dictionar
         buffer = "";
         for (int j = i; j < givenString.size(); j++) {
             buffer += givenString.at(j);
-            const string &copyRef = wordMatrix.at(i - 1).at(j - 1);
+            const string& copyRef = wordMatrix.at(i - 1).at(j - 1);
             string bestPreviousAndICanDo = copyRef;
             if (dictionary.find(buffer) != dictionary.end()) {
                 //if the character that came before without taking us into account had a valid string with spaces

@@ -297,28 +297,28 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.pr
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
 
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o: CMakeFiles/sergiotest.dir/flags.make
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o: ../Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o"
-	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o: ../Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp > CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.i
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp > CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.i
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.s
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.s
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o.requires:
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o.requires:
 
-.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o.requires
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o.requires
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o.requires
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o.provides.build
-.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o.provides
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o.provides
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o
 
 
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o: CMakeFiles/sergiotest.dir/flags.make
@@ -537,28 +537,28 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfS
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o.provides.build: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
 
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: CMakeFiles/sergiotest.dir/flags.make
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: ../Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o"
-	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: ../Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp > CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp > CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.i
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.s
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.requires:
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.requires:
 
-.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.requires
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.requires
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.requires
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.provides.build
-.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.provides
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.provides
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
 
 
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o: CMakeFiles/sergiotest.dir/flags.make
@@ -705,28 +705,28 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/Str
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o.provides.build: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
 
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o: CMakeFiles/sergiotest.dir/flags.make
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o: ../Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o"
-	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o: ../Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp > CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.i
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp > CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.i
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s"
-	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.s
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.s
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o.requires:
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o.requires:
 
-.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o.requires
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o.requires
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o.requires
-	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o.provides.build
-.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o.provides
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o.provides
 
-CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o
 
 
 CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o: CMakeFiles/sergiotest.dir/flags.make
@@ -945,6 +945,54 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEqu
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o.provides.build: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o
 
 
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o: ../InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp
+
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp > CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.i
+
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp -o CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.s
+
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o.provides: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o.provides.build: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o
+
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o: ../Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp > CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.i
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp -o CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.s
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o.provides: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o.provides.build: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o
+
+
 # Object files for target sergiotest
 sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/main.cpp.o" \
@@ -957,7 +1005,7 @@ sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o" \
 "CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o" \
 "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o" \
-"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o" \
+"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o" \
 "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o" \
@@ -967,14 +1015,14 @@ sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o" \
 "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o" \
-"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o" \
+"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o" \
 "CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o" \
 "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o" \
-"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o" \
+"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o" \
 "CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o" \
@@ -983,7 +1031,9 @@ sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.o" \
-"CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o"
+"CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o" \
+"CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o" \
+"CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o"
 
 # External object files for target sergiotest
 sergiotest_EXTERNAL_OBJECTS =
@@ -998,7 +1048,7 @@ sergiotest.exe: CMakeFiles/sergiotest.dir/DataStructures/JRQueue/Queue.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o
-sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o
@@ -1008,14 +1058,14 @@ sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCom
 sergiotest.exe: CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o
-sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o
-sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o
@@ -1025,12 +1075,14 @@ sergiotest.exe: CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSu
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/build.make
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest_main.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: CMakeFiles/sergiotest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Linking CXX executable sergiotest.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable sergiotest.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sergiotest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1048,7 +1100,7 @@ CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/DataStructures/JRQ
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_BinarySearch.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o.requires
-CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_BreakIntoWords.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp.o.requires
@@ -1058,14 +1110,14 @@ CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Algorit
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.cpp.o.requires
-CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp.o.requires
-CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_StringRepetitionsToContainSubstring.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o.requires
@@ -1075,6 +1127,8 @@ CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/OtherProblems/Toy3
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/SpiralMatrix/SpiralMatrix.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEquality/ArrayIndex&ElementEquality.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/Test_AppleStocks.cpp.o.requires
 
 .PHONY : CMakeFiles/sergiotest.dir/requires
 
