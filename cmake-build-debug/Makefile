@@ -489,6 +489,33 @@ InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
 .PHONY : InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.s
 
+InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.o: InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.o
+
+.PHONY : InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.o
+
+# target to build an object file
+InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.o
+.PHONY : InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.o
+
+InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.i: InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.i
+
+.PHONY : InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.i
+
+# target to preprocess a source file
+InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.i
+.PHONY : InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.i
+
+InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.s: InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.s
+
+.PHONY : InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.s
+
+# target to generate assembly for a file
+InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.s
+.PHONY : InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.s
+
 InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o: InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
 
 .PHONY : InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o
@@ -1319,6 +1346,9 @@ help:
 	@echo "... InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.o"
 	@echo "... InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.i"
 	@echo "... InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.s"
+	@echo "... InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.o"
+	@echo "... InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.i"
+	@echo "... InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.s"
 	@echo "... InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o"
 	@echo "... InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i"
 	@echo "... InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s"

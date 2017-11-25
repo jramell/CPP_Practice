@@ -33,6 +33,8 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/Mine
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.cpp.o: ../InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
 
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.o: ../InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp
+
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o: ../InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
 
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o: ../InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp
