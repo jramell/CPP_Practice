@@ -1,0 +1,14 @@
+//
+// Created by Sergio on 11/25/2017.
+//
+
+#ifndef SERGIOTEST_PRODUCTSOFOTHERNUMBERS_H
+#define SERGIOTEST_PRODUCTSOFOTHERNUMBERS_H
+
+
+class ProductsOfOtherNumbers {
+
+};
+
+
+#endif //SERGIOTEST_PRODUCTSOFOTHERNUMBERS_H
