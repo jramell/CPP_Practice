@@ -1,12 +1,7 @@
-//
-// Created by Sergio on 8/19/2017.
-//
-
 #ifndef SERGIOTEST_STACK_H
 #define SERGIOTEST_STACK_H
 
 #include "StackNode.h"
-
 
 class Stack {
 private:
@@ -23,6 +18,5 @@ public:
     Stack(const Stack&);
     ~Stack();
 };
-
 
 #endif //SERGIOTEST_STACK_H

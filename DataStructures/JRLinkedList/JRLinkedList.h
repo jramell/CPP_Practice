@@ -1,42 +1,56 @@
-//
-// Created by Sergio on 7/20/2017.
-//
-
 #ifndef SERGIOTEST_JRLINKEDLIST_H
 #define SERGIOTEST_JRLINKEDLIST_H
 
-#include "JRLinkedListNode.h"
 #include <stdexcept>
 
-/*
- * Singly linked list. Does not manage the deallocation of T
- */
-template <typename T>
-class JRLinkedList {
+//more documentation?
+namespace jr {
+    template <typename T>
+    class JRLinkedList {
+        struct JRLinkedListNode {
+            T data;
+            JRLinkedListNode* next;
 
-    JRLinkedListNode<T>* head;
-    JRLinkedListNode<T>* tail;
+            JRLinkedListNode(T data);
+        };
 
-public:
-    /* Creates new linked list with data 0 as head */
-    JRLinkedList();
+        JRLinkedListNode* head;
+        JRLinkedListNode* tail;
+    public:
+        class iterator {
+            iterator& operator++();
+        };
+        JRLinkedList();
+        ~JRLinkedList();
 
-    ~JRLinkedList();
+        bool empty() const;
+        bool empty();
 
-    /* Creates new linked list with specified node as head */
-    JRLinkedList(JRLinkedListNode<T> head);
+        void push_back(const T& object);
 
-    /* Inserts at end */
-    void push_back(const T& object);
+        /* Inserts at beginning */
+        void insert(const T& object);
 
-    /* Inserts at start */
-    void insert(const T& object);
-    void remove(int position);
-    const T& get(int position) const;
-    T& get(int position);
+        /**
+         * Removes all elements with value
+         * @throws std::out_of_range if list is empty
+         */
+        void remove(const T& value);
 
-    const T& getLastElement() const;
-};
+        /**
+         * @return reference to the first element of the list
+         * @throws std::out_of_range if the list is empty
+         */
+        const T& front() const;
+        T& front();
+
+        const T& get(int position) const;
+        T& get(int position);
+
+        const T& back() const;
+        T& back();
+    };
+}
 
 #include "JRLinkedList.cpp"
 

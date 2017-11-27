@@ -21,6 +21,7 @@ void runTests(int argc, char* argv[])
 }
 
 #include "DataStructures/JRHashTable/HashTable.h"
+#include "DataStructures/JRLinkedList/JRLinkedList.h"
 
 int main(int argc, char* argv[])
 {

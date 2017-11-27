@@ -495,20 +495,10 @@ stdexcept
 -
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
-JRLinkedListNode.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedListNode.h
 stdexcept
 -
 JRLinkedList.cpp
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.cpp
-
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedListNode.cpp
-
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedListNode.h
-string
--
-JRLinkedListNode.cpp
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedListNode.cpp
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRQueue/Queue.cpp
 stdexcept
@@ -612,6 +602,14 @@ vector
 algorithm
 -
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp
+ProductsOfOtherNumbers.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h
+vector
+-
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
 vector
 -
@@ -685,10 +683,8 @@ iostream
 -
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp
-gmock/gmock.h
--
 gtest/gtest.h
--
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/gtest/gtest.h
 ../../../DataStructures/JRLinkedList/JRLinkedList.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
 
@@ -729,6 +725,12 @@ gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/gtest/gtest.h
 ../../../cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/gtest/gtest.h
+../../../../InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp
 gtest/gtest.h
@@ -837,4 +839,6 @@ bitset
 -
 DataStructures/JRHashTable/HashTable.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
+DataStructures/JRLinkedList/JRLinkedList.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
 

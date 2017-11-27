@@ -1,16 +1,17 @@
 #include <stdexcept>
 
+using jr::JRLinkedList;
+
 template <typename T>
-JRLinkedList<T>::JRLinkedList() {
-    head =  nullptr;
-    tail = head;
-}
+JRLinkedList<T>::JRLinkedListNode::JRLinkedListNode(T data) : data(data), next(nullptr) { }
+
+template <typename T>
+JRLinkedList<T>::JRLinkedList() : head(nullptr), tail(nullptr) { }
 
 template <typename T>
 JRLinkedList<T>::~JRLinkedList() {
-    JRLinkedListNode<T>* current = head;
-    while (head)
-    {
+    JRLinkedListNode* current = head;
+    while (head) {
         head = current->next;
         delete current;
         current = head;
@@ -18,74 +19,87 @@ JRLinkedList<T>::~JRLinkedList() {
 }
 
 template <typename T>
-JRLinkedList<T>::JRLinkedList(JRLinkedListNode<T> head) : head(&head), tail(this->head) { }
-
-template <typename T>
-void JRLinkedList<T>::insert(const T& object) {
-    JRLinkedListNode<T>* node = new JRLinkedListNode<T>(object);
-    node->next = head;
-    head = node;
-    if (!tail)
-    {
-        tail = node->next;
-    }
+bool JRLinkedList<T>::empty() const {
+    return head == nullptr;
 }
 
 template <typename T>
-void JRLinkedList<T>::remove(int position) {
-    if (!head) {
-        throw std::out_of_range("No elements in list");
-    }
+bool JRLinkedList<T>::empty() {
+    return static_cast<const JRLinkedList<T>&>(*this).empty();
+}
 
-    if (position == 0) {
-        JRLinkedListNode<T>* newHead = head->next;
-        delete head;
-        head = newHead;
-        return;
+template <typename T>
+void JRLinkedList<T>::insert(const T& object) {
+    JRLinkedListNode* node = new JRLinkedListNode(object);
+    node->next = head;
+    head = node;
+    if (!(node->next)) {
+        tail = head;
     }
-    JRLinkedListNode<T>* current = head;
-    JRLinkedListNode<T>* objectToDelete = 0;
-    int currentPosition = 0;
-    while (current)
-    {
-        currentPosition++;
-        if (currentPosition == position)
-        {
-            objectToDelete = current->next;
-            current->next = objectToDelete->next;
-            delete objectToDelete;
-            if (!current->next) {
-                tail = current;
-            }
-            return;
-        }
-        current = current->next;
-    }
-    std::string exception = "No element at ";
-    exception.append(std::to_string(position));
-    throw std::out_of_range(exception);
 }
 
 template <typename T>
 void JRLinkedList<T>::push_back(const T& object) {
-    tail->next = new JRLinkedListNode<T>(object);
-    tail = tail->next;
+    JRLinkedListNode* node = new JRLinkedListNode(object);
+    if(tail) {
+        tail->next = node;
+    }
+    tail = node;
+    if(!head) {
+        head = tail;
+    }
+}
+
+template <typename T>
+void JRLinkedList<T>::remove(const T& value) {
+    JRLinkedListNode* temp = nullptr;
+    while(head->data == value) {
+        temp = head->next;
+        delete head;
+        head = temp;
+        if(!head) {
+            tail = nullptr;
+            return;
+        }
+    }
+    JRLinkedListNode* current = head;
+    while(current->next) {
+        if(current->next->data == value) {
+            temp = current->next->next;
+            delete current->next;
+            current->next = temp;
+            if(!current->next) {
+                current = tail;
+            }
+        }
+        current = current->next;
+    }
+}
+
+template <typename T>
+const T& JRLinkedList<T>::front() const {
+    return get(0);
+}
+
+template <typename T>
+T& JRLinkedList<T>::front() {
+    return const_cast<T&>(
+            static_cast<const JRLinkedList<T>&>(*this).front()
+    );
 }
 
 template <typename T>
 const T& JRLinkedList<T>::get(int position) const {
-    const JRLinkedListNode<T>* current = head;
+    const JRLinkedListNode* current = head;
     int currentPosition = 0;
-    while (current)
-    {
-        if (currentPosition == position)
-        {
-            return current->getData();
+    while (current) {
+        if (currentPosition == position) {
+            return current->data;
         }
         currentPosition++;
         current = current->next;
     }
-    throw std::out_of_range("No element at position " + position);
+    throw std::out_of_range("No element at position " + std::to_string(position));
 }
 
 template <typename T>
@@ -97,6 +111,16 @@ T& JRLinkedList<T>::get(int position) {
 }
 
 template <typename T>
-const T& JRLinkedList<T>::getLastElement() const {
-    return tail->getData();
+const T& JRLinkedList<T>::back() const {
+    if(!tail) {
+        throw std::out_of_range("LinkedList is empty");
+    }
+    return tail->data;
+}
+
+template <typename T>
+T& JRLinkedList<T>::back() {
+    return const_cast<T&>(
+            static_cast<const JRLinkedList<T>&>(*this).back()
+    );
 }

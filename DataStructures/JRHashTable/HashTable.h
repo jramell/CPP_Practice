@@ -5,25 +5,13 @@
 #include <forward_list>
 
 namespace jr {
-    /**
-     * Hash template akin to std::hash. To define the hash function for a custom-built type, you can either specialize its
-     * hash function and add it to the jr namespace or pass that type as a parameter when creating the HashTable.
-     */
-    template<typename K>
-    struct Hash {
-        /**
-         * @param key key you need the hash for
-         * @return hash for the key. It should have low collision probability.
-         */
-        std::size_t operator()(const K& key) const;
-
-        Hash();
-    };
-
-    template<typename K, typename V, typename HashGenerator = Hash<K>>
+    template<typename K, typename V, typename HashGenerator = std::hash<K>>
     class HashTable {
         struct HashTableBucket {
+            int _size;
             std::forward_list<std::pair<K,V>> elements;
+
+            HashTableBucket();
             /**
              * @return true if the bucket is empty, false otherwise.
              */
@@ -67,7 +55,7 @@ namespace jr {
          */
         float _maxLoadFactor;
 
-        std::pair<K,V>* elements;
+        HashTableBucket* elements;
 
         /**
          * Checks if HashTable's container can be resized to newCapacity without going over the maximum load factor.
@@ -108,8 +96,8 @@ namespace jr {
          * Constructs a key-value pair with the key and values passed as parameters and inserts it into the HashTable.
          * @param key key of the key-value pair
          * @param value value of the key-value pair
-         * @return if another pair the key key already exists, returns iterator to pair whose first value will be the existing this existing
-         *          pair and whose second value will be false. Otherwise, returns iterator to pair whose first value is the newly inserted
+         * @return if another pair with that key already exists, returns a pair whose first value will be that pair, and whose second
+         *          value will be false. Otherwise, returns iterator to pair whose first value is the newly inserted
          *          key-value pair, and whose second parameter would be true.
          */
         std::pair<const std::pair<K,V>&, bool> emplace(K key, V value);

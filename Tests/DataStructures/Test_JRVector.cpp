@@ -273,3 +273,26 @@ TEST(Test_JRVector, RangeErase100Elements) {
     ASSERT_EQ(1, vector.size());
     ASSERT_EQ(100, vector.at(0));
 }
+
+TEST(Test_JRVector, RangeLoop) {
+    JRVector<short> vector;
+    for(int i = 0; i < 5; i++) {
+        vector.push_back(i);
+    }
+    int counter = 0;
+    for(int number : vector) {
+        ASSERT_EQ(counter, number);
+        counter++;
+    }
+}
+
+TEST(Test_JRVector, STL_Sort) {
+    JRVector<int> vector;
+    vector.push_back(4);
+    vector.push_back(2);
+    vector.push_back(8);
+    std::sort(vector.begin(), vector.end());
+    ASSERT_EQ(vector.at(0), 2);
+    ASSERT_EQ(vector.at(1), 4);
+    ASSERT_EQ(vector.at(2), 8);
+}

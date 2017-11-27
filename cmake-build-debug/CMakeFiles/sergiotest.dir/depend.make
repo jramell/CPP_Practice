@@ -35,6 +35,9 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/Mine
 
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.o: ../InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp
 
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.o: ../InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.o: ../InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h
+
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o: ../InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
 
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o: ../InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp
@@ -62,23 +65,6 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/Uniq
 
 CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o: ../OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp
 
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-actions.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-cardinalities.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-generated-actions.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-generated-function-mockers.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-generated-matchers.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-generated-nice-strict.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-matchers.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-more-actions.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-more-matchers.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-spec-builders.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/internal/custom/gmock-generated-actions.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/internal/custom/gmock-matchers.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/internal/custom/gmock-port.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/internal/gmock-generated-internal-utils.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/internal/gmock-internal-utils.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googlemock/include/gmock/internal/gmock-port.h
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-message.h
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-param-test.h
@@ -103,8 +89,6 @@ CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cp
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../DataStructures/JRLinkedList/JRLinkedList.cpp
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../DataStructures/JRLinkedList/JRLinkedList.h
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../DataStructures/JRLinkedList/JRLinkedListNode.cpp
-CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../DataStructures/JRLinkedList/JRLinkedListNode.h
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp
 
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-actions.h
@@ -275,6 +259,31 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_Rec
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o: ../Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.o: ../cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.h
+
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-message.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-param-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-printers.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-test-part.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-typed-test.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/gtest.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/gtest_pred_impl.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/gtest_prod.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-filepath.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-internal.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-linked_ptr.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-param-util-generated.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-param-util.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-port.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o: ../Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp
 
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-message.h
@@ -508,5 +517,7 @@ CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRHashTable/HashTable.cpp
 CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRHashTable/HashTable.h
+CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRLinkedList/JRLinkedList.cpp
+CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRLinkedList/JRLinkedList.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../main.cpp
 

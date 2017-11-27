@@ -1,7 +1,6 @@
 /**
- *  Original problem statement: https://www.hackerrank.com/contests/w35/challenges/3d-surface-area
+ *  Solution to problem whose original statement is at: https://www.hackerrank.com/contests/w35/challenges/3d-surface-area
  *
- *  One solution (so far) to problem:
  *  Madison, is a little girl who is fond of toys. Her friend Mason works in a toy manufacturing factory. Mason has a 2D board A
  *  of size H x W with H rows and W columns. The board is divided into cells of size 1x1 with each cell indicated by it's coordinate
  *  (i,j). The cell (i,j) has an integer A_ij written on it. To create the toy Mason stacks A_ij number of cubes of size 1x1x1 on

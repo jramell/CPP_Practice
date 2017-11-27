@@ -35,6 +35,9 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MinesweeperBoard/Mine
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MinesweeperBoard/MinesweeperBoard.h
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.o
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp.o
@@ -63,23 +66,6 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/Uniq
 CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o
- ../lib/googletest/googlemock/include/gmock/gmock-actions.h
- ../lib/googletest/googlemock/include/gmock/gmock-cardinalities.h
- ../lib/googletest/googlemock/include/gmock/gmock-generated-actions.h
- ../lib/googletest/googlemock/include/gmock/gmock-generated-function-mockers.h
- ../lib/googletest/googlemock/include/gmock/gmock-generated-matchers.h
- ../lib/googletest/googlemock/include/gmock/gmock-generated-nice-strict.h
- ../lib/googletest/googlemock/include/gmock/gmock-matchers.h
- ../lib/googletest/googlemock/include/gmock/gmock-more-actions.h
- ../lib/googletest/googlemock/include/gmock/gmock-more-matchers.h
- ../lib/googletest/googlemock/include/gmock/gmock-spec-builders.h
- ../lib/googletest/googlemock/include/gmock/gmock.h
- ../lib/googletest/googlemock/include/gmock/internal/custom/gmock-generated-actions.h
- ../lib/googletest/googlemock/include/gmock/internal/custom/gmock-matchers.h
- ../lib/googletest/googlemock/include/gmock/internal/custom/gmock-port.h
- ../lib/googletest/googlemock/include/gmock/internal/gmock-generated-internal-utils.h
- ../lib/googletest/googlemock/include/gmock/internal/gmock-internal-utils.h
- ../lib/googletest/googlemock/include/gmock/internal/gmock-port.h
  ../lib/googletest/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest/googletest/include/gtest/gtest-message.h
  ../lib/googletest/googletest/include/gtest/gtest-param-test.h
@@ -104,8 +90,6 @@ CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cp
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.cpp
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedListNode.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedListNode.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRStack/Test_Stack.cpp.o
  ../lib/googletest/googlemock/include/gmock/gmock-actions.h
@@ -276,6 +260,31 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_Rec
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.h
+CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o
+ ../lib/googletest/googletest/include/gtest/gtest-death-test.h
+ ../lib/googletest/googletest/include/gtest/gtest-message.h
+ ../lib/googletest/googletest/include/gtest/gtest-param-test.h
+ ../lib/googletest/googletest/include/gtest/gtest-printers.h
+ ../lib/googletest/googletest/include/gtest/gtest-test-part.h
+ ../lib/googletest/googletest/include/gtest/gtest-typed-test.h
+ ../lib/googletest/googletest/include/gtest/gtest.h
+ ../lib/googletest/googletest/include/gtest/gtest_pred_impl.h
+ ../lib/googletest/googletest/include/gtest/gtest_prod.h
+ ../lib/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+ ../lib/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-filepath.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-internal.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-linked_ptr.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-param-util-generated.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-param-util.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-port.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
  ../lib/googletest/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest/googletest/include/gtest/gtest-message.h
@@ -509,4 +518,6 @@ CMakeFiles/sergiotest.dir/main.cpp.o
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/main.cpp

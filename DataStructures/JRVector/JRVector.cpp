@@ -12,9 +12,10 @@ JRVector<T>::JRVector() {
 
 template <typename T>
 JRVector<T>::JRVector(unsigned int initialSize) {
-    _size = 0;
+    _size = 0; //should be initialSize
     _capacity = initialSize;
-    elements = new T[_capacity];
+    elements = new T[_capacity]; //each element should be acopy of provided element, if it was
+    //also, remember the "shouldn't have default constructor" thing
 }
 
 template <typename T>
@@ -53,7 +54,6 @@ void JRVector<T>::clear() {
     resize(25);
 }
 
-
 template <typename T>
 void JRVector<T>::push_back(const T& data) {
     if (_capacity == 0) {
@@ -77,7 +77,7 @@ void JRVector<T>::erase(unsigned int startIndex, unsigned int endIndex) {
     if(endIndex < startIndex) {
         throw std::out_of_range("startIndex can't be bigger than endIndex");
     }
-    int elementsRemoved = (endIndex < _size)? endIndex-startIndex : _size-startIndex;
+    int elementsRemoved = (endIndex < _size)? endIndex - startIndex : _size - startIndex;
     _capacity = _size-elementsRemoved;
     T* newArray = new T[_capacity];
     //copy all elements [0, startIndex) into newArray
@@ -121,4 +121,15 @@ bool JRVector<T>::empty() {
 template <typename T>
 int JRVector<T>::capacity() {
     return _capacity;
+}
+
+
+template <typename T>
+T* JRVector<T>::begin() {
+    return &elements[0];
+}
+
+template <typename T>
+T* JRVector<T>::end() {
+    return &elements[_size];
 }

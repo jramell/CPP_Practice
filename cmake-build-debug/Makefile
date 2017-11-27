@@ -516,6 +516,33 @@ InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.s
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.s
 .PHONY : InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.s
 
+InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.o: InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.o
+
+.PHONY : InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.o
+
+# target to build an object file
+InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.o
+.PHONY : InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.o
+
+InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.i: InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.i
+
+.PHONY : InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.i
+
+# target to preprocess a source file
+InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.i
+.PHONY : InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.i
+
+InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.s: InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.s
+
+.PHONY : InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.s
+
+# target to generate assembly for a file
+InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.s
+.PHONY : InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.s
+
 InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o: InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp.o
 
 .PHONY : InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o
@@ -975,6 +1002,33 @@ Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s
 .PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp.s
 
+Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.o: Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.o
+
+# target to build an object file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.i: Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.i
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.i
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.i
+
+Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.s: Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.s
+
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.s
+.PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.s
+
 Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o: Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp.o
 
 .PHONY : Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o
@@ -1349,6 +1403,9 @@ help:
 	@echo "... InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.o"
 	@echo "... InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.i"
 	@echo "... InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.s"
+	@echo "... InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.o"
+	@echo "... InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.i"
+	@echo "... InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.s"
 	@echo "... InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.o"
 	@echo "... InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.i"
 	@echo "... InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.s"
@@ -1400,6 +1457,9 @@ help:
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.o"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.i"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.s"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.o"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.i"
+	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.s"
 	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.o"
 	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.i"
 	@echo "... Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.s"

@@ -1,7 +1,6 @@
 #ifndef SERGIOTEST_STACKNODE_H
 #define SERGIOTEST_STACKNODE_H
 
-
 class StackNode {
 public:
     StackNode* next;

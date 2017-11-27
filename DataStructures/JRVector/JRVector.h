@@ -10,6 +10,8 @@ namespace jr {
         T* elements;
 
     public:
+        using iterator = T*;
+
         JRVector<T>();
 
         JRVector<T>(unsigned int initialSize);
@@ -74,6 +76,10 @@ namespace jr {
          * @return size of allocated storage capacity
          */
         int capacity();
+
+        iterator begin();
+
+        iterator end();
     };
 }
 

@@ -337,9 +337,6 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedListNode.h">
-			<Option target="sergiotest"/>
-		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRQueue/Queue.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
@@ -392,6 +389,12 @@
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.cpp">
@@ -464,6 +467,9 @@
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/Test_RecursiveMultiply.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/InterviewProblems/CodingProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp">
