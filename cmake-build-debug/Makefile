@@ -786,6 +786,33 @@ InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
 .PHONY : InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.s
 
+InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.o: InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.o
+
+.PHONY : InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.o
+
+# target to build an object file
+InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.o
+.PHONY : InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.o
+
+InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.i: InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.i
+
+.PHONY : InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.i
+
+# target to preprocess a source file
+InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.i
+.PHONY : InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.i
+
+InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.s: InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.s
+
+.PHONY : InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.s
+
+# target to generate assembly for a file
+InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.s
+.PHONY : InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.s
+
 OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.o: OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o
 
 .PHONY : OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.o
@@ -1433,6 +1460,9 @@ help:
 	@echo "... InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.o"
 	@echo "... InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.i"
 	@echo "... InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.s"
+	@echo "... InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.o"
+	@echo "... InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.i"
+	@echo "... InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.s"
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.o"
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.i"
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.s"

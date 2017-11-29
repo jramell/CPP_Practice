@@ -41,6 +41,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp.o"
   "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.o"
   "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o"
+  "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.o"
   "sergiotest.pdb"
   "sergiotest.exe"
   "libsergiotest.dll.a"

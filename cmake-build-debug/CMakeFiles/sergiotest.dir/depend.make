@@ -63,6 +63,8 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/TextJustification_LC6
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o: ../InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.cpp.o: ../InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.h
 
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.o: ../InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp
+
 CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o: ../OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp
 
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
