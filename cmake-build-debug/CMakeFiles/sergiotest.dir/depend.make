@@ -466,6 +466,8 @@ CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: .
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../Tests/Test_Solutions/Test_FirstCommonAncestor.cpp
 CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.o: ../cracking_code_interview/4.8.FirstCommonAncestor.h
 
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o: ../cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp
+
 CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o: ../cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp
 CMakeFiles/sergiotest.dir/cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o: ../cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.h
 

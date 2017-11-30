@@ -1245,6 +1245,33 @@ Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s
 .PHONY : Tests/Test_Solutions/Test_FirstCommonAncestor.cpp.s
 
+cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.o: cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o
+
+.PHONY : cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.o
+
+# target to build an object file
+cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o
+.PHONY : cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o
+
+cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.i: cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.i
+
+.PHONY : cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.i
+
+# target to preprocess a source file
+cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.i
+.PHONY : cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.i
+
+cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.s: cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.s
+
+.PHONY : cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.s
+
+# target to generate assembly for a file
+cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.s
+.PHONY : cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.s
+
 cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.o: cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o
 
 .PHONY : cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.o
@@ -1511,6 +1538,9 @@ help:
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.o"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.i"
 	@echo "... Tests/Test_Solutions/Test_FirstCommonAncestor.s"
+	@echo "... cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.o"
+	@echo "... cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.i"
+	@echo "... cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.s"
 	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.o"
 	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.i"
 	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.s"

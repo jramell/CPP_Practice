@@ -496,6 +496,9 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/Test_FirstCommonAncestor.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/4.8.FirstCommonAncestor.h">
 			<Option target="sergiotest"/>
 		</Unit>
