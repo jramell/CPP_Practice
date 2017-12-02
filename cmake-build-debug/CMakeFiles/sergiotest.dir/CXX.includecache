@@ -788,6 +788,30 @@ gtest/gtest.h
 vector
 -
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp
+string
+-
+vector
+-
+algorithm
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp
+string
+-
+vector
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp
+string
+-
+vector
+-
+unordered_map
+-
+algorithm
+-
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/4.8.FirstCommonAncestor.h
 unordered_set
 -
@@ -855,4 +879,6 @@ DataStructures/JRHashTable/HashTable.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
 DataStructures/JRLinkedList/JRLinkedList.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
+unordered_map
+-
 

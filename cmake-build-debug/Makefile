@@ -1272,6 +1272,87 @@ cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.s
 .PHONY : cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.s
 
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.o: cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o
+
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.o
+
+# target to build an object file
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o
+
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.i: cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.i
+
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.i
+
+# target to preprocess a source file
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.i
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.i
+
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.s: cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.s
+
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.s
+
+# target to generate assembly for a file
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.s
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.s
+
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.o: cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o
+
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.o
+
+# target to build an object file
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o
+
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.i: cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.i
+
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.i
+
+# target to preprocess a source file
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.i
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.i
+
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.s: cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.s
+
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.s
+
+# target to generate assembly for a file
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.s
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.s
+
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.o: cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o
+
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.o
+
+# target to build an object file
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o
+
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.i: cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.i
+
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.i
+
+# target to preprocess a source file
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.i
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.i
+
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.s: cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.s
+
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.s
+
+# target to generate assembly for a file
+cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.s
+.PHONY : cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.s
+
 cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.o: cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.cpp.o
 
 .PHONY : cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.o
@@ -1541,6 +1622,15 @@ help:
 	@echo "... cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.o"
 	@echo "... cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.i"
 	@echo "... cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.s"
+	@echo "... cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.o"
+	@echo "... cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.i"
+	@echo "... cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.s"
+	@echo "... cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.o"
+	@echo "... cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.i"
+	@echo "... cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.s"
+	@echo "... cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.o"
+	@echo "... cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.i"
+	@echo "... cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.s"
 	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.o"
 	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.i"
 	@echo "... cracking_code_interview/8.5.RecursiveMultiply/RecursiveMultiply.s"

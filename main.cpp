@@ -53,11 +53,56 @@ void print(const Point& point) {
     cout << "(" << point.x << "," << point.y << ")" << endl;
 }
 
+
+
+template <typename T>
+void printVector(const vector<T>& arr) {
+    for(T s : arr) {
+        cout << s << " ";
+    }
+}
+
+#include <unordered_map>
+
+void groupAnagrams(vector<string>& words) {
+    std::unordered_map<string, vector<string>> hashMap;
+    for(const string& word : words) {
+        string sortedWord = word;
+        std::sort(sortedWord.begin(), sortedWord.end());
+        auto iter = hashMap.find(sortedWord);
+        if(iter != hashMap.end()) {
+            iter->second.push_back(word);
+        } else {
+            vector<string> anagramGroup { word };
+            hashMap.emplace(sortedWord, anagramGroup);
+        }
+    }
+    vector<string> answer;
+    for(auto pair : hashMap) {
+        for(string word : pair.second) {
+            answer.push_back(word);
+        }
+    }
+    words = answer;
+}
+
+
 int main(int argc, char* argv[])
 {
-    Point a(10, 10);
+/*    Point a(10, 10);
     Point b(5, 7);
     Point c = a+b;
-    print(c);
+    print(c);*/
+    vector<string> words {"aba", "aab", "lol"};
+    groupAnagrams(words);
+    printVector(words);
+    cout << "------------------------" << endl;
+    words = {"aba", "lol", "oll", "aab", "baa"};
+    groupAnagrams(words);
+    printVector(words);
+    cout << "------------------------" << endl;
+    words = {"aba", "lol", "oll", "aab", "baa", "llo", "kakaka", "akakak", "rip", "aaakkk", "pir", "aba", "pri", "kaakak"};
+    groupAnagrams(words);
+    printVector(words);
     //runTests(argc, argv);
 }

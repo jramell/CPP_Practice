@@ -1113,6 +1113,78 @@ CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.Sort
 CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o.provides.build: CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o
 
 
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o: ../cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp > CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.i
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp -o CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.s
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o.provides: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o.provides.build: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o
+
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o: ../cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp > CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.i
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp -o CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.s
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o.provides: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o.provides.build: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o
+
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o: CMakeFiles/sergiotest.dir/flags.make
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o: ../cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o"
+	/usr/bin/c++.exe   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o -c /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.i"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp > CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.i
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.s"
+	/usr/bin/c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp -o CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.s
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o.requires:
+
+.PHONY : CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o.requires
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o.provides: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o.requires
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o.provides.build
+.PHONY : CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o.provides
+
+CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o.provides.build: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o
+
+
 # Object files for target sergiotest
 sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/main.cpp.o" \
@@ -1158,7 +1230,10 @@ sergiotest_OBJECTS = \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp.o" \
 "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o" \
 "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.o" \
-"CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o"
+"CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o" \
+"CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o" \
+"CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o" \
+"CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o"
 
 # External object files for target sergiotest
 sergiotest_EXTERNAL_OBJECTS =
@@ -1207,12 +1282,15 @@ sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/Produ
 sergiotest.exe: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o
+sergiotest.exe: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o
 sergiotest.exe: CMakeFiles/sergiotest.dir/build.make
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest_main.a
 sergiotest.exe: lib/googletest/googlemock/gtest/libgtest.a
 sergiotest.exe: CMakeFiles/sergiotest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Linking CXX executable sergiotest.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Linking CXX executable sergiotest.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sergiotest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1264,6 +1342,9 @@ CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp.o.requires
 CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o.requires
+CMakeFiles/sergiotest.dir/requires: CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o.requires
 
 .PHONY : CMakeFiles/sergiotest.dir/requires
 
