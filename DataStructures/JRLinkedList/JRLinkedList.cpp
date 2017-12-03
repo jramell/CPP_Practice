@@ -124,3 +124,48 @@ T& JRLinkedList<T>::back() {
             static_cast<const JRLinkedList<T>&>(*this).back()
     );
 }
+
+template <typename T>
+JRLinkedList<T>::iterator::iterator(JRLinkedList<T>::JRLinkedListNode* startingNode) : current(startingNode) { }
+
+template <typename T>
+typename JRLinkedList<T>::iterator& JRLinkedList<T>::iterator::operator++() {
+    current = current->next;
+    return *this;
+}
+
+template <typename T>
+typename JRLinkedList<T>::iterator JRLinkedList<T>::iterator::operator++(int) {
+    JRLinkedList<T>::iterator temp = *this;
+    ++(*this);
+    return temp;
+}
+
+template <typename T>
+T& JRLinkedList<T>::iterator::operator*() {
+    if(!current) {
+        throw std::out_of_range("invalid iterator");
+    }
+    return current->data;
+}
+
+template <typename T>
+bool JRLinkedList<T>::iterator::operator==(const typename JRLinkedList<T>::iterator& other) {
+    return current == other.current;
+}
+
+template <typename T>
+bool JRLinkedList<T>::iterator::operator!=(const JRLinkedList<T>::iterator& other) {
+    return !(*this == other);
+}
+
+template <typename T>
+typename JRLinkedList<T>::iterator JRLinkedList<T>::begin() {
+    return iterator(head);
+}
+
+template <typename T>
+typename JRLinkedList<T>::iterator JRLinkedList<T>::end() {
+    JRLinkedListNode* tailCopy = tail;
+    return iterator(nullptr);
+}

@@ -123,5 +123,19 @@ TEST(Test_JRLinkedList, RemoveDuplicateValue)
     ASSERT_THROW(list.front(), std::out_of_range);
 }
 
+TEST(Test_JRLinkedList, RangeIteration)
+{
+    JRLinkedList<int> list;
+    for(int i = 0; i < 5; i++) {
+        list.push_back(i);
+    }
+    int counter = 0;
+    for(int number : list) {
+        ASSERT_EQ(counter, number);
+        counter++;
+    }
+}
+
+
 //write tests that combine several methods to make sure the LinkedList correctly maintains first and last
 //on every case

@@ -17,9 +17,20 @@ namespace jr {
         JRLinkedListNode* head;
         JRLinkedListNode* tail;
     public:
-        class iterator {
+        struct iterator {
+            JRLinkedListNode* current;
+
+            iterator(JRLinkedListNode* startingNode);
+
             iterator& operator++();
+            iterator operator++(int);
+
+            T& operator*();
+
+            bool operator==(const iterator& other);
+            bool operator!=(const iterator& other);
         };
+
         JRLinkedList();
         ~JRLinkedList();
 
@@ -49,6 +60,9 @@ namespace jr {
 
         const T& back() const;
         T& back();
+
+        iterator begin();
+        iterator end();
     };
 }
 

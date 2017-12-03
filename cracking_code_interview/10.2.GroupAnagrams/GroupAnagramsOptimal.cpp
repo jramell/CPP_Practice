@@ -6,6 +6,8 @@
 using std::vector;
 using std::string;
 
+//Time complexity: O(n * wlogw) where n is the number of words and W the length of the longest word in words.
+//Space complexity: O(n)
 void groupAnagramsOptimal(vector<string>& words) {
     std::unordered_map<string, vector<string>> hashMap;
     for(const string& word : words) {
