@@ -156,8 +156,11 @@ bool JRLinkedList<T>::iterator::operator==(const typename JRLinkedList<T>::itera
 
 template <typename T>
 bool JRLinkedList<T>::iterator::operator!=(const JRLinkedList<T>::iterator& other) {
-    return !(*this == other);
+    return current != other.current;
 }
+
+template <typename T>
+JRLinkedList<T>::iterator::iterator(const typename JRLinkedList<T>::iterator& other) : current(other.current) { }
 
 template <typename T>
 typename JRLinkedList<T>::iterator JRLinkedList<T>::begin() {

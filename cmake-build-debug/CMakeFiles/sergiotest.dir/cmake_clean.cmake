@@ -46,6 +46,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsCodeEfficient.cpp.o"
   "CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp.o"
   "CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o"
+  "CMakeFiles/sergiotest.dir/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o"
   "sergiotest.pdb"
   "sergiotest.exe"
   "libsergiotest.dll.a"

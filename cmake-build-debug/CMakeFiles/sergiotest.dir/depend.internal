@@ -67,6 +67,32 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/WordCountEngine/WordC
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp
 CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.o
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp
+CMakeFiles/sergiotest.dir/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o
+ ../lib/googletest/googletest/include/gtest/gtest-death-test.h
+ ../lib/googletest/googletest/include/gtest/gtest-message.h
+ ../lib/googletest/googletest/include/gtest/gtest-param-test.h
+ ../lib/googletest/googletest/include/gtest/gtest-printers.h
+ ../lib/googletest/googletest/include/gtest/gtest-test-part.h
+ ../lib/googletest/googletest/include/gtest/gtest-typed-test.h
+ ../lib/googletest/googletest/include/gtest/gtest.h
+ ../lib/googletest/googletest/include/gtest/gtest_pred_impl.h
+ ../lib/googletest/googletest/include/gtest/gtest_prod.h
+ ../lib/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+ ../lib/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-filepath.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-internal.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-linked_ptr.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-param-util-generated.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-param-util.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-port.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp
 CMakeFiles/sergiotest.dir/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o
  ../lib/googletest/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest/googletest/include/gtest/gtest-message.h
@@ -528,6 +554,8 @@ CMakeFiles/sergiotest.dir/main.cpp.o
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.cpp
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/main.cpp

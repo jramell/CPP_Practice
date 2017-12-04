@@ -840,6 +840,33 @@ OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.s
 .PHONY : OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.s
 
+Tests/DataStructures/JRHashTable/Test_UniqueBucket.o: Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o
+
+.PHONY : Tests/DataStructures/JRHashTable/Test_UniqueBucket.o
+
+# target to build an object file
+Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o
+.PHONY : Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o
+
+Tests/DataStructures/JRHashTable/Test_UniqueBucket.i: Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.i
+
+.PHONY : Tests/DataStructures/JRHashTable/Test_UniqueBucket.i
+
+# target to preprocess a source file
+Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.i
+.PHONY : Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.i
+
+Tests/DataStructures/JRHashTable/Test_UniqueBucket.s: Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.s
+
+.PHONY : Tests/DataStructures/JRHashTable/Test_UniqueBucket.s
+
+# target to generate assembly for a file
+Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.s
+.PHONY : Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.s
+
 Tests/DataStructures/JRLinkedList/Test_JRLinkedList.o: Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp.o
 
 .PHONY : Tests/DataStructures/JRLinkedList/Test_JRLinkedList.o
@@ -1574,6 +1601,9 @@ help:
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.o"
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.i"
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.s"
+	@echo "... Tests/DataStructures/JRHashTable/Test_UniqueBucket.o"
+	@echo "... Tests/DataStructures/JRHashTable/Test_UniqueBucket.i"
+	@echo "... Tests/DataStructures/JRHashTable/Test_UniqueBucket.s"
 	@echo "... Tests/DataStructures/JRLinkedList/Test_JRLinkedList.o"
 	@echo "... Tests/DataStructures/JRLinkedList/Test_JRLinkedList.i"
 	@echo "... Tests/DataStructures/JRLinkedList/Test_JRLinkedList.s"

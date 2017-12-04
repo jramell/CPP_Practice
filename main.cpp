@@ -59,13 +59,18 @@ void print(const Point& p) {
     cout << "(" << p.x << "," << p.y << ")" << endl;
 }
 
-#include "DataStructures/JRLinkedList/JRLinkedList.h"
-
 int main(int argc, char* argv[])
 {
 /*    cout << "lol" << endl;
     Point a(10, 10);
     print(a++);
     print(++a);*/
+/*    UniqueBucket<int, int> bucket;
+    std::pair<int, int> justInserted(55, 100);
+    auto result = bucket.insert(justInserted);
+    std::pair<int, int>& insertedRef = result.first;
+    int answer = bucket.at(55);
+    cout << insertedRef.second << endl;
+    cout << answer << endl;*/
    runTests(argc, argv);
 }

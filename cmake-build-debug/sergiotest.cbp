@@ -334,6 +334,9 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h">
 			<Option target="sergiotest"/>
 		</Unit>
@@ -449,6 +452,9 @@
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp">

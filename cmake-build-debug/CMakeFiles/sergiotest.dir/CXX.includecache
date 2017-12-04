@@ -487,8 +487,24 @@ cstdint
 -
 forward_list
 -
+UniqueBucket/UniqueBucket.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h
 HashTable.cpp
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp
+stdexcept
+-
+UniqueBucket.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h
+utility
+-
+forward_list
+-
+UniqueBucket.cpp
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.cpp
 stdexcept
@@ -692,6 +708,14 @@ vector
 iostream
 -
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp
+string
+-
+../../../DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRHashTable/gtest/gtest.h
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/Test_JRLinkedList.cpp
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRLinkedList/gtest/gtest.h
@@ -877,8 +901,6 @@ bitset
 -
 DataStructures/JRHashTable/HashTable.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
-DataStructures/JRLinkedList/JRLinkedList.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
 DataStructures/JRLinkedList/JRLinkedList.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
 

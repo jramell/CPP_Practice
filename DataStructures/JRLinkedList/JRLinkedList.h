@@ -17,11 +17,14 @@ namespace jr {
         JRLinkedListNode* head;
         JRLinkedListNode* tail;
     public:
-        struct iterator {
+        class iterator {
+        private:
+            friend class JRLinkedList;
+            iterator(JRLinkedListNode* startingNode);
             JRLinkedListNode* current;
 
-            iterator(JRLinkedListNode* startingNode);
-
+        public:
+            iterator(const iterator&);
             iterator& operator++();
             iterator operator++(int);
 
