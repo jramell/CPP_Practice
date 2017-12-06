@@ -59,6 +59,18 @@ void print(const Point& p) {
     cout << "(" << p.x << "," << p.y << ")" << endl;
 }
 
+        int numberOfSetBits(long number) {
+            int setBits = 0;
+            while(number > 0) {
+                if((number & 1) > 0) {
+                    setBits++;
+                }
+                number >>= 1;
+            }
+            return setBits;
+        }
+
+
 int main(int argc, char* argv[])
 {
 /*    cout << "lol" << endl;
@@ -72,5 +84,7 @@ int main(int argc, char* argv[])
     int answer = bucket.at(55);
     cout << insertedRef.second << endl;
     cout << answer << endl;*/
-   runTests(argc, argv);
+    cout << numberOfSetBits(7*3) << endl;
+    cout << numberOfSetBits(((long)100000000)*((long)100000000)) << endl;
+   //runTests(argc, argv);
 }

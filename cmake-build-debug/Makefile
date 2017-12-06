@@ -435,6 +435,33 @@ InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.s
 .PHONY : InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.s
 
+InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.o: InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.o
+
+.PHONY : InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.o
+
+# target to build an object file
+InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.o
+.PHONY : InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.o
+
+InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.i: InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.i
+
+.PHONY : InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.i
+
+# target to preprocess a source file
+InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.i
+.PHONY : InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.i
+
+InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.s: InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.s
+
+.PHONY : InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.s
+
+# target to generate assembly for a file
+InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.s
+.PHONY : InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.s
+
 InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.o: InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o
 
 .PHONY : InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.o
@@ -1556,6 +1583,9 @@ help:
 	@echo "... InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.o"
 	@echo "... InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.i"
 	@echo "... InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.s"
+	@echo "... InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.o"
+	@echo "... InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.i"
+	@echo "... InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.s"
 	@echo "... InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.o"
 	@echo "... InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.i"
 	@echo "... InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.s"
