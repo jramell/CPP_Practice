@@ -64,7 +64,6 @@ vector<int> orderOfPeopleHeights(vector<int>& heights, vector<int>& infronts) {
                 }
                 numberOfSpaces++;
             }
-
         }
     }
     return heights;

@@ -6,7 +6,7 @@ using std::stack;
 using std::unordered_set;
 
 bool jr::sum_binary_tree::canReachK (unordered_set<long>& hashSet, TreeNode* root, long K) {
-    if (hashSet.find(K-root->val) != hashSet.end()) {
+    if (hashSet.find(K - root->val) != hashSet.end()) {
         return true;
     }
     hashSet.insert(root->val);

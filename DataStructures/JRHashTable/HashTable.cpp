@@ -4,4 +4,3 @@
 //too much documentation?
 
 using jr::HashTable;
-
