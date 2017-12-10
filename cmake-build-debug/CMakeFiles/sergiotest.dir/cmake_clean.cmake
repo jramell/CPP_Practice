@@ -48,6 +48,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/sergiotest.dir/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp.o"
   "CMakeFiles/sergiotest.dir/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o"
   "CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.o"
+  "CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.o"
   "sergiotest.pdb"
   "sergiotest.exe"
   "libsergiotest.dll.a"

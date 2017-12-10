@@ -1029,6 +1029,33 @@ Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s
 .PHONY : Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp.s
 
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.o: Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.o
+
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.o
+
+# target to build an object file
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.o
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.o
+
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.i: Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.i
+
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.i
+
+# target to preprocess a source file
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.i
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.i
+
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.s: Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.s
+
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.s
+
+# target to generate assembly for a file
+Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.s
+.PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp.s
+
 Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.o: Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp.o
 
 .PHONY : Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.o
@@ -1649,6 +1676,9 @@ help:
 	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.o"
 	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.i"
 	@echo "... Tests/Test_Algorithms/Test_GreatestCommonDivisor.s"
+	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.o"
+	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.i"
+	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.s"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.o"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.i"
 	@echo "... Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.s"

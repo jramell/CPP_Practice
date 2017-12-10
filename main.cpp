@@ -26,7 +26,7 @@ using namespace std;
 
 int main(int argc, char* argv[])
 {
-    jr::ProducerConsumerTest m;
-    m.producedConsumerTest();
-   //runTests(argc, argv);
+/*    jr::ProducerConsumerTest m;
+    m.producedConsumerTest();*/
+   runTests(argc, argv);
 }

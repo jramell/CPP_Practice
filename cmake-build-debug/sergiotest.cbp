@@ -481,6 +481,9 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/Test_GreatestCommonDivisor.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
@@ -521,6 +524,9 @@
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.3.SearchInRotatedArray/10.3.SearchInRotatedArray.h">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/4.8.FirstCommonAncestor.h">

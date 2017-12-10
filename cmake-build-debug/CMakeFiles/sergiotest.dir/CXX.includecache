@@ -752,6 +752,12 @@ gtest/gtest.h
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Algorithms/gtest/gtest.h
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/gtest/gtest.h
+../../../cracking_code_interview/10.3.SearchInRotatedArray/10.3.SearchInRotatedArray.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.3.SearchInRotatedArray/10.3.SearchInRotatedArray.h
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/Test_PermutationsWithoutDups.cpp
 gtest/gtest.h
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/Test_Solutions/CrackingTheCodeInterview/gtest/gtest.h
@@ -838,6 +844,10 @@ vector
 unordered_map
 -
 algorithm
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/10.3.SearchInRotatedArray/10.3.SearchInRotatedArray.h
+vector
 -
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/4.8.FirstCommonAncestor.h
