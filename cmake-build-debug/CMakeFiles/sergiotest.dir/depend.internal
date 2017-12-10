@@ -25,6 +25,8 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEqu
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.o
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.h
@@ -552,10 +554,5 @@ CMakeFiles/sergiotest.dir/main.cpp.o
  ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.cpp
- /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
+ /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Multithreading/Multithreading Test/producer_consumer.h
  /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/main.cpp

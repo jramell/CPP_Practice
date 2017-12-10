@@ -478,20 +478,6 @@ Search.h
 vector
 -
 
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp
-HashTable.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
-
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
-cstdint
--
-forward_list
--
-UniqueBucket/UniqueBucket.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h
-HashTable.cpp
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.cpp
-
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp
 stdexcept
 -
@@ -580,6 +566,12 @@ iostream
 string
 -
 unordered_set
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp
+algorithm
+-
+vector
 -
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp
@@ -700,6 +692,18 @@ vector
 unordered_map
 -
 algorithm
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Multithreading/Multithreading Test/producer_consumer.h
+thread
+-
+mutex
+-
+vector
+-
+iostream
+-
+condition_variable
 -
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp
@@ -899,8 +903,6 @@ unordered_set
 -
 bitset
 -
-DataStructures/JRHashTable/HashTable.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/HashTable.h
-DataStructures/JRLinkedList/JRLinkedList.h
-/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRLinkedList/JRLinkedList.h
+Multithreading/Multithreading Test/producer_consumer.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Multithreading/Multithreading Test/producer_consumer.h
 

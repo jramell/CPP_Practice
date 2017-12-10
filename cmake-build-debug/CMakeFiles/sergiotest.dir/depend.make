@@ -25,6 +25,8 @@ CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/ArrayIndex&ElementEqu
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o: ../InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp.o: ../InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h
 
+CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp.o: ../InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp
+
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o: ../InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp
 CMakeFiles/sergiotest.dir/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp.o: ../InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.h
 
@@ -551,11 +553,6 @@ CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRHashTable/HashTable.cpp
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRHashTable/HashTable.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRLinkedList/JRLinkedList.cpp
-CMakeFiles/sergiotest.dir/main.cpp.o: ../DataStructures/JRLinkedList/JRLinkedList.h
+CMakeFiles/sergiotest.dir/main.cpp.o: ../Multithreading/Multithreading\ Test/producer_consumer.h
 CMakeFiles/sergiotest.dir/main.cpp.o: ../main.cpp
 
