@@ -430,6 +430,9 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SubarrayWithGivenSum/SubarrayWithGivenSum.h">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp">
 			<Option target="sergiotest"/>
 		</Unit>

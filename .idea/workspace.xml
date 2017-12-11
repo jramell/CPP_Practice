@@ -16,12 +16,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7951684-4491-434f-8e40-0e80aa4f4159" name="Default" comment="added permutation without dups implementation &amp; tests">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterviewProblems/CodingProblems/SubarrayWithGivenSum/SubarrayWithGivenSum.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp" afterPath="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp" afterPath="$PROJECT_DIR$/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp" afterPath="$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h" afterPath="$PROJECT_DIR$/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/sergiotest.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/sergiotest.cbp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -38,52 +36,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReverseWords.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextJustification_LC68.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-384">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextJustification_LC68.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="14" column="77" lean-forward="false" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="98" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniquePaths_LC62.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SumBinaryTree.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-714">
+            <state relative-caret-position="-437">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniqueBucket.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding>
+                <element signature="e#122#146#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,49 +61,33 @@
       <file leaf-file-name="SumBinaryTree.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
+            <state relative-caret-position="255">
               <caret line="65" column="9" lean-forward="false" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindInOrderSuccessor.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h">
+      <file leaf-file-name="SubarrayWithGivenSum.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SubarrayWithGivenSum/SubarrayWithGivenSum.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-              <folding />
+            <state relative-caret-position="405">
+              <caret line="89" column="5" lean-forward="true" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
+              <folding>
+                <element signature="e#85#102#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderOfPeopleHeights.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp">
+      <file leaf-file-name="HashTable.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductsOfOtherNumbers.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProductsOfOtherNumbers.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-850">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="51">
+              <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <folding>
+                <element signature="e#63#81#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,7 +96,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>(int</find>
       <find>at</find>
       <find>at(</find>
       <find>lastI</find>
@@ -172,6 +125,7 @@
       <find>HashTable&lt;K, V, HashGenerator&gt;::HashTableBucket::</find>
       <find>uniquebuck</find>
       <find>(lock)</find>
+      <find>endl</find>
     </findStrings>
     <replaceStrings>
       <replace>copy</replace>
@@ -191,6 +145,7 @@
       <replace>sortedWord</replace>
       <replace>UniqueBucket&lt;K,V&gt;::</replace>
       <replace>(lck)</replace>
+      <replace>std::endl</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -199,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataStructures/Utility/Utility.cpp" />
         <option value="$PROJECT_DIR$/cracking_code_interview/solutions1.h" />
         <option value="$PROJECT_DIR$/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperMatrix.cpp" />
         <option value="$PROJECT_DIR$/Tests/Test_Solutions/InterviewProblems/SumOfSubarrays/Test_SumOfContiguousSubarrays.cpp" />
@@ -215,7 +169,6 @@
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h" />
         <option value="$PROJECT_DIR$/Tests/Test_Solutions/InterviewProblems/CodingProblems/ProductsOfOtherNumbers.cpp" />
-        <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp" />
         <option value="$PROJECT_DIR$/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp" />
         <option value="$PROJECT_DIR$/DataStructures/JRLinkedList/JRLinkedListNode.h" />
         <option value="$PROJECT_DIR$/DataStructures/JRStack/Stack.h" />
@@ -248,8 +201,10 @@
         <option value="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h" />
         <option value="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp" />
-        <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp" />
+        <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h" />
+        <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp" />
+        <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/SubarrayWithGivenSum/SubarrayWithGivenSum.h" />
       </list>
     </option>
   </component>
@@ -330,61 +285,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ProductsOfOtherNumbers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sergiotest" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sergiotest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataStructures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sergiotest" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sergiotest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataStructures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JRHashTable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sergiotest" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sergiotest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataStructures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JRHashTable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UniqueBucket" />
+              <option name="myItemId" value="SubarrayWithGivenSum" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -692,7 +593,7 @@
       <workItem from="1511736763670" duration="28140000" />
       <workItem from="1512009004064" duration="26785000" />
       <workItem from="1512329061398" duration="12886000" />
-      <workItem from="1512404932306" duration="35182000" />
+      <workItem from="1512404932306" duration="44338000" />
     </task>
     <task id="LOCAL-00001" summary="added permutation without dups implementation &amp; tests">
       <created>1508797990397</created>
@@ -705,7 +606,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="434858000" />
+    <option name="totallyTimeSpent" value="444014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -812,28 +713,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRStack/Stack.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-833">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="62" lean-forward="false" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/StringRepetitions/StringRepetitionsToContainSubstring.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="88" lean-forward="false" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SumOfSubarrays/SumOfSubarrays.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1128,28 +1007,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="83" column="1" lean-forward="false" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
-          <folding>
-            <element signature="e#63#81#0" expanded="true" />
-            <element signature="e#173#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="e#69#87#0" expanded="true" />
-            <element signature="e#122#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/ReverseWords/ReverseWords.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1174,14 +1031,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="14" column="77" lean-forward="false" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="98" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/UniquePaths_LC62/UniquePaths_LC62.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1190,51 +1039,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="9" lean-forward="false" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="-221">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/ProductsOfOtherNumbers/ProductsOfOtherNumbers.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-850">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="51" column="13" lean-forward="false" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/TextJustification_LC68/TextJustification_LC68.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="14" column="77" lean-forward="false" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="84" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SingleNumber2/SingleNumber2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="65" column="9" lean-forward="false" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#122#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="e#63#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SubarrayWithGivenSum/SubarrayWithGivenSum.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="89" column="5" lean-forward="true" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
+          <folding>
+            <element signature="e#85#102#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
