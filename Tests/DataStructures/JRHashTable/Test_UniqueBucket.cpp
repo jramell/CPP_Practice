@@ -3,12 +3,12 @@
 
 #include "gtest/gtest.h"
 
-TEST(Test_JRVector, Empty) {
+TEST(Test_UniqueBucket, Empty) {
     UniqueBucket<int, int> bucket;
     EXPECT_EQ(true, bucket.empty());
 }
 
-TEST(Test_JRVector, InsertEmpty) {
+TEST(Test_UniqueBucket, InsertEmpty) {
     UniqueBucket<int, int> bucket;
     std::pair<int, int> p(1, 10);
     bucket.insert(p);
@@ -16,7 +16,7 @@ TEST(Test_JRVector, InsertEmpty) {
     ASSERT_EQ(false, bucket.empty());
 }
 
-TEST(Test_JRVector, InsertSeveralUnique) {
+TEST(Test_UniqueBucket, InsertSeveralUnique) {
     UniqueBucket<int, int> bucket;
     for(int i = 0; i < 10; i++) {
         std::pair<int, int> p(i, i);
@@ -29,7 +29,7 @@ TEST(Test_JRVector, InsertSeveralUnique) {
     ASSERT_EQ(false, bucket.empty());
 }
 
-TEST(Test_JRVector, InsertSeveralDuplicate) {
+TEST(Test_UniqueBucket, InsertSeveralDuplicate) {
     UniqueBucket<int, int> bucket;
     bucket.insert(std::pair<int, int>(1, 50));
     for(int i = 0; i < 10; i++) {
@@ -43,12 +43,12 @@ TEST(Test_JRVector, InsertSeveralDuplicate) {
     EXPECT_EQ(false, bucket.empty());
 }
 
-TEST(Test_JRVector, At_NonExistantEmpty) {
+TEST(Test_UniqueBucket, At_NonExistantEmpty) {
     UniqueBucket<int, int> bucket;
     ASSERT_THROW(bucket.at(10), std::out_of_range);
 }
 
-TEST(Test_JRVector, At_NonExistantAfterInserting) {
+TEST(Test_UniqueBucket, At_NonExistantAfterInserting) {
     UniqueBucket<int, int> bucket;
     for(int i = 0; i < 2; i++) {
         bucket.insert(std::pair<int, int>(i, i));
@@ -56,7 +56,7 @@ TEST(Test_JRVector, At_NonExistantAfterInserting) {
     ASSERT_THROW(bucket.at(10), std::out_of_range);
 }
 
-TEST(Test_JRVector, At_Existant) {
+TEST(Test_UniqueBucket, At_Existant) {
     UniqueBucket<int, int> bucket;
     std::pair<int, int> justInserted(55, 100);
     auto result = bucket.insert(justInserted);
@@ -64,7 +64,7 @@ TEST(Test_JRVector, At_Existant) {
    ASSERT_EQ(insertedPair.second, bucket.at(55));
 }
 
-TEST(Test_JRVector, At_SeveralExistantUnique) {
+TEST(Test_UniqueBucket, At_SeveralExistantUnique) {
     UniqueBucket<int, int> bucket;
     for(int i = 0; i < 10; i++) {
         std::pair<int, int> justInserted(i, i);
@@ -75,7 +75,7 @@ TEST(Test_JRVector, At_SeveralExistantUnique) {
     }
 }
 
-TEST(Test_JRVector, At_SeveralExistantDuplicate) {
+TEST(Test_UniqueBucket, At_SeveralExistantDuplicate) {
     using std::string;
     UniqueBucket<int, string> bucket;
     bucket.insert(std::pair<int, string>(1, "test"));
@@ -85,5 +85,40 @@ TEST(Test_JRVector, At_SeveralExistantDuplicate) {
         std::pair<int, string>& originalPair = result.first;
         EXPECT_EQ("test", originalPair.second);
         ASSERT_EQ(originalPair.second, bucket.at(1));
+    }
+}
+
+TEST(Test_UniqueBucket, EraseEmpty) {
+    using std::string;
+    UniqueBucket<int, string> bucket;
+    ASSERT_EQ(false, bucket.erase(1));
+}
+
+TEST(Test_UniqueBucket, EraseNonExistant) {
+    using std::string;
+    UniqueBucket<int, string> bucket;
+    for(int i = 0; i < 5; i++) {
+        bucket.insert(std::pair<int, string>(i, "All Might"));
+    }
+    ASSERT_EQ(false, bucket.erase(9));
+}
+
+TEST(Test_UniqueBucket, EraseExistant) {
+    using std::string;
+    UniqueBucket<int, string> bucket;
+    for(int i = 0; i < 5; i++) {
+        bucket.insert(std::pair<int, string>(i, "All Might"));
+    }
+    ASSERT_EQ(true, bucket.erase(2));
+}
+
+TEST(Test_UniqueBucket, EraseAllExistant) {
+    using std::string;
+    UniqueBucket<int, string> bucket;
+    for(int i = 0; i < 5; i++) {
+        bucket.insert(std::pair<int, string>(i, "All Might"));
+    }
+    for(int i = 0; i < 5; i++) {
+        ASSERT_EQ(true, bucket.erase(i));
     }
 }

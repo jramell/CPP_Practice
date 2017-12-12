@@ -42,6 +42,8 @@ namespace jr {
                         swapIndex = i;
                     } else {
                         swapCharacters(word1, swapIndex, i);
+                        //could be optimized by storing a count of unmatched characters, then if count is
+                        //exactly 2 and word1[swapIndex] == word2[i] && word2[swapIndex] == word1[i], return true.
                         return word1 == word2;
                     }
                 }

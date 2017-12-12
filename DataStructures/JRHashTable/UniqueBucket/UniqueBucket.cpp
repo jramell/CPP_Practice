@@ -19,7 +19,7 @@ V& UniqueBucket<K,V>::at(const K& key) {
 }
 
 template<typename K, typename V>
-std::pair<std::pair<K,V>&, bool> UniqueBucket<K,V>::insert(std::pair<K,V> keyValuePair) {
+std::pair<std::pair<K,V>&, bool> UniqueBucket<K,V>::insert(const std::pair<K,V>& keyValuePair) {
     for(auto& pair : elements) {
         if(pair.first == keyValuePair.first) {
             return std::pair<std::pair<K,V>&, bool>(pair, false);
@@ -28,4 +28,25 @@ std::pair<std::pair<K,V>&, bool> UniqueBucket<K,V>::insert(std::pair<K,V> keyVal
     elements.push_front(keyValuePair);
     _size++;
     return std::pair<std::pair<K,V>&, bool>(elements.front(), true);
+};
+
+template<typename K, typename V>
+bool UniqueBucket<K,V>::erase(const K& key) {
+    for(auto& pair : elements) {
+        if(pair.first == key) {
+            elements.remove(pair);
+            return true;
+        }
+    }
+    return false;
+};
+
+template<typename K, typename V>
+typename UniqueBucket<K,V>::iterator UniqueBucket<K,V>::begin() {
+    return elements.begin();
+};
+
+template<typename K, typename V>
+typename UniqueBucket<K,V>::iterator UniqueBucket<K,V>::end() {
+    return elements.end();
 };

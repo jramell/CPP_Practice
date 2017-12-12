@@ -16,10 +16,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7951684-4491-434f-8e40-0e80aa4f4159" name="Default" comment="added permutation without dups implementation &amp; tests">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InterviewProblems/CodingProblems/MetaStrings/MetaStrings.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/sergiotest.exe" afterPath="$PROJECT_DIR$/cmake-build-debug/sergiotest.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/sergiotest.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/sergiotest.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp" afterPath="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h" afterPath="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp" afterPath="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h" afterPath="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp" afterPath="$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterviewProblems/CodingProblems/MetaStrings/MetaStrings.h" afterPath="$PROJECT_DIR$/InterviewProblems/CodingProblems/MetaStrings/MetaStrings.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp" afterPath="$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,12 +42,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SumBinaryTree.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.h">
+      <file leaf-file-name="UniqueBucket.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-437">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="244">
+              <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+              <folding>
+                <element signature="e#481#505#0" expanded="true" />
+                <element signature="e#898#922#0" expanded="true" />
+                <element signature="e#1140#1164#0" expanded="true" />
+                <element signature="e#1272#1296#0" expanded="true" />
+                <marker date="1513055284757" expanded="true" signature="195:221" ph="{...}" />
+                <marker date="1513055284757" expanded="true" signature="295:471" ph="{...}" />
+                <marker date="1513055284757" expanded="true" signature="601:887" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,75 +63,13 @@
       <file leaf-file-name="UniqueBucket.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="391">
+              <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
               <folding>
+                <element signature="e#69#87#0" expanded="true" />
                 <element signature="e#122#146#0" expanded="true" />
+                <marker date="1513055547318" expanded="true" signature="167:1659" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumBinaryTree.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="65" column="9" lean-forward="false" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubarrayWithGivenSum.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SubarrayWithGivenSum/SubarrayWithGivenSum.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="89" column="5" lean-forward="false" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-              <folding>
-                <element signature="e#85#102#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10.4.SortedSearchNoSizeMine.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cracking_code_interview/10.4.SortedSearchNoSize/10.4.SortedSearchNoSizeMine.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-323">
-              <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaximumIndex.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/MaximumIndex/MaximumIndex.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="40" lean-forward="false" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumberOfStringsWithLength.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/NumberOfStringsWithLengthWithConstraints/NumberOfStringsWithLength.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="72" selection-end-column="43" />
-              <folding>
-                <marker date="1513047924579" expanded="true" signature="684:786" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MetaStrings.h" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/MetaStrings/MetaStrings.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -124,10 +77,35 @@
       <file leaf-file-name="HashTable.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <state relative-caret-position="102">
+              <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
               <folding>
                 <element signature="e#63#81#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashTable.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding>
+                <element signature="e#200#248#0" expanded="true" />
+                <element signature="e#572#620#0" expanded="true" />
+                <element signature="e#698#746#0" expanded="true" />
+                <element signature="e#1081#1129#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,11 +115,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>lastI</find>
-      <find>lastIndex</find>
-      <find>ReverseString</find>
-      <find>&lt;</find>
-      <find>&gt;</find>
       <find>HashTable.h</find>
       <find>itera</find>
       <find>iterat</find>
@@ -158,7 +131,6 @@
       <find>back()</find>
       <find>begin</find>
       <find>remove</find>
-      <find>elements</find>
       <find>insert</find>
       <find>copy</find>
       <find>HashTable&lt;K, V, HashGenerator&gt;::HashTableBucket::</find>
@@ -167,6 +139,12 @@
       <find>endl</find>
       <find>vector</find>
       <find>string</find>
+      <find>emplace</find>
+      <find>erase</find>
+      <find>elements</find>
+      <find>Test_JRVector</find>
+      <find>Graph|</find>
+      <find>Graph</find>
     </findStrings>
     <replaceStrings>
       <replace>copy</replace>
@@ -189,6 +167,7 @@
       <replace>std::endl</replace>
       <replace>std::vector</replace>
       <replace>std::string</replace>
+      <replace>Test_UniqueBucket</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -197,7 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Tests/Test_Solutions/InterviewProblems/Test_MinesweeperBoard/Test_MinesweeperBoard.cpp" />
         <option value="$PROJECT_DIR$/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp" />
         <option value="$PROJECT_DIR$/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/ArrayIndex&amp;ElementEquality/ArrayIndex&amp;ElementEquality.cpp" />
@@ -215,7 +193,6 @@
         <option value="$PROJECT_DIR$/DataStructures/JRStack/StackNode.h" />
         <option value="$PROJECT_DIR$/Tests/DataStructures/Test_JRVector.cpp" />
         <option value="$PROJECT_DIR$/DataStructures/JRVector/JRVector.h" />
-        <option value="$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp" />
         <option value="$PROJECT_DIR$/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp" />
         <option value="$PROJECT_DIR$/cracking_code_interview/10.2.GroupAnagrams/GroupAnagrams.h" />
@@ -226,9 +203,6 @@
         <option value="$PROJECT_DIR$/DataStructures/JRLinkedList/JRLinkedList.h" />
         <option value="$PROJECT_DIR$/DataStructures/JRLinkedList/JRLinkedList.cpp" />
         <option value="$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_HashTableBucket.cpp" />
-        <option value="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h" />
-        <option value="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp" />
-        <option value="$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Multithreading/Multithreading Test/main.cpp" />
@@ -238,8 +212,6 @@
         <option value="$PROJECT_DIR$/Tests/Test_Solutions/CrackingTheCodeInterview/Test_10.3.SearchInRotatedArray.cpp" />
         <option value="$PROJECT_DIR$/cracking_code_interview/10.3.SearchInRotatedArray/10.3.SearchInRotatedArray.h" />
         <option value="$PROJECT_DIR$/cracking_code_interview/10.4.SortedSearchNoSize/10.4.SortedSearchNoSizeMine.h" />
-        <option value="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h" />
-        <option value="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/SumBinaryTree/SumBinaryTree.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/OrderOfPeopleHeights/OrderOfPeopleHeights.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h" />
@@ -248,6 +220,13 @@
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/MaximumIndex/MaximumIndex.h" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/NumberOfStringsWithLengthWithConstraints/NumberOfStringsWithLength.h" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/MetaStrings/MetaStrings.h" />
+        <option value="$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h" />
+        <option value="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h" />
+        <option value="$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp" />
+        <option value="$PROJECT_DIR$/DataStructures/JRGraph/Graph.h" />
       </list>
     </option>
   </component>
@@ -302,11 +281,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewProblems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CodingProblems" />
+              <option name="myItemId" value="Tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -320,15 +295,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="InterviewProblems" />
+              <option name="myItemId" value="Tests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CodingProblems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MetaStrings" />
+              <option name="myItemId" value="DataStructures" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,7 +313,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cracking_code_interview" />
+              <option name="myItemId" value="Tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataStructures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JRHashTable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergiotest" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergiotest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataStructures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JRVector" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergiotest" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergiotest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataStructures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergiotest" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sergiotest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataStructures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JRGraph" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -360,15 +389,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sergio\Documents\CPP\sergiotest\Tests\JRDoublyLinkedList" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Sergio\Documents\CPP\sergiotest\Tests\Test_Solutions\InterviewProblems\CodingProblems" />
       <recent name="C:\Users\Sergio\Documents\CPP\sergiotest\InterviewProblems\CodingProblems" />
       <recent name="C:\Users\Sergio\Documents\CPP\sergiotest\Tests\DataStructures" />
       <recent name="C:\Users\Sergio\Documents\CPP\sergiotest\Tests\Test_Solutions\InterviewProblems\SumOfSubarrays" />
       <recent name="C:\Users\Sergio\Documents\CPP\sergiotest\Tests\Test_Solutions\InterviewProblems" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Sergio\Documents\CPP\sergiotest\Tests\JRDoublyLinkedList" />
     </key>
   </component>
   <component name="RunManager" selected="Application.sergiotest">
@@ -650,7 +679,7 @@
       <workItem from="1511736763670" duration="28140000" />
       <workItem from="1512009004064" duration="26785000" />
       <workItem from="1512329061398" duration="12886000" />
-      <workItem from="1512404932306" duration="49814000" />
+      <workItem from="1512404932306" duration="55805000" />
     </task>
     <task id="LOCAL-00001" summary="added permutation without dups implementation &amp; tests">
       <created>1508797990397</created>
@@ -663,20 +692,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="449490000" />
+    <option name="totallyTimeSpent" value="455481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3564669" sideWeight="0.74963397" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.49121523" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40851736" sideWeight="0.52122986" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40851736" sideWeight="0.47877014" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40851736" sideWeight="0.47877014" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26793557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3422713" sideWeight="0.7657394" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -741,64 +770,35 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp</url>
-          <line>84</line>
+          <line>82</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp</url>
-          <line>88</line>
+          <line>86</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp</url>
-          <line>92</line>
+          <line>90</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp</url>
-          <line>93</line>
+          <line>91</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp</url>
-          <line>81</line>
+          <line>79</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="50" />
+      <option name="time" value="51" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="132" column="17" lean-forward="false" selection-start-line="132" selection-start-column="17" selection-end-line="132" selection-end-column="17" />
-          <folding>
-            <element signature="e#3134#3146#0" expanded="true" />
-            <element signature="e#3210#3222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cracking_code_interview/10.1.SortedMerge/CTCI10.1.SortedMerge.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="54" lean-forward="false" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding>
-            <element signature="e#1646#1663#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cracking_code_interview/10.2.GroupAnagrams/GroupAnagrams.cpp" />
     <entry file="file://$PROJECT_DIR$/cracking_code_interview/10.2.GroupAnagrams/GroupAnagrams.h" />
     <entry file="file://$PROJECT_DIR$/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp">
@@ -854,13 +854,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRLinkedList/JRLinkedList.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="163" column="0" lean-forward="true" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_HashTableBucket.cpp" />
     <entry file="file://$PROJECT_DIR$/Tests/DataStructures/Test_JRVector.cpp">
       <provider selected="true" editor-type-id="text-editor">
@@ -869,14 +862,6 @@
           <folding>
             <element signature="e#0#24#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,38 +875,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="88" column="1" lean-forward="false" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#17#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/functional">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="1504" column="0" lean-forward="false" selection-start-line="1504" selection-start-column="0" selection-end-line="1504" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRVector/JRVector.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#89#101#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRLinkedList/JRLinkedList.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -1008,28 +965,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-78">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-            <element signature="e#55#79#0" expanded="false" />
-            <element signature="e#138#162#0" expanded="false" />
-            <element signature="e#231#255#0" expanded="false" />
-            <element signature="e#481#505#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1138,32 +1073,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#122#146#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-          <folding>
-            <element signature="e#63#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/SubarrayWithGivenSum/SubarrayWithGivenSum.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="89" column="5" lean-forward="false" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
           <folding>
-            <element signature="e#85#102#0" expanded="true" />
+            <element signature="e#85#102#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1196,8 +1111,126 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/MetaStrings/MetaStrings.h">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="45" column="114" lean-forward="false" selection-start-line="45" selection-start-column="114" selection-end-line="45" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-34">
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#3125#3137#0" expanded="false" />
+            <element signature="e#3201#3213#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRLinkedList/JRLinkedList.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRVector/JRVector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <element signature="e#481#505#0" expanded="true" />
+            <element signature="e#898#922#0" expanded="true" />
+            <element signature="e#1140#1164#0" expanded="true" />
+            <element signature="e#1272#1296#0" expanded="true" />
+            <marker date="1513055284757" expanded="true" signature="195:221" ph="{...}" />
+            <marker date="1513055284757" expanded="true" signature="295:471" ph="{...}" />
+            <marker date="1513055284757" expanded="true" signature="601:887" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="111" column="20" lean-forward="false" selection-start-line="111" selection-start-column="20" selection-end-line="111" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRLinkedList/JRLinkedList.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+          <folding>
+            <element signature="e#69#87#0" expanded="true" />
+            <element signature="e#122#146#0" expanded="true" />
+            <marker date="1513055547318" expanded="true" signature="167:1659" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="e#200#248#0" expanded="true" />
+            <element signature="e#572#620#0" expanded="true" />
+            <element signature="e#698#746#0" expanded="true" />
+            <element signature="e#1081#1129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRGraph/Graph.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRGraph/Graph.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
           <folding />
         </state>
       </provider>

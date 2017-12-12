@@ -4,9 +4,7 @@
 using jr::JRVector;
 
 template <typename T>
-JRVector<T>::JRVector() {
-    _size = 0;
-    _capacity = 25;
+JRVector<T>::JRVector() : _size(0), _capacity(25) {
     elements = new T[_capacity];
 }
 

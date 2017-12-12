@@ -8,6 +8,9 @@
 namespace jr {
     template<typename K, typename V, typename HashGenerator = std::hash<K>>
     class HashTable {
+        const int DEFAULT_CAPACITY = 25;
+        const float DEFAULT_MAX_LOAD_FACTOR = 0.75f;
+
         UniqueBucket<K,V>* buckets;
         /**
          * Size of the underlying container
@@ -40,15 +43,9 @@ namespace jr {
 
     public:
         /**
-         * Initializes Hash Table with default capacity
+         * Creates HashTable with the indicated initialCapacity and maxLoadFactor.
          */
-        HashTable();
-
-        /**
-         * Initializes Hash Table with capacity initialCapacity
-         * @param initialCapacity
-         */
-        HashTable(std::size_t initialCapacity);
+        HashTable(int initialCapacity = DEFAULT_CAPACITY, float maxLoadFactor = DEFAULT_MAX_LOAD_FACTOR);
 
         ~HashTable();
 
@@ -72,7 +69,7 @@ namespace jr {
          *          value will be false. Otherwise, returns iterator to pair whose first value is the newly inserted
          *          key-value pair, and whose second parameter would be true.
          */
-        std::pair<const std::pair<K,V>&, bool> emplace(K key, V value);
+        std::pair<std::pair<K,V>&, bool> emplace(K key, V value);
 
         /**
          * If there's an element with key key in the HashTable, erases it and returns true. Otherwise, returns false.

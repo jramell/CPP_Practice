@@ -6,6 +6,8 @@
 
 template <typename K, typename V>
 struct UniqueBucket {
+    using iterator = typename std::forward_list<std::pair<K,V>>::iterator;
+
     int _size;
     std::forward_list<std::pair<K,V>> elements;
 
@@ -31,7 +33,17 @@ struct UniqueBucket {
      * @param keyValuePair
      * @return
      */
-    std::pair<std::pair<K,V>&, bool> insert(std::pair<K,V> keyValuePair);
+    std::pair<std::pair<K,V>&, bool> insert(const std::pair<K,V>& keyValuePair);
+
+    /**
+     * If there's an element with key key in the bucket, erases it and returns true. Otherwise, returns false.
+     * @param key key of the element to be erased.
+     * @return true if there was an element with key key in the HashTable and it was erased, false if there wasn't such an element.
+     */
+    bool erase(const K& key);
+
+    iterator begin();
+    iterator end();
 };
 
 #include "UniqueBucket.cpp"
