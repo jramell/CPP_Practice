@@ -43,17 +43,17 @@ namespace jr {
         minFromLeft.at(0) = numbers.at(0);
         maxFromRight.at(numbers.size()-1) = numbers.back();
         for(int i = 1; i < numbers.size(); i++) {
-            minFromLeft.at(i) = min(numbers.at(i), minFromLeft.at(i-1));
+            minFromLeft.at(i) = std::min(numbers.at(i), minFromLeft.at(i-1));
         }
         for(int i = numbers.size()-2; i >= 0; i--) {
-            maxFromRight.at(i) = max(numbers.at(i), maxFromRight.at(i+1));
+            maxFromRight.at(i) = std::max(numbers.at(i), maxFromRight.at(i+1));
         }
         int i = 0;
         int j = 0;
         int maximumIndex = 0;
         while(j < numbers.size()) {
             if(maxFromRight.at(j) >= minFromLeft.at(i)) {
-                maximumIndex = max(maximumIndex, j - i);
+                maximumIndex = std::max(maximumIndex, j - i);
                 j++;
             } else {
                 i++;
