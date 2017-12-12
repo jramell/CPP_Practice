@@ -478,6 +478,18 @@ Search.h
 vector
 -
 
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp
+AdjMatrGraph.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.h
+queue
+-
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.h
+vector
+-
+climits
+-
+
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp
 stdexcept
 -
@@ -711,6 +723,12 @@ vector
 -
 iostream
 -
+
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp
+gtest/gtest.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRGraph/gtest/gtest.h
+../../../DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.h
+/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.h
 
 /cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp
 string

@@ -16,17 +16,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7951684-4491-434f-8e40-0e80aa4f4159" name="Default" comment="added permutation without dups implementation &amp; tests">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/Tests/DataStructures/Test_JRVector.cpp.o" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/sergiotest.exe" afterPath="$PROJECT_DIR$/cmake-build-debug/sergiotest.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/sergiotest.exe" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp" afterPath="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h" afterPath="$PROJECT_DIR$/DataStructures/JRHashTable/HashTable.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp" afterPath="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h" afterPath="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp" afterPath="$PROJECT_DIR$/DataStructures/JRVector/JRVector.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InterviewProblems/CodingProblems/MetaStrings/MetaStrings.h" afterPath="$PROJECT_DIR$/InterviewProblems/CodingProblems/MetaStrings/MetaStrings.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp" afterPath="$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/DependInfo.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/build.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/cmake_clean.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/link.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/sergiotest.dir/progress.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/sergiotest.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/sergiotest.cbp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,11 +90,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <file leaf-file-name="AdjMatrGraph.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+            <state relative-caret-position="266">
+              <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdjMatrGraph.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+              <folding>
+                <element signature="e#69#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_AdjMatrGraph.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="58" column="25" lean-forward="false" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_JRVector.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/DataStructures/Test_JRVector.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -122,7 +162,6 @@
       <find>Both</find>
       <find>JRLinkedListNode&lt;T&gt;</find>
       <find>_size</find>
-      <find>empty</find>
       <find>JRLInkedList()</find>
       <find>push_back</find>
       <find>front</find>
@@ -137,7 +176,6 @@
       <find>uniquebuck</find>
       <find>(lock)</find>
       <find>endl</find>
-      <find>vector</find>
       <find>string</find>
       <find>emplace</find>
       <find>erase</find>
@@ -145,6 +183,8 @@
       <find>Test_JRVector</find>
       <find>Graph|</find>
       <find>Graph</find>
+      <find>vector</find>
+      <find>empty</find>
     </findStrings>
     <replaceStrings>
       <replace>copy</replace>
@@ -165,9 +205,10 @@
       <replace>UniqueBucket&lt;K,V&gt;::</replace>
       <replace>(lck)</replace>
       <replace>std::endl</replace>
-      <replace>std::vector</replace>
       <replace>std::string</replace>
       <replace>Test_UniqueBucket</replace>
+      <replace>std::vector</replace>
+      <replace>test</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -176,9 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Tests/Test_Solutions/InterviewProblems/Test_BreakIntoWords.cpp" />
-        <option value="$PROJECT_DIR$/Tests/Test_Solutions/InterviewProblems/Test_StringRepetitionsToContainSubstring.cpp" />
-        <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/ArrayIndex&amp;ElementEquality/ArrayIndex&amp;ElementEquality.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/MaxStockProfit_LC714/LC714.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/AppleStocks/AppleStocks.h" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp" />
@@ -204,7 +242,6 @@
         <option value="$PROJECT_DIR$/DataStructures/JRLinkedList/JRLinkedList.cpp" />
         <option value="$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_HashTableBucket.cpp" />
         <option value="$PROJECT_DIR$/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/Multithreading/Multithreading Test/main.cpp" />
         <option value="$PROJECT_DIR$/Multithreading/Multithreading Test/threaded_printer.h" />
         <option value="$PROJECT_DIR$/Multithreading/Multithreading Test/producer_consumer.h" />
@@ -227,6 +264,10 @@
         <option value="$PROJECT_DIR$/DataStructures/JRHashTable/UniqueBucket/UniqueBucket.h" />
         <option value="$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp" />
         <option value="$PROJECT_DIR$/DataStructures/JRGraph/Graph.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.h" />
+        <option value="$PROJECT_DIR$/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp" />
+        <option value="$PROJECT_DIR$/Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp" />
       </list>
     </option>
   </component>
@@ -321,7 +362,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="JRHashTable" />
+              <option name="myItemId" value="JRGraph" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,6 +413,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JRGraph" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdjacencyMatrix" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -679,7 +724,7 @@
       <workItem from="1511736763670" duration="28140000" />
       <workItem from="1512009004064" duration="26785000" />
       <workItem from="1512329061398" duration="12886000" />
-      <workItem from="1512404932306" duration="55805000" />
+      <workItem from="1512404932306" duration="59290000" />
     </task>
     <task id="LOCAL-00001" summary="added permutation without dups implementation &amp; tests">
       <created>1508797990397</created>
@@ -692,11 +737,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="455481000" />
+    <option name="totallyTimeSpent" value="458966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3564669" sideWeight="0.74963397" order="7" side_tool="false" content_ui="tabs" />
@@ -705,7 +750,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40851736" sideWeight="0.47877014" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26793557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26793557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3422713" sideWeight="0.7657394" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -799,18 +844,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cracking_code_interview/10.2.GroupAnagrams/GroupAnagrams.cpp" />
-    <entry file="file://$PROJECT_DIR$/cracking_code_interview/10.2.GroupAnagrams/GroupAnagrams.h" />
-    <entry file="file://$PROJECT_DIR$/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsOptimal.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#17#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cracking_code_interview/10.2.GroupAnagrams/GroupAnagramsMine.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-442">
@@ -855,16 +888,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/DataStructures/JRHashTable/Test_HashTableBucket.cpp" />
-    <entry file="file://$PROJECT_DIR$/Tests/DataStructures/Test_JRVector.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/InterviewProblems/CodingProblems/LongestIncreasingSubsequence/LongestIncreasingSubsequence.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1230,8 +1253,46 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/DataStructures/Test_JRVector.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="43" column="21" lean-forward="false" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding>
+            <element signature="e#69#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="43" column="26" lean-forward="true" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="58" column="25" lean-forward="false" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

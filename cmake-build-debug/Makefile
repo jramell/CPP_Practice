@@ -273,6 +273,33 @@ Algorithms/Search.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Algorithms/Search.cpp.s
 .PHONY : Algorithms/Search.cpp.s
 
+DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.o: DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.o
+
+.PHONY : DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.o
+
+# target to build an object file
+DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.o
+.PHONY : DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.o
+
+DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.i: DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.i
+
+.PHONY : DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.i
+
+# target to preprocess a source file
+DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.i
+.PHONY : DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.i
+
+DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.s: DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.s
+
+.PHONY : DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.s
+
+# target to generate assembly for a file
+DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.s
+.PHONY : DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.cpp.s
+
 DataStructures/JRQueue/Queue.o: DataStructures/JRQueue/Queue.cpp.o
 
 .PHONY : DataStructures/JRQueue/Queue.o
@@ -866,6 +893,33 @@ OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.s: OtherProblems/Toy3DSurfaceAre
 OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.s:
 	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.s
 .PHONY : OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.cpp.s
+
+Tests/DataStructures/JRGraph/Test_AdjMatrGraph.o: Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.o
+
+.PHONY : Tests/DataStructures/JRGraph/Test_AdjMatrGraph.o
+
+# target to build an object file
+Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.o:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.o
+.PHONY : Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.o
+
+Tests/DataStructures/JRGraph/Test_AdjMatrGraph.i: Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.i
+
+.PHONY : Tests/DataStructures/JRGraph/Test_AdjMatrGraph.i
+
+# target to preprocess a source file
+Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.i:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.i
+.PHONY : Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.i
+
+Tests/DataStructures/JRGraph/Test_AdjMatrGraph.s: Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.s
+
+.PHONY : Tests/DataStructures/JRGraph/Test_AdjMatrGraph.s
+
+# target to generate assembly for a file
+Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.s:
+	$(MAKE) -f CMakeFiles/sergiotest.dir/build.make CMakeFiles/sergiotest.dir/Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.s
+.PHONY : Tests/DataStructures/JRGraph/Test_AdjMatrGraph.cpp.s
 
 Tests/DataStructures/JRHashTable/Test_UniqueBucket.o: Tests/DataStructures/JRHashTable/Test_UniqueBucket.cpp.o
 
@@ -1592,6 +1646,9 @@ help:
 	@echo "... Algorithms/Search.o"
 	@echo "... Algorithms/Search.i"
 	@echo "... Algorithms/Search.s"
+	@echo "... DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.o"
+	@echo "... DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.i"
+	@echo "... DataStructures/JRGraph/AdjacencyMatrix/AdjMatrGraph.s"
 	@echo "... DataStructures/JRQueue/Queue.o"
 	@echo "... DataStructures/JRQueue/Queue.i"
 	@echo "... DataStructures/JRQueue/Queue.s"
@@ -1658,6 +1715,9 @@ help:
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.o"
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.i"
 	@echo "... OtherProblems/Toy3DSurfaceArea/Toy3DSurfaceArea.s"
+	@echo "... Tests/DataStructures/JRGraph/Test_AdjMatrGraph.o"
+	@echo "... Tests/DataStructures/JRGraph/Test_AdjMatrGraph.i"
+	@echo "... Tests/DataStructures/JRGraph/Test_AdjMatrGraph.s"
 	@echo "... Tests/DataStructures/JRHashTable/Test_UniqueBucket.o"
 	@echo "... Tests/DataStructures/JRHashTable/Test_UniqueBucket.i"
 	@echo "... Tests/DataStructures/JRHashTable/Test_UniqueBucket.s"
