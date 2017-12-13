@@ -23,10 +23,15 @@ void runTests(int argc, char* argv[])
 using namespace std;
 
 #include "Multithreading/Multithreading Test/producer_consumer.h"
+#include "cracking_code_interview/8.9.Parens/8.9.Parens.h"
 
 int main(int argc, char* argv[])
 {
 /*    jr::ProducerConsumerTest m;
     m.producedConsumerTest();*/
-   runTests(argc, argv);
+    vector<string> testParens = possibleParens(3);
+    for(string pos : testParens) {
+        cout << pos << ", ";
+    }
+   //runTests(argc, argv);
 }

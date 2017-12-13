@@ -382,6 +382,12 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.h">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/Find2UniqueInArrayOfDuplicates/Find2UniqueInArrayOfDuplicatesBothLinear.h">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/Find2UniqueInArrayOfDuplicates/Find2UniqueInArrayOptimal.h">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h">
 			<Option target="sergiotest"/>
 		</Unit>
@@ -569,6 +575,9 @@
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.8.PermutationsWithoutDups/PermutationsWithoutDups.h">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/8.9.Parens/8.9.Parens.h">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/cracking_code_interview/BalancedBrackets/BalancedBrackets.cpp">
