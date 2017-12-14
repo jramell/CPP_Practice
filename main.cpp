@@ -29,9 +29,9 @@ int main(int argc, char* argv[])
 {
 /*    jr::ProducerConsumerTest m;
     m.producedConsumerTest();*/
-    vector<string> testParens = possibleParens(3);
+/*    vector<string> testParens = possibleParens(3);
     for(string pos : testParens) {
         cout << pos << ", ";
-    }
-   //runTests(argc, argv);
+    }*/
+   runTests(argc, argv);
 }
