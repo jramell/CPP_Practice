@@ -382,6 +382,9 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/ArrayQuadruplet/ArrayQuadrupletOptimal.h">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BSTNodesInRange/BSTNodesInRange.h">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/BreakIntoWords/BreakIntoWords.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
@@ -395,6 +398,9 @@
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/FindInOrderSuccessor/FindInOrderSuccessor.h">
+			<Option target="sergiotest"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/FindTripletsWithZeroSum/FindTripletsWithZeroSum.h">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/Interleaved Strings/InterleavedStringsTopDown.h">
@@ -490,7 +496,7 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/FindTripletsWithZeroSum/FindTripletsWithZeroSum.h">
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/FindDuplicates/FindDuplicates.h">
 			<Option target="sergiotest"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Multithreading/Multithreading Test/producer_consumer.h">
