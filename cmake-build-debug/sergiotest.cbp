@@ -490,6 +490,9 @@
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/CodingProblems/WordCountEngine/WordCountEngine.cpp">
 			<Option target="sergiotest"/>
 		</Unit>
+		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/InterviewProblems/FindTripletsWithZeroSum/FindTripletsWithZeroSum.h">
+			<Option target="sergiotest"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/Sergio/Documents/CPP/sergiotest/Multithreading/Multithreading Test/producer_consumer.h">
 			<Option target="sergiotest"/>
 		</Unit>
